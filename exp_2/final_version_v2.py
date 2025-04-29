@@ -306,7 +306,7 @@ if __name__ == '__main__':
                     print("Episode:", episode, "-----Score:", score,"-----Epsilon:", agent.epsilon)
 
             if (episode % 25 == 0):
-                agent.model.save_weights("./Deep Q-Learning - PACMAN/trial_v2_01.weights.h5")
+                agent.model.save_weights("./Deep Q-Learning - PACMAN/trial_v2_06.weights.h5")
                 print("Saved model to disk")
 
         for i in scores:

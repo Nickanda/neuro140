@@ -51,7 +51,7 @@ class Agent():
         if load_model:
             try:
                 # Make sure the path is correct and matches the new model architecture
-                self.model.load_weights("././Deep Q-Learning - PACMAN/final_version_v2.weights.h5") # Use a new file name
+                self.model.load_weights("././Deep Q-Learning - PACMAN/final_version.weights.h5") # Use a new file name
                 self.target_model.set_weights(self.model.get_weights()) # Sync target model on load
                 print("Model weights loaded successfully.")
             except Exception as e:
@@ -201,8 +201,8 @@ if __name__ == '__main__':
                     print("Episode:", episode, "-----Score:", score,"-----Epsilon:", agent.epsilon)
 
             if (episode % 25 == 0):
-                agent.model.save_weights("./Deep Q-Learning - PACMAN/trial_v1_01.weights.h5")
+                agent.model.save_weights("./Deep Q-Learning - PACMAN/trial_v1_06.weights.h5")
                 print("Saved model to disk")
 
         for i in scores:
-            print(i)
+            print(i) 
