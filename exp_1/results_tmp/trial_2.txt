@@ -1,0 +1,4200 @@
+Episode: 0 -----Score: 320.0 -----Epsilon: 1.0
+Episode: 1 -----Score: 220.0 -----Epsilon: 1.0
+Episode: 2 -----Score: 280.0 -----Epsilon: 0.999236291010294
+Episode: 3 -----Score: 290.0 -----Epsilon: 0.9982275708371164
+Episode: 4 -----Score: 270.0 -----Epsilon: 0.9972039135517917
+Episode: 5 -----Score: 210.0 -----Epsilon: 0.9962370937722532
+Episode: 6 -----Score: 290.0 -----Epsilon: 0.9952393631531053
+Episode: 7 -----Score: 180.0 -----Epsilon: 0.9943420610943291
+Episode: 8 -----Score: 350.0 -----Epsilon: 0.9934256993053624
+Episode: 9 -----Score: 210.0 -----Epsilon: 0.9925737047613127
+Episode: 10 -----Score: 190.0 -----Epsilon: 0.9915994748342162
+Episode: 11 -----Score: 160.0 -----Epsilon: 0.9908362363598986
+Episode: 12 -----Score: 240.0 -----Epsilon: 0.9899231054549013
+Episode: 13 -----Score: 150.0 -----Epsilon: 0.9888921417734413
+Episode: 14 -----Score: 310.0 -----Epsilon: 0.9877911282049414
+Episode: 15 -----Score: 270.0 -----Epsilon: 0.9867623848889842
+Episode: 16 -----Score: 320.0 -----Epsilon: 0.9858530083477697
+Episode: 17 -----Score: 280.0 -----Epsilon: 0.9849129521158924
+Episode: 18 -----Score: 270.0 -----Epsilon: 0.9839423055818658
+Episode: 19 -----Score: 220.0 -----Epsilon: 0.9830158674244737
+Episode: 20 -----Score: 350.0 -----Epsilon: 0.982074588226951
+Episode: 21 -----Score: 340.0 -----Epsilon: 0.9809066133818806
+Episode: 22 -----Score: 170.0 -----Epsilon: 0.9797752989127501
+Episode: 23 -----Score: 180.0 -----Epsilon: 0.9789467587032775
+Episode: 24 -----Score: 340.0 -----Epsilon: 0.9778724639836874
+Episode: 25 -----Score: 240.0 -----Epsilon: 0.9770455328934194
+Episode: 26 -----Score: 350.0 -----Epsilon: 0.9758952497552056
+Episode: 27 -----Score: 210.0 -----Epsilon: 0.9748243037570052
+Episode: 28 -----Score: 330.0 -----Epsilon: 0.9737311631616302
+Episode: 29 -----Score: 310.0 -----Epsilon: 0.9726120148385013
+Episode: 30 -----Score: 150.0 -----Epsilon: 0.971987797695917
+Episode: 31 -----Score: 340.0 -----Epsilon: 0.9709289071377585
+Episode: 32 -----Score: 170.0 -----Epsilon: 0.9699254845032858
+Episode: 33 -----Score: 320.0 -----Epsilon: 0.968926974576652
+Episode: 34 -----Score: 600.0 -----Epsilon: 0.9677514097662003
+Episode: 35 -----Score: 180.0 -----Epsilon: 0.9669949232320812
+Episode: 36 -----Score: 280.0 -----Epsilon: 0.9661655965906502
+Episode: 37 -----Score: 280.0 -----Epsilon: 0.9650860259665484
+Episode: 38 -----Score: 350.0 -----Epsilon: 0.963760907006984
+Episode: 39 -----Score: 250.0 -----Epsilon: 0.9628380652470376
+Episode: 40 -----Score: 200.0 -----Epsilon: 0.9620123036636925
+Episode: 41 -----Score: 240.0 -----Epsilon: 0.9610834475592508
+Episode: 42 -----Score: 200.0 -----Epsilon: 0.9601900545517905
+Episode: 43 -----Score: 510.0 -----Epsilon: 0.9587949513032523
+Episode: 44 -----Score: 410.0 -----Epsilon: 0.9577887439495097
+Episode: 45 -----Score: 240.0 -----Epsilon: 0.9568869308715668
+Episode: 46 -----Score: 140.0 -----Epsilon: 0.9561848328637177
+Episode: 47 -----Score: 300.0 -----Epsilon: 0.9553418488087867
+Episode: 48 -----Score: 240.0 -----Epsilon: 0.9543354479601841
+Episode: 49 -----Score: 160.0 -----Epsilon: 0.9533987496077788
+Episode: 50 -----Score: 410.0 -----Epsilon: 0.9523067793672432
+Episode: 51 -----Score: 160.0 -----Epsilon: 0.951543334748979
+Episode: 52 -----Score: 130.0 -----Epsilon: 0.9508946027887084
+Episode: 53 -----Score: 170.0 -----Epsilon: 0.9501018865059255
+Episode: 54 -----Score: 280.0 -----Epsilon: 0.9491389705110325
+Episode: 55 -----Score: 280.0 -----Epsilon: 0.9480480869823447
+Episode: 56 -----Score: 100.0 -----Epsilon: 0.9473183702026854
+Episode: 57 -----Score: 240.0 -----Epsilon: 0.9465286352574709
+Episode: 58 -----Score: 380.0 -----Epsilon: 0.9453121805641225
+Episode: 59 -----Score: 190.0 -----Epsilon: 0.9445467869587507
+Episode: 60 -----Score: 280.0 -----Epsilon: 0.9431366862564783
+Episode: 61 -----Score: 730.0 -----Epsilon: 0.9417437584685039
+Episode: 62 -----Score: 170.0 -----Epsilon: 0.9407629715701334
+Episode: 63 -----Score: 450.0 -----Epsilon: 0.9394524603158508
+Episode: 64 -----Score: 270.0 -----Epsilon: 0.9384740597090698
+Episode: 65 -----Score: 600.0 -----Epsilon: 0.937260458431604
+Episode: 66 -----Score: 140.0 -----Epsilon: 0.9365352987846235
+Episode: 67 -----Score: 130.0 -----Epsilon: 0.9357283523940068
+Episode: 68 -----Score: 300.0 -----Epsilon: 0.934899663408548
+Episode: 69 -----Score: 200.0 -----Epsilon: 0.9341501737145642
+Episode: 70 -----Score: 180.0 -----Epsilon: 0.9332818170331187
+Episode: 71 -----Score: 170.0 -----Epsilon: 0.932462754399835
+Episode: 72 -----Score: 280.0 -----Epsilon: 0.9314431969266164
+Episode: 73 -----Score: 240.0 -----Epsilon: 0.9306071355474799
+Episode: 74 -----Score: 300.0 -----Epsilon: 0.9296342284299449
+Episode: 75 -----Score: 300.0 -----Epsilon: 0.9286474799488142
+Episode: 76 -----Score: 240.0 -----Epsilon: 0.9276988860897655
+Episode: 77 -----Score: 330.0 -----Epsilon: 0.926769796428493
+Episode: 78 -----Score: 300.0 -----Epsilon: 0.925856450849259
+Episode: 79 -----Score: 230.0 -----Epsilon: 0.925047605019508
+Episode: 80 -----Score: 390.0 -----Epsilon: 0.9235446983051634
+Episode: 81 -----Score: 370.0 -----Epsilon: 0.922438953124488
+Episode: 82 -----Score: 530.0 -----Epsilon: 0.9214192985955998
+Episode: 83 -----Score: 270.0 -----Epsilon: 0.9205627761360832
+Episode: 84 -----Score: 220.0 -----Epsilon: 0.9196114052177414
+Episode: 85 -----Score: 260.0 -----Epsilon: 0.9186022250269722
+Episode: 86 -----Score: 290.0 -----Epsilon: 0.9175537790141916
+Episode: 87 -----Score: 280.0 -----Epsilon: 0.9166421827846629
+Episode: 88 -----Score: 250.0 -----Epsilon: 0.915797427339504
+Episode: 89 -----Score: 260.0 -----Epsilon: 0.91499736926428
+Episode: 90 -----Score: 260.0 -----Epsilon: 0.9139749728091848
+Episode: 91 -----Score: 350.0 -----Epsilon: 0.9130632798850925
+Episode: 92 -----Score: 330.0 -----Epsilon: 0.9120977688149087
+Episode: 93 -----Score: 280.0 -----Epsilon: 0.9112499113569029
+Episode: 94 -----Score: 160.0 -----Epsilon: 0.9104319754267889
+Episode: 95 -----Score: 240.0 -----Epsilon: 0.9095201785621548
+Episode: 96 -----Score: 290.0 -----Epsilon: 0.9087474141090524
+Episode: 97 -----Score: 220.0 -----Epsilon: 0.9078155164755377
+Episode: 98 -----Score: 180.0 -----Epsilon: 0.9070151753919882
+Episode: 99 -----Score: 170.0 -----Epsilon: 0.9062699145167565
+Episode: 100 -----Score: 180.0 -----Epsilon: 0.9052645120078884
+Episode: 101 -----Score: 240.0 -----Epsilon: 0.9043217167252522
+Episode: 102 -----Score: 260.0 -----Epsilon: 0.9034702459223619
+Episode: 103 -----Score: 380.0 -----Epsilon: 0.902467949324641
+Episode: 104 -----Score: 160.0 -----Epsilon: 0.9016470762238126
+Episode: 105 -----Score: 730.0 -----Epsilon: 0.9000993748553485
+Episode: 106 -----Score: 360.0 -----Epsilon: 0.8989353983555527
+Episode: 107 -----Score: 150.0 -----Epsilon: 0.898221926221726
+Episode: 108 -----Score: 250.0 -----Epsilon: 0.8973080006539725
+Episode: 109 -----Score: 170.0 -----Epsilon: 0.8964165187497722
+Episode: 110 -----Score: 210.0 -----Epsilon: 0.8955402510829238
+Episode: 111 -----Score: 300.0 -----Epsilon: 0.8947042061461522
+Episode: 112 -----Score: 340.0 -----Epsilon: 0.8936937603921606
+Episode: 113 -----Score: 190.0 -----Epsilon: 0.8929773046170572
+Episode: 114 -----Score: 300.0 -----Epsilon: 0.8920294651635736
+Episode: 115 -----Score: 230.0 -----Epsilon: 0.8911966977732759
+Episode: 116 -----Score: 270.0 -----Epsilon: 0.8902543093360572
+Episode: 117 -----Score: 210.0 -----Epsilon: 0.889348490683279
+Episode: 118 -----Score: 200.0 -----Epsilon: 0.8885857561754535
+Episode: 119 -----Score: 310.0 -----Epsilon: 0.8876496792515899
+Episode: 120 -----Score: 700.0 -----Epsilon: 0.8863209741519895
+Episode: 121 -----Score: 280.0 -----Epsilon: 0.8854474914957318
+Episode: 122 -----Score: 1120.0 -----Epsilon: 0.8842175732438792
+Episode: 123 -----Score: 340.0 -----Epsilon: 0.8830776668322305
+Episode: 124 -----Score: 140.0 -----Epsilon: 0.8823485451190484
+Episode: 125 -----Score: 290.0 -----Epsilon: 0.881468399656534
+Episode: 126 -----Score: 250.0 -----Epsilon: 0.8806173114731755
+Episode: 127 -----Score: 170.0 -----Epsilon: 0.8799254175244248
+Episode: 128 -----Score: 330.0 -----Epsilon: 0.8789000213843449
+Episode: 129 -----Score: 370.0 -----Epsilon: 0.8779495649004603
+Episode: 130 -----Score: 210.0 -----Epsilon: 0.8771474848025258
+Episode: 131 -----Score: 170.0 -----Epsilon: 0.8764372823004961
+Episode: 132 -----Score: 210.0 -----Epsilon: 0.875464975674871
+Episode: 133 -----Score: 220.0 -----Epsilon: 0.8746791602248641
+Episode: 134 -----Score: 210.0 -----Epsilon: 0.8739849399193775
+Episode: 135 -----Score: 110.0 -----Epsilon: 0.8734519711450742
+Episode: 136 -----Score: 110.0 -----Epsilon: 0.8729542448892681
+Episode: 137 -----Score: 210.0 -----Epsilon: 0.872048587594893
+Episode: 138 -----Score: 240.0 -----Epsilon: 0.8711822010978834
+Episode: 139 -----Score: 340.0 -----Epsilon: 0.8702749011224443
+Episode: 140 -----Score: 240.0 -----Epsilon: 0.8694833103992572
+Episode: 141 -----Score: 150.0 -----Epsilon: 0.8688349170820997
+Episode: 142 -----Score: 420.0 -----Epsilon: 0.8675135548287246
+Episode: 143 -----Score: 200.0 -----Epsilon: 0.8667071414566796
+Episode: 144 -----Score: 210.0 -----Epsilon: 0.8657352404105361
+Episode: 145 -----Score: 260.0 -----Epsilon: 0.8647436751089232
+Episode: 146 -----Score: 580.0 -----Epsilon: 0.8633145698370869
+Episode: 147 -----Score: 210.0 -----Epsilon: 0.8624154636718966
+Episode: 148 -----Score: 110.0 -----Epsilon: 0.8618412856214419
+Episode: 149 -----Score: 350.0 -----Epsilon: 0.8609953720446138
+Episode: 150 -----Score: 280.0 -----Epsilon: 0.8602328672220145
+Episode: 151 -----Score: 250.0 -----Epsilon: 0.8594194709133626
+Episode: 152 -----Score: 390.0 -----Epsilon: 0.8582669023773242
+Episode: 153 -----Score: 200.0 -----Epsilon: 0.8574793741042173
+Episode: 154 -----Score: 180.0 -----Epsilon: 0.8565589347004486
+Episode: 155 -----Score: 210.0 -----Epsilon: 0.8558448616447079
+Episode: 156 -----Score: 360.0 -----Epsilon: 0.8549672142491385
+Episode: 157 -----Score: 270.0 -----Epsilon: 0.8541929639671367
+Episode: 158 -----Score: 270.0 -----Epsilon: 0.8533955194059496
+Episode: 159 -----Score: 270.0 -----Epsilon: 0.8527216025039445
+Episode: 160 -----Score: 190.0 -----Epsilon: 0.851918716170356
+Episode: 161 -----Score: 270.0 -----Epsilon: 0.8509940337133914
+Episode: 162 -----Score: 240.0 -----Epsilon: 0.8502335842583784
+Episode: 163 -----Score: 260.0 -----Epsilon: 0.8494568250186751
+Episode: 164 -----Score: 270.0 -----Epsilon: 0.8485246323600599
+Episode: 165 -----Score: 320.0 -----Epsilon: 0.8477460433959981
+Episode: 166 -----Score: 270.0 -----Epsilon: 0.8469681688493514
+Episode: 167 -----Score: 220.0 -----Epsilon: 0.8460996242791458
+Episode: 168 -----Score: 240.0 -----Epsilon: 0.8452725425284405
+Episode: 169 -----Score: 280.0 -----Epsilon: 0.8443618287798106
+Episode: 170 -----Score: 310.0 -----Epsilon: 0.8435094530026164
+Episode: 171 -----Score: 260.0 -----Epsilon: 0.8428298576176491
+Episode: 172 -----Score: 270.0 -----Epsilon: 0.8419722925397368
+Episode: 173 -----Score: 250.0 -----Epsilon: 0.8411088711151247
+Episode: 174 -----Score: 180.0 -----Epsilon: 0.8404715515281551
+Episode: 175 -----Score: 340.0 -----Epsilon: 0.8396365370418946
+Episode: 176 -----Score: 170.0 -----Epsilon: 0.8387956417498019
+Episode: 177 -----Score: 150.0 -----Epsilon: 0.838009219541117
+Episode: 178 -----Score: 380.0 -----Epsilon: 0.837230232473109
+Episode: 179 -----Score: 310.0 -----Epsilon: 0.8363348743310594
+Episode: 180 -----Score: 170.0 -----Epsilon: 0.8356142635766501
+Episode: 181 -----Score: 490.0 -----Epsilon: 0.8341598892030262
+Episode: 182 -----Score: 150.0 -----Epsilon: 0.83370789659216
+Episode: 183 -----Score: 330.0 -----Epsilon: 0.8327929867842203
+Episode: 184 -----Score: 280.0 -----Epsilon: 0.8320720995260328
+Episode: 185 -----Score: 250.0 -----Epsilon: 0.8313418601144412
+Episode: 186 -----Score: 230.0 -----Epsilon: 0.8306288740002773
+Episode: 187 -----Score: 190.0 -----Epsilon: 0.8298501086357757
+Episode: 188 -----Score: 220.0 -----Epsilon: 0.8291019205731622
+Episode: 189 -----Score: 210.0 -----Epsilon: 0.8284438742691526
+Episode: 190 -----Score: 230.0 -----Epsilon: 0.8276870217455315
+Episode: 191 -----Score: 370.0 -----Epsilon: 0.826567090762561
+Episode: 192 -----Score: 200.0 -----Epsilon: 0.8257591025104868
+Episode: 193 -----Score: 320.0 -----Epsilon: 0.8249024084065689
+Episode: 194 -----Score: 240.0 -----Epsilon: 0.8241487913071655
+Episode: 195 -----Score: 210.0 -----Epsilon: 0.8235276167096142
+Episode: 196 -----Score: 240.0 -----Epsilon: 0.8228147497966213
+Episode: 197 -----Score: 350.0 -----Epsilon: 0.8219348079872434
+Episode: 198 -----Score: 330.0 -----Epsilon: 0.820911313962217
+Episode: 199 -----Score: 220.0 -----Epsilon: 0.8201810271883428
+Episode: 200 -----Score: 260.0 -----Epsilon: 0.8193333974587131
+Episode: 201 -----Score: 800.0 -----Epsilon: 0.8180382354720581
+Episode: 202 -----Score: 320.0 -----Epsilon: 0.8172614673948679
+Episode: 203 -----Score: 320.0 -----Epsilon: 0.8163809333456287
+Episode: 204 -----Score: 240.0 -----Epsilon: 0.8157231947598882
+Episode: 205 -----Score: 260.0 -----Epsilon: 0.815036644221706
+Episode: 206 -----Score: 390.0 -----Epsilon: 0.8141161720580048
+Episode: 207 -----Score: 510.0 -----Epsilon: 0.8130698905177095
+Episode: 208 -----Score: 240.0 -----Epsilon: 0.8122523526808118
+Episode: 209 -----Score: 670.0 -----Epsilon: 0.8110981495140706
+Episode: 210 -----Score: 280.0 -----Epsilon: 0.8103992834648825
+Episode: 211 -----Score: 340.0 -----Epsilon: 0.809487286510372
+Episode: 212 -----Score: 330.0 -----Epsilon: 0.8086571776429926
+Episode: 213 -----Score: 230.0 -----Epsilon: 0.8079604148070453
+Episode: 214 -----Score: 220.0 -----Epsilon: 0.8072707104687845
+Episode: 215 -----Score: 250.0 -----Epsilon: 0.8064557778465505
+Episode: 216 -----Score: 280.0 -----Epsilon: 0.8056642261966451
+Episode: 217 -----Score: 270.0 -----Epsilon: 0.8048187218811027
+Episode: 218 -----Score: 150.0 -----Epsilon: 0.8040094805543055
+Episode: 219 -----Score: 290.0 -----Epsilon: 0.8032267557863823
+Episode: 220 -----Score: 190.0 -----Epsilon: 0.8024415832460281
+Episode: 221 -----Score: 270.0 -----Epsilon: 0.8015577788031998
+Episode: 222 -----Score: 230.0 -----Epsilon: 0.8007229897635428
+Episode: 223 -----Score: 210.0 -----Epsilon: 0.7999722629943372
+Episode: 224 -----Score: 260.0 -----Epsilon: 0.7991966653493275
+Episode: 225 -----Score: 210.0 -----Epsilon: 0.7985240243060988
+Episode: 226 -----Score: 170.0 -----Epsilon: 0.797788123722108
+Episode: 227 -----Score: 370.0 -----Epsilon: 0.7968170083456471
+Episode: 228 -----Score: 370.0 -----Epsilon: 0.796057206642942
+Episode: 229 -----Score: 590.0 -----Epsilon: 0.7947511519679472
+Episode: 230 -----Score: 580.0 -----Epsilon: 0.7937138834100377
+Episode: 231 -----Score: 330.0 -----Epsilon: 0.7928999497711037
+Episode: 232 -----Score: 350.0 -----Epsilon: 0.791903107782552
+Episode: 233 -----Score: 200.0 -----Epsilon: 0.7910593880084953
+Episode: 234 -----Score: 230.0 -----Epsilon: 0.7902703037687294
+Episode: 235 -----Score: 250.0 -----Epsilon: 0.7894914804933819
+Episode: 236 -----Score: 310.0 -----Epsilon: 0.7888175419078567
+Episode: 237 -----Score: 180.0 -----Epsilon: 0.7881662469887948
+Episode: 238 -----Score: 200.0 -----Epsilon: 0.7875217899731718
+Episode: 239 -----Score: 220.0 -----Epsilon: 0.7867456753995257
+Episode: 240 -----Score: 260.0 -----Epsilon: 0.7859514626181513
+Episode: 241 -----Score: 410.0 -----Epsilon: 0.7850135956519436
+Episode: 242 -----Score: 310.0 -----Epsilon: 0.7841834896411719
+Episode: 243 -----Score: 270.0 -----Epsilon: 0.783413798664797
+Episode: 244 -----Score: 190.0 -----Epsilon: 0.7826605162241673
+Episode: 245 -----Score: 230.0 -----Epsilon: 0.7818954476537643
+Episode: 246 -----Score: 170.0 -----Epsilon: 0.7811529989550356
+Episode: 247 -----Score: 180.0 -----Epsilon: 0.7805017882953047
+Episode: 248 -----Score: 270.0 -----Epsilon: 0.779726354196919
+Episode: 249 -----Score: 310.0 -----Epsilon: 0.7790077770947388
+Episode: 250 -----Score: 230.0 -----Epsilon: 0.7782680703831333
+Episode: 251 -----Score: 350.0 -----Epsilon: 0.7774824156688306
+Episode: 252 -----Score: 140.0 -----Epsilon: 0.776908844746214
+Episode: 253 -----Score: 460.0 -----Epsilon: 0.7758390005802605
+Episode: 254 -----Score: 220.0 -----Epsilon: 0.7751395086205632
+Episode: 255 -----Score: 240.0 -----Epsilon: 0.7744313540774729
+Episode: 256 -----Score: 220.0 -----Epsilon: 0.7735598342590245
+Episode: 257 -----Score: 250.0 -----Epsilon: 0.7728469400736824
+Episode: 258 -----Score: 310.0 -----Epsilon: 0.7722119202828288
+Episode: 259 -----Score: 180.0 -----Epsilon: 0.771645324132986
+Episode: 260 -----Score: 560.0 -----Epsilon: 0.770570398873223
+Episode: 261 -----Score: 370.0 -----Epsilon: 0.7698263865397319
+Episode: 262 -----Score: 480.0 -----Epsilon: 0.7689046858159504
+Episode: 263 -----Score: 220.0 -----Epsilon: 0.7681868633968478
+Episode: 264 -----Score: 150.0 -----Epsilon: 0.7675096206140773
+Episode: 265 -----Score: 260.0 -----Epsilon: 0.7667777648548787
+Episode: 266 -----Score: 120.0 -----Epsilon: 0.7662059613797234
+Episode: 267 -----Score: 390.0 -----Epsilon: 0.7652610454115486
+Episode: 268 -----Score: 250.0 -----Epsilon: 0.764561915667894
+Episode: 269 -----Score: 130.0 -----Epsilon: 0.7639642613654927
+Episode: 270 -----Score: 320.0 -----Epsilon: 0.7633212735503093
+Episode: 271 -----Score: 480.0 -----Epsilon: 0.7622914840655556
+Episode: 272 -----Score: 260.0 -----Epsilon: 0.7614640840460112
+Episode: 273 -----Score: 260.0 -----Epsilon: 0.7605371844612064
+Episode: 274 -----Score: 230.0 -----Epsilon: 0.7597299218963629
+Episode: 275 -----Score: 240.0 -----Epsilon: 0.7589994124124074
+Episode: 276 -----Score: 260.0 -----Epsilon: 0.7582514070710179
+Episode: 277 -----Score: 340.0 -----Epsilon: 0.7571981687322038
+Episode: 278 -----Score: 220.0 -----Epsilon: 0.7565517968898131
+Episode: 279 -----Score: 320.0 -----Epsilon: 0.7557215580711353
+Episode: 280 -----Score: 260.0 -----Epsilon: 0.7549314858111682
+Episode: 281 -----Score: 200.0 -----Epsilon: 0.7541693891720089
+Episode: 282 -----Score: 320.0 -----Epsilon: 0.7534050482334146
+Episode: 283 -----Score: 320.0 -----Epsilon: 0.7526204082569583
+Episode: 284 -----Score: 220.0 -----Epsilon: 0.751908765299313
+Episode: 285 -----Score: 230.0 -----Epsilon: 0.7511977952382503
+Episode: 286 -----Score: 390.0 -----Epsilon: 0.7503644274568733
+Episode: 287 -----Score: 300.0 -----Epsilon: 0.7495979459842977
+Episode: 288 -----Score: 420.0 -----Epsilon: 0.7487483828573458
+Episode: 289 -----Score: 270.0 -----Epsilon: 0.7481750606332154
+Episode: 290 -----Score: 270.0 -----Epsilon: 0.7474227742334562
+Episode: 291 -----Score: 150.0 -----Epsilon: 0.7469580213562707
+Episode: 292 -----Score: 100.0 -----Epsilon: 0.746430854577809
+Episode: 293 -----Score: 190.0 -----Epsilon: 0.7457190983924867
+Episode: 294 -----Score: 270.0 -----Epsilon: 0.7448411576253015
+Episode: 295 -----Score: 350.0 -----Epsilon: 0.7440207939526605
+Episode: 296 -----Score: 240.0 -----Epsilon: 0.743352962513072
+Episode: 297 -----Score: 460.0 -----Epsilon: 0.7423738676946294
+Episode: 298 -----Score: 260.0 -----Epsilon: 0.741606649068621
+Episode: 299 -----Score: 220.0 -----Epsilon: 0.7408728210570364
+Episode: 300 -----Score: 560.0 -----Epsilon: 0.7398082105142085
+Episode: 301 -----Score: 290.0 -----Epsilon: 0.7391825968144258
+Episode: 302 -----Score: 180.0 -----Epsilon: 0.7386254626452843
+Episode: 303 -----Score: 280.0 -----Epsilon: 0.7378355552861692
+Episode: 304 -----Score: 270.0 -----Epsilon: 0.7370789234683306
+Episode: 305 -----Score: 280.0 -----Epsilon: 0.7364025948226209
+Episode: 306 -----Score: 200.0 -----Epsilon: 0.7356415473079189
+Episode: 307 -----Score: 280.0 -----Epsilon: 0.7349400792238161
+Episode: 308 -----Score: 150.0 -----Epsilon: 0.7343832051688358
+Episode: 309 -----Score: 220.0 -----Epsilon: 0.7336125067202248
+Episode: 310 -----Score: 200.0 -----Epsilon: 0.7329188367528409
+Episode: 311 -----Score: 270.0 -----Epsilon: 0.732173104273548
+Episode: 312 -----Score: 240.0 -----Epsilon: 0.7316271062743515
+Episode: 313 -----Score: 330.0 -----Epsilon: 0.7309791710879482
+Episode: 314 -----Score: 200.0 -----Epsilon: 0.730209124157616
+Episode: 315 -----Score: 350.0 -----Epsilon: 0.7294223820652297
+Episode: 316 -----Score: 280.0 -----Epsilon: 0.7287210144442497
+Episode: 317 -----Score: 280.0 -----Epsilon: 0.7279620818608301
+Episode: 318 -----Score: 390.0 -----Epsilon: 0.7271777607773016
+Episode: 319 -----Score: 290.0 -----Epsilon: 0.7264291525345403
+Episode: 320 -----Score: 250.0 -----Epsilon: 0.7257829175597873
+Episode: 321 -----Score: 380.0 -----Epsilon: 0.7249023508294814
+Episode: 322 -----Score: 480.0 -----Epsilon: 0.724074984033847
+Episode: 323 -----Score: 270.0 -----Epsilon: 0.7233064238099759
+Episode: 324 -----Score: 280.0 -----Epsilon: 0.7226745295417071
+Episode: 325 -----Score: 360.0 -----Epsilon: 0.721953659414399
+Episode: 326 -----Score: 110.0 -----Epsilon: 0.7214008541099586
+Episode: 327 -----Score: 370.0 -----Epsilon: 0.7207389113421776
+Episode: 328 -----Score: 310.0 -----Epsilon: 0.7199566129670867
+Episode: 329 -----Score: 300.0 -----Epsilon: 0.7191694103236775
+Episode: 330 -----Score: 120.0 -----Epsilon: 0.7186676047240073
+Episode: 331 -----Score: 270.0 -----Epsilon: 0.717838739826344
+Episode: 332 -----Score: 160.0 -----Epsilon: 0.7172661324401036
+Episode: 333 -----Score: 340.0 -----Epsilon: 0.7164675420674215
+Episode: 334 -----Score: 370.0 -----Epsilon: 0.7157070566665034
+Episode: 335 -----Score: 340.0 -----Epsilon: 0.7149302199248496
+Episode: 336 -----Score: 270.0 -----Epsilon: 0.7141685096124466
+Episode: 337 -----Score: 460.0 -----Epsilon: 0.7133105939166265
+Episode: 338 -----Score: 290.0 -----Epsilon: 0.7126475227771013
+Episode: 339 -----Score: 180.0 -----Epsilon: 0.7120050038886355
+Episode: 340 -----Score: 230.0 -----Epsilon: 0.7113858282965304
+Episode: 341 -----Score: 300.0 -----Epsilon: 0.7105653617304931
+Episode: 342 -----Score: 260.0 -----Epsilon: 0.7098083018824388
+Episode: 343 -----Score: 1170.0 -----Epsilon: 0.7084992031180126
+Episode: 344 -----Score: 280.0 -----Epsilon: 0.7076339450069462
+Episode: 345 -----Score: 230.0 -----Epsilon: 0.7069563556271944
+Episode: 346 -----Score: 250.0 -----Epsilon: 0.7063217931464922
+Episode: 347 -----Score: 570.0 -----Epsilon: 0.7054563723740297
+Episode: 348 -----Score: 200.0 -----Epsilon: 0.7049105598527078
+Episode: 349 -----Score: 210.0 -----Epsilon: 0.7042017756989352
+Episode: 350 -----Score: 240.0 -----Epsilon: 0.7034430544502576
+Episode: 351 -----Score: 270.0 -----Epsilon: 0.7027245021728336
+Episode: 352 -----Score: 570.0 -----Epsilon: 0.7016277022274281
+Episode: 353 -----Score: 330.0 -----Epsilon: 0.7009222189711007
+Episode: 354 -----Score: 260.0 -----Epsilon: 0.700231449577718
+Episode: 355 -----Score: 330.0 -----Epsilon: 0.6994909957327841
+Episode: 356 -----Score: 180.0 -----Epsilon: 0.6988323848106572
+Episode: 357 -----Score: 230.0 -----Epsilon: 0.6981911504118048
+Episode: 358 -----Score: 240.0 -----Epsilon: 0.6975477141973814
+Episode: 359 -----Score: 250.0 -----Epsilon: 0.6968296092212201
+Episode: 360 -----Score: 270.0 -----Epsilon: 0.6962013516722132
+Episode: 361 -----Score: 290.0 -----Epsilon: 0.6955291452222975
+Episode: 362 -----Score: 210.0 -----Epsilon: 0.6948881622479943
+Episode: 363 -----Score: 380.0 -----Epsilon: 0.6941977858982512
+Episode: 364 -----Score: 180.0 -----Epsilon: 0.6936412619133991
+Episode: 365 -----Score: 150.0 -----Epsilon: 0.6931434057412558
+Episode: 366 -----Score: 510.0 -----Epsilon: 0.6920864744908393
+Episode: 367 -----Score: 200.0 -----Epsilon: 0.6915814352211961
+Episode: 368 -----Score: 140.0 -----Epsilon: 0.6909357990740963
+Episode: 369 -----Score: 280.0 -----Epsilon: 0.6902217399759878
+Episode: 370 -----Score: 170.0 -----Epsilon: 0.6896463344469153
+Episode: 371 -----Score: 250.0 -----Epsilon: 0.6889391194639022
+Episode: 372 -----Score: 240.0 -----Epsilon: 0.6882931969089766
+Episode: 373 -----Score: 290.0 -----Epsilon: 0.6875021139013817
+Episode: 374 -----Score: 240.0 -----Epsilon: 0.6869262278840029
+Episode: 375 -----Score: 260.0 -----Epsilon: 0.6863618059694636
+Episode: 376 -----Score: 280.0 -----Epsilon: 0.6858280236189088
+Episode: 377 -----Score: 270.0 -----Epsilon: 0.6851576110266079
+Episode: 378 -----Score: 240.0 -----Epsilon: 0.6844823778915597
+Episode: 379 -----Score: 350.0 -----Epsilon: 0.6837886638391475
+Episode: 380 -----Score: 320.0 -----Epsilon: 0.6830355430242808
+Episode: 381 -----Score: 290.0 -----Epsilon: 0.6823733191158611
+Episode: 382 -----Score: 230.0 -----Epsilon: 0.6817117372538324
+Episode: 383 -----Score: 370.0 -----Epsilon: 0.6808492354108537
+Episode: 384 -----Score: 160.0 -----Epsilon: 0.6802136184687
+Episode: 385 -----Score: 250.0 -----Epsilon: 0.6795486940859541
+Episode: 386 -----Score: 200.0 -----Epsilon: 0.6788817041470494
+Episode: 387 -----Score: 210.0 -----Epsilon: 0.6783293187388648
+Episode: 388 -----Score: 370.0 -----Epsilon: 0.677568659292348
+Episode: 389 -----Score: 310.0 -----Epsilon: 0.6769442282710011
+Episode: 390 -----Score: 330.0 -----Epsilon: 0.6762987307830081
+Episode: 391 -----Score: 150.0 -----Epsilon: 0.6756511461938949
+Episode: 392 -----Score: 340.0 -----Epsilon: 0.6749258856722551
+Episode: 393 -----Score: 110.0 -----Epsilon: 0.674506211883782
+Episode: 394 -----Score: 110.0 -----Epsilon: 0.6739627783667114
+Episode: 395 -----Score: 390.0 -----Epsilon: 0.6732204797243441
+Episode: 396 -----Score: 1030.0 -----Epsilon: 0.6721804839466022
+Episode: 397 -----Score: 280.0 -----Epsilon: 0.6714858078409845
+Episode: 398 -----Score: 190.0 -----Epsilon: 0.6708535654107101
+Episode: 399 -----Score: 480.0 -----Epsilon: 0.6697368527340032
+Episode: 400 -----Score: 390.0 -----Epsilon: 0.6690634355723808
+Episode: 401 -----Score: 890.0 -----Epsilon: 0.6680004689293041
+Episode: 402 -----Score: 210.0 -----Epsilon: 0.6674275697629665
+Episode: 403 -----Score: 640.0 -----Epsilon: 0.666457834275366
+Episode: 404 -----Score: 220.0 -----Epsilon: 0.6659262125372928
+Episode: 405 -----Score: 360.0 -----Epsilon: 0.6652672711577599
+Episode: 406 -----Score: 250.0 -----Epsilon: 0.6646515181865563
+Episode: 407 -----Score: 210.0 -----Epsilon: 0.6640522722184815
+Episode: 408 -----Score: 280.0 -----Epsilon: 0.6634668357443991
+Episode: 409 -----Score: 210.0 -----Epsilon: 0.6628660064071901
+Episode: 410 -----Score: 610.0 -----Epsilon: 0.661704357334391
+Episode: 411 -----Score: 380.0 -----Epsilon: 0.6610152198079341
+Episode: 412 -----Score: 2650.0 -----Epsilon: 0.6599122445286071
+Episode: 413 -----Score: 350.0 -----Epsilon: 0.6593040852355243
+Episode: 414 -----Score: 440.0 -----Epsilon: 0.6586069096870844
+Episode: 415 -----Score: 210.0 -----Epsilon: 0.6580078494139888
+Episode: 416 -----Score: 220.0 -----Epsilon: 0.657440890475259
+Episode: 417 -----Score: 240.0 -----Epsilon: 0.6569190890690051
+Episode: 418 -----Score: 190.0 -----Epsilon: 0.656402953016914
+Episode: 419 -----Score: 250.0 -----Epsilon: 0.6558819754067353
+Episode: 420 -----Score: 170.0 -----Epsilon: 0.6553928694232033
+Episode: 421 -----Score: 320.0 -----Epsilon: 0.6547941134149892
+Episode: 422 -----Score: 550.0 -----Epsilon: 0.653748586974369
+Episode: 423 -----Score: 340.0 -----Epsilon: 0.6529292992278146
+Episode: 424 -----Score: 410.0 -----Epsilon: 0.6521553833278797
+Episode: 425 -----Score: 140.0 -----Epsilon: 0.6517107645440827
+Episode: 426 -----Score: 410.0 -----Epsilon: 0.6508107214404997
+Episode: 427 -----Score: 270.0 -----Epsilon: 0.6500731196440661
+Episode: 428 -----Score: 360.0 -----Epsilon: 0.6493727177051788
+Episode: 429 -----Score: 560.0 -----Epsilon: 0.6485148133142388
+Episode: 430 -----Score: 400.0 -----Epsilon: 0.6479275243881588
+Episode: 431 -----Score: 440.0 -----Epsilon: 0.6472786255124684
+Episode: 432 -----Score: 250.0 -----Epsilon: 0.6467338457494873
+Episode: 433 -----Score: 280.0 -----Epsilon: 0.6461791855384451
+Episode: 434 -----Score: 260.0 -----Epsilon: 0.6454933068236026
+Episode: 435 -----Score: 590.0 -----Epsilon: 0.6447359415844288
+Episode: 436 -----Score: 340.0 -----Epsilon: 0.6438944652069445
+Episode: 437 -----Score: 360.0 -----Epsilon: 0.6429846409207018
+Episode: 438 -----Score: 310.0 -----Epsilon: 0.6423586781478563
+Episode: 439 -----Score: 330.0 -----Epsilon: 0.6417538605820367
+Episode: 440 -----Score: 310.0 -----Epsilon: 0.6411521770928146
+Episode: 441 -----Score: 740.0 -----Epsilon: 0.6402795213684314
+Episode: 442 -----Score: 410.0 -----Epsilon: 0.639699690245416
+Episode: 443 -----Score: 350.0 -----Epsilon: 0.6390027967621189
+Episode: 444 -----Score: 200.0 -----Epsilon: 0.6384087998185404
+Episode: 445 -----Score: 240.0 -----Epsilon: 0.6377643317974084
+Episode: 446 -----Score: 320.0 -----Epsilon: 0.6371103205041567
+Episode: 447 -----Score: 310.0 -----Epsilon: 0.6364773468526396
+Episode: 448 -----Score: 230.0 -----Epsilon: 0.6359696400241253
+Episode: 449 -----Score: 700.0 -----Epsilon: 0.6351192808126109
+Episode: 450 -----Score: 330.0 -----Epsilon: 0.6345187414723338
+Episode: 451 -----Score: 260.0 -----Epsilon: 0.6338503103754786
+Episode: 452 -----Score: 270.0 -----Epsilon: 0.6333218990663708
+Episode: 453 -----Score: 330.0 -----Epsilon: 0.6326648513448722
+Episode: 454 -----Score: 350.0 -----Epsilon: 0.631869458573459
+Episode: 455 -----Score: 780.0 -----Epsilon: 0.6311104070066055
+Episode: 456 -----Score: 570.0 -----Epsilon: 0.6302413349248877
+Episode: 457 -----Score: 270.0 -----Epsilon: 0.6297134133883322
+Episode: 458 -----Score: 390.0 -----Epsilon: 0.6289443728076474
+Episode: 459 -----Score: 240.0 -----Epsilon: 0.6283647527622153
+Episode: 460 -----Score: 270.0 -----Epsilon: 0.6277254022891756
+Episode: 461 -----Score: 350.0 -----Epsilon: 0.6270214886533069
+Episode: 462 -----Score: 360.0 -----Epsilon: 0.6264912522653016
+Episode: 463 -----Score: 190.0 -----Epsilon: 0.6260290718245208
+Episode: 464 -----Score: 300.0 -----Epsilon: 0.6253070502402157
+Episode: 465 -----Score: 320.0 -----Epsilon: 0.6246108453481859
+Episode: 466 -----Score: 200.0 -----Epsilon: 0.6240576846724272
+Episode: 467 -----Score: 300.0 -----Epsilon: 0.6234077545874641
+Episode: 468 -----Score: 290.0 -----Epsilon: 0.6228182891232996
+Episode: 469 -----Score: 270.0 -----Epsilon: 0.6222293810303434
+Episode: 470 -----Score: 530.0 -----Epsilon: 0.6215042836609016
+Episode: 471 -----Score: 270.0 -----Epsilon: 0.6207676157742374
+Episode: 472 -----Score: 450.0 -----Epsilon: 0.6197516297233769
+Episode: 473 -----Score: 180.0 -----Epsilon: 0.6193390121422806
+Episode: 474 -----Score: 300.0 -----Epsilon: 0.6186395536276088
+Episode: 475 -----Score: 300.0 -----Epsilon: 0.6179606594999324
+Episode: 476 -----Score: 480.0 -----Epsilon: 0.6170504555627507
+Episode: 477 -----Score: 250.0 -----Epsilon: 0.6164546720366821
+Episode: 478 -----Score: 390.0 -----Epsilon: 0.6156919725983864
+Episode: 479 -----Score: 280.0 -----Epsilon: 0.6150605959547447
+Episode: 480 -----Score: 200.0 -----Epsilon: 0.6146314330249045
+Episode: 481 -----Score: 260.0 -----Epsilon: 0.6140158801569655
+Episode: 482 -----Score: 300.0 -----Epsilon: 0.6134696485865124
+Episode: 483 -----Score: 260.0 -----Epsilon: 0.6129067413001932
+Episode: 484 -----Score: 410.0 -----Epsilon: 0.6121606745901035
+Episode: 485 -----Score: 270.0 -----Epsilon: 0.6115402576502169
+Episode: 486 -----Score: 510.0 -----Epsilon: 0.6107982974964273
+Episode: 487 -----Score: 160.0 -----Epsilon: 0.6102695746121383
+Episode: 488 -----Score: 440.0 -----Epsilon: 0.60958279711266
+Episode: 489 -----Score: 200.0 -----Epsilon: 0.6090429454042031
+Episode: 490 -----Score: 250.0 -----Epsilon: 0.608369715598083
+Episode: 491 -----Score: 310.0 -----Epsilon: 0.607789607065076
+Episode: 492 -----Score: 190.0 -----Epsilon: 0.6073339353023882
+Episode: 493 -----Score: 400.0 -----Epsilon: 0.6066456082866275
+Episode: 494 -----Score: 210.0 -----Epsilon: 0.6061738210806265
+Episode: 495 -----Score: 320.0 -----Epsilon: 0.6055667385040003
+Episode: 496 -----Score: 320.0 -----Epsilon: 0.6050280233318434
+Episode: 497 -----Score: 690.0 -----Epsilon: 0.604100620916189
+Episode: 498 -----Score: 170.0 -----Epsilon: 0.6036597879457096
+Episode: 499 -----Score: 170.0 -----Epsilon: 0.6031806718292464
+Episode: 500 -----Score: 250.0 -----Epsilon: 0.6025982800583969
+Episode: 501 -----Score: 210.0 -----Epsilon: 0.601985146534095
+Episode: 502 -----Score: 170.0 -----Epsilon: 0.6015169837608745
+Episode: 503 -----Score: 690.0 -----Epsilon: 0.6004916696029443
+Episode: 504 -----Score: 280.0 -----Epsilon: 0.5999574692372339
+Episode: 505 -----Score: 360.0 -----Epsilon: 0.5992583258088061
+Episode: 506 -----Score: 260.0 -----Epsilon: 0.5987348023216289
+Episode: 507 -----Score: 190.0 -----Epsilon: 0.5982404510757454
+Episode: 508 -----Score: 360.0 -----Epsilon: 0.5977608540984934
+Episode: 509 -----Score: 680.0 -----Epsilon: 0.5966942049476772
+Episode: 510 -----Score: 250.0 -----Epsilon: 0.5960942318146278
+Episode: 511 -----Score: 300.0 -----Epsilon: 0.5952781410507896
+Episode: 512 -----Score: 290.0 -----Epsilon: 0.5946676982783381
+Episode: 513 -----Score: 100.0 -----Epsilon: 0.5942765352484688
+Episode: 514 -----Score: 140.0 -----Epsilon: 0.5937882401649859
+Episode: 515 -----Score: 390.0 -----Epsilon: 0.5931793252484472
+Episode: 516 -----Score: 290.0 -----Epsilon: 0.5925876269967068
+Episode: 517 -----Score: 440.0 -----Epsilon: 0.5918994394003959
+Episode: 518 -----Score: 300.0 -----Epsilon: 0.5912025916878398
+Episode: 519 -----Score: 500.0 -----Epsilon: 0.5905160125694595
+Episode: 520 -----Score: 250.0 -----Epsilon: 0.5900520488812444
+Episode: 521 -----Score: 260.0 -----Epsilon: 0.5894870491315232
+Episode: 522 -----Score: 240.0 -----Epsilon: 0.5888849005155309
+Episode: 523 -----Score: 150.0 -----Epsilon: 0.5883116052892479
+Episode: 524 -----Score: 370.0 -----Epsilon: 0.5876965524637834
+Episode: 525 -----Score: 230.0 -----Epsilon: 0.5871619913286998
+Episode: 526 -----Score: 240.0 -----Epsilon: 0.5866067981774901
+Episode: 527 -----Score: 260.0 -----Epsilon: 0.5860474415882038
+Episode: 528 -----Score: 290.0 -----Epsilon: 0.5856174401659159
+Episode: 529 -----Score: 290.0 -----Epsilon: 0.585063707470662
+Episode: 530 -----Score: 560.0 -----Epsilon: 0.5843819200652838
+Episode: 531 -----Score: 440.0 -----Epsilon: 0.5837336153614002
+Episode: 532 -----Score: 230.0 -----Epsilon: 0.5832423180311833
+Episode: 533 -----Score: 260.0 -----Epsilon: 0.5827374483190491
+Episode: 534 -----Score: 560.0 -----Epsilon: 0.5819675776391645
+Episode: 535 -----Score: 350.0 -----Epsilon: 0.5814033422230526
+Episode: 536 -----Score: 390.0 -----Epsilon: 0.5807490498411757
+Episode: 537 -----Score: 270.0 -----Epsilon: 0.5802695487077487
+Episode: 538 -----Score: 320.0 -----Epsilon: 0.5797672523020206
+Episode: 539 -----Score: 310.0 -----Epsilon: 0.579216734399238
+Episode: 540 -----Score: 310.0 -----Epsilon: 0.5786852568910951
+Episode: 541 -----Score: 360.0 -----Epsilon: 0.5779276747716342
+Episode: 542 -----Score: 290.0 -----Epsilon: 0.5774551227612537
+Episode: 543 -----Score: 200.0 -----Epsilon: 0.5769829571407487
+Episode: 544 -----Score: 300.0 -----Epsilon: 0.5764558351222722
+Episode: 545 -----Score: 280.0 -----Epsilon: 0.5758232333446557
+Episode: 546 -----Score: 530.0 -----Epsilon: 0.5750532962912764
+Episode: 547 -----Score: 300.0 -----Epsilon: 0.5745049564979582
+Episode: 548 -----Score: 290.0 -----Epsilon: 0.5740122421572599
+Episode: 549 -----Score: 320.0 -----Epsilon: 0.5733731479220028
+Episode: 550 -----Score: 440.0 -----Epsilon: 0.5727095654415542
+Episode: 551 -----Score: 320.0 -----Epsilon: 0.5721703265130944
+Episode: 552 -----Score: 370.0 -----Epsilon: 0.5716201627800237
+Episode: 553 -----Score: 200.0 -----Epsilon: 0.5710202760049055
+Episode: 554 -----Score: 260.0 -----Epsilon: 0.5704529632843908
+Episode: 555 -----Score: 410.0 -----Epsilon: 0.5698816551170782
+Episode: 556 -----Score: 240.0 -----Epsilon: 0.5693610207298395
+Episode: 557 -----Score: 360.0 -----Epsilon: 0.5687817055528912
+Episode: 558 -----Score: 280.0 -----Epsilon: 0.5681802521319413
+Episode: 559 -----Score: 350.0 -----Epsilon: 0.5675476511226664
+Episode: 560 -----Score: 120.0 -----Epsilon: 0.5672151652944943
+Episode: 561 -----Score: 380.0 -----Epsilon: 0.5666652327946233
+Episode: 562 -----Score: 260.0 -----Epsilon: 0.5661724479418122
+Episode: 563 -----Score: 260.0 -----Epsilon: 0.5655986394758636
+Episode: 564 -----Score: 540.0 -----Epsilon: 0.564989252051972
+Episode: 565 -----Score: 230.0 -----Epsilon: 0.5645092147524576
+Episode: 566 -----Score: 320.0 -----Epsilon: 0.5639551382455992
+Episode: 567 -----Score: 170.0 -----Epsilon: 0.5635210594968488
+Episode: 568 -----Score: 570.0 -----Epsilon: 0.56271354861372
+Episode: 569 -----Score: 190.0 -----Epsilon: 0.5622781764025127
+Episode: 570 -----Score: 270.0 -----Epsilon: 0.5619038234360615
+Episode: 571 -----Score: 310.0 -----Epsilon: 0.5614084422636347
+Episode: 572 -----Score: 610.0 -----Epsilon: 0.5605860196479462
+Episode: 573 -----Score: 240.0 -----Epsilon: 0.5601366094483688
+Episode: 574 -----Score: 280.0 -----Epsilon: 0.5596651724546163
+Episode: 575 -----Score: 460.0 -----Epsilon: 0.5589213118083916
+Episode: 576 -----Score: 250.0 -----Epsilon: 0.5584978095581803
+Episode: 577 -----Score: 220.0 -----Epsilon: 0.5579340109729551
+Episode: 578 -----Score: 300.0 -----Epsilon: 0.5572994425718201
+Episode: 579 -----Score: 720.0 -----Epsilon: 0.5564785874914508
+Episode: 580 -----Score: 180.0 -----Epsilon: 0.5560346942717017
+Episode: 581 -----Score: 820.0 -----Epsilon: 0.5550580430305206
+Episode: 582 -----Score: 140.0 -----Epsilon: 0.5546352494837481
+Episode: 583 -----Score: 1860.0 -----Epsilon: 0.5532293686321739
+Episode: 584 -----Score: 750.0 -----Epsilon: 0.5522024217674059
+Episode: 585 -----Score: 160.0 -----Epsilon: 0.551764146624516
+Episode: 586 -----Score: 270.0 -----Epsilon: 0.5511828930072019
+Episode: 587 -----Score: 190.0 -----Epsilon: 0.5507454270496683
+Episode: 588 -----Score: 290.0 -----Epsilon: 0.5502114624661695
+Episode: 589 -----Score: 310.0 -----Epsilon: 0.549667022116342
+Episode: 590 -----Score: 200.0 -----Epsilon: 0.5492373500990417
+Episode: 591 -----Score: 250.0 -----Epsilon: 0.5486807051361036
+Episode: 592 -----Score: 300.0 -----Epsilon: 0.5481860177829336
+Episode: 593 -----Score: 200.0 -----Epsilon: 0.5478057082889529
+Episode: 594 -----Score: 350.0 -----Epsilon: 0.5471585838205507
+Episode: 595 -----Score: 180.0 -----Epsilon: 0.5467658645677416
+Episode: 596 -----Score: 250.0 -----Epsilon: 0.5462051699155586
+Episode: 597 -----Score: 530.0 -----Epsilon: 0.5455097469121942
+Episode: 598 -----Score: 650.0 -----Epsilon: 0.5446713969395014
+Episode: 599 -----Score: 210.0 -----Epsilon: 0.5441868545650366
+Episode: 600 -----Score: 160.0 -----Epsilon: 0.5436896945195685
+Episode: 601 -----Score: 390.0 -----Epsilon: 0.5431017398230112
+Episode: 602 -----Score: 440.0 -----Epsilon: 0.5423712159035952
+Episode: 603 -----Score: 280.0 -----Epsilon: 0.5418258642729237
+Episode: 604 -----Score: 190.0 -----Epsilon: 0.5413741694333668
+Episode: 605 -----Score: 230.0 -----Epsilon: 0.5408730884876873
+Episode: 606 -----Score: 160.0 -----Epsilon: 0.5404351582337906
+Episode: 607 -----Score: 270.0 -----Epsilon: 0.5399651836447554
+Episode: 608 -----Score: 330.0 -----Epsilon: 0.5394308821015632
+Episode: 609 -----Score: 240.0 -----Epsilon: 0.5389639367072693
+Episode: 610 -----Score: 280.0 -----Epsilon: 0.5384435484120497
+Episode: 611 -----Score: 160.0 -----Epsilon: 0.5379258142708077
+Episode: 612 -----Score: 280.0 -----Epsilon: 0.537419326240605
+Episode: 613 -----Score: 230.0 -----Epsilon: 0.5369627134446298
+Episode: 614 -----Score: 230.0 -----Epsilon: 0.5365172188528188
+Episode: 615 -----Score: 260.0 -----Epsilon: 0.5360206333661537
+Episode: 616 -----Score: 340.0 -----Epsilon: 0.5354431138848093
+Episode: 617 -----Score: 220.0 -----Epsilon: 0.5349453827720196
+Episode: 618 -----Score: 690.0 -----Epsilon: 0.5341724099696022
+Episode: 619 -----Score: 360.0 -----Epsilon: 0.5335990161954889
+Episode: 620 -----Score: 260.0 -----Epsilon: 0.5331243238658152
+Episode: 621 -----Score: 260.0 -----Epsilon: 0.5326372703641185
+Episode: 622 -----Score: 370.0 -----Epsilon: 0.5320187046936629
+Episode: 623 -----Score: 420.0 -----Epsilon: 0.5312775865575761
+Episode: 624 -----Score: 230.0 -----Epsilon: 0.5308113290873157
+Episode: 625 -----Score: 670.0 -----Epsilon: 0.5301991255107666
+Episode: 626 -----Score: 220.0 -----Epsilon: 0.5296660128580295
+Episode: 627 -----Score: 270.0 -----Epsilon: 0.5291588352873926
+Episode: 628 -----Score: 370.0 -----Epsilon: 0.5285612229204998
+Episode: 629 -----Score: 190.0 -----Epsilon: 0.5281079114363695
+Episode: 630 -----Score: 170.0 -----Epsilon: 0.5277816412487124
+Episode: 631 -----Score: 180.0 -----Epsilon: 0.5273268890455735
+Episode: 632 -----Score: 390.0 -----Epsilon: 0.5267861285742266
+Episode: 633 -----Score: 220.0 -----Epsilon: 0.5262796034896544
+Episode: 634 -----Score: 300.0 -----Epsilon: 0.5257988032104766
+Episode: 635 -----Score: 290.0 -----Epsilon: 0.5252974298439762
+Episode: 636 -----Score: 180.0 -----Epsilon: 0.5248553151223632
+Episode: 637 -----Score: 320.0 -----Epsilon: 0.5243695235709825
+Episode: 638 -----Score: 180.0 -----Epsilon: 0.5239239984054528
+Episode: 639 -----Score: 950.0 -----Epsilon: 0.5229368079704966
+Episode: 640 -----Score: 240.0 -----Epsilon: 0.5224339841554512
+Episode: 641 -----Score: 410.0 -----Epsilon: 0.5217312603492885
+Episode: 642 -----Score: 430.0 -----Epsilon: 0.5211399518440478
+Episode: 643 -----Score: 390.0 -----Epsilon: 0.5204910151866258
+Episode: 644 -----Score: 270.0 -----Epsilon: 0.5200279837996212
+Episode: 645 -----Score: 230.0 -----Epsilon: 0.51956952087133
+Episode: 646 -----Score: 820.0 -----Epsilon: 0.5187710363417656
+Episode: 647 -----Score: 230.0 -----Epsilon: 0.5183157548144257
+Episode: 648 -----Score: 320.0 -----Epsilon: 0.5178132317928136
+Episode: 649 -----Score: 230.0 -----Epsilon: 0.5174312262231469
+Episode: 650 -----Score: 260.0 -----Epsilon: 0.5169047487308998
+Episode: 651 -----Score: 420.0 -----Epsilon: 0.5163395635832623
+Episode: 652 -----Score: 420.0 -----Epsilon: 0.5156512251409413
+Episode: 653 -----Score: 250.0 -----Epsilon: 0.5151224377694822
+Episode: 654 -----Score: 1080.0 -----Epsilon: 0.5143534186787561
+Episode: 655 -----Score: 200.0 -----Epsilon: 0.513920514945384
+Episode: 656 -----Score: 260.0 -----Epsilon: 0.5135002994355289
+Episode: 657 -----Score: 290.0 -----Epsilon: 0.5130865845299837
+Episode: 658 -----Score: 270.0 -----Epsilon: 0.5125665779011933
+Episode: 659 -----Score: 230.0 -----Epsilon: 0.5120122802387334
+Episode: 660 -----Score: 230.0 -----Epsilon: 0.5115649765586944
+Episode: 661 -----Score: 260.0 -----Epsilon: 0.5110812644390758
+Episode: 662 -----Score: 340.0 -----Epsilon: 0.510540825863294
+Episode: 663 -----Score: 380.0 -----Epsilon: 0.5100254394277617
+Episode: 664 -----Score: 360.0 -----Epsilon: 0.5094677761368186
+Episode: 665 -----Score: 280.0 -----Epsilon: 0.5089534729354686
+Episode: 666 -----Score: 390.0 -----Epsilon: 0.5084396889186374
+Episode: 667 -----Score: 290.0 -----Epsilon: 0.5079386139548537
+Episode: 668 -----Score: 310.0 -----Epsilon: 0.5074360030578858
+Episode: 669 -----Score: 200.0 -----Epsilon: 0.5070454273359148
+Episode: 670 -----Score: 360.0 -----Epsilon: 0.506519386718626
+Episode: 671 -----Score: 360.0 -----Epsilon: 0.5059918678752079
+Episode: 672 -----Score: 360.0 -----Epsilon: 0.505448723786565
+Episode: 673 -----Score: 300.0 -----Epsilon: 0.5048859668593311
+Episode: 674 -----Score: 320.0 -----Epsilon: 0.5043460272540699
+Episode: 675 -----Score: 190.0 -----Epsilon: 0.5039437192642608
+Episode: 676 -----Score: 180.0 -----Epsilon: 0.5035316614444799
+Episode: 677 -----Score: 380.0 -----Epsilon: 0.5028463174614637
+Episode: 678 -----Score: 240.0 -----Epsilon: 0.5022603397607306
+Episode: 679 -----Score: 210.0 -----Epsilon: 0.5018095119767805
+Episode: 680 -----Score: 390.0 -----Epsilon: 0.5012708573315996
+Episode: 681 -----Score: 1370.0 -----Epsilon: 0.5005145087675797
+Episode: 682 -----Score: 310.0 -----Epsilon: 0.5000612475277321
+Episode: 683 -----Score: 160.0 -----Epsilon: 0.4997383119583221
+Episode: 684 -----Score: 320.0 -----Epsilon: 0.4993217035394097
+Episode: 685 -----Score: 200.0 -----Epsilon: 0.49897729005588
+Episode: 686 -----Score: 240.0 -----Epsilon: 0.4984675952541694
+Episode: 687 -----Score: 230.0 -----Epsilon: 0.4980699763865769
+Episode: 688 -----Score: 870.0 -----Epsilon: 0.49728066270593624
+Episode: 689 -----Score: 260.0 -----Epsilon: 0.4968502036372643
+Episode: 690 -----Score: 190.0 -----Epsilon: 0.4964499033155435
+Episode: 691 -----Score: 290.0 -----Epsilon: 0.4959963549535531
+Episode: 692 -----Score: 310.0 -----Epsilon: 0.49549763302095357
+Episode: 693 -----Score: 270.0 -----Epsilon: 0.49494199589180166
+Episode: 694 -----Score: 280.0 -----Epsilon: 0.49446015659980386
+Episode: 695 -----Score: 220.0 -----Epsilon: 0.49404992452946433
+Episode: 696 -----Score: 240.0 -----Epsilon: 0.49363016009901717
+Episode: 697 -----Score: 280.0 -----Epsilon: 0.4931574883788872
+Episode: 698 -----Score: 160.0 -----Epsilon: 0.4927581921508188
+Episode: 699 -----Score: 340.0 -----Epsilon: 0.4922489429980832
+Episode: 700 -----Score: 200.0 -----Epsilon: 0.4919054727774615
+Episode: 701 -----Score: 270.0 -----Epsilon: 0.4913813804102634
+Episode: 702 -----Score: 230.0 -----Epsilon: 0.49093049883848305
+Episode: 703 -----Score: 420.0 -----Epsilon: 0.49029564497718225
+Episode: 704 -----Score: 270.0 -----Epsilon: 0.489867313363333
+Episode: 705 -----Score: 230.0 -----Epsilon: 0.48946284962456194
+Episode: 706 -----Score: 410.0 -----Epsilon: 0.48888269020730163
+Episode: 707 -----Score: 460.0 -----Epsilon: 0.48815089145970014
+Episode: 708 -----Score: 270.0 -----Epsilon: 0.48770882659560627
+Episode: 709 -----Score: 220.0 -----Epsilon: 0.48736852427367644
+Episode: 710 -----Score: 470.0 -----Epsilon: 0.486701285890855
+Episode: 711 -----Score: 620.0 -----Epsilon: 0.4860466259903548
+Episode: 712 -----Score: 150.0 -----Epsilon: 0.4856899983086307
+Episode: 713 -----Score: 260.0 -----Epsilon: 0.4852132843584484
+Episode: 714 -----Score: 400.0 -----Epsilon: 0.48475642820077147
+Episode: 715 -----Score: 270.0 -----Epsilon: 0.48432324918066605
+Episode: 716 -----Score: 670.0 -----Epsilon: 0.48378788324365674
+Episode: 717 -----Score: 300.0 -----Epsilon: 0.48326857345702984
+Episode: 718 -----Score: 310.0 -----Epsilon: 0.4828405866991025
+Episode: 719 -----Score: 270.0 -----Epsilon: 0.4824535034026471
+Episode: 720 -----Score: 260.0 -----Epsilon: 0.4819780382156975
+Episode: 721 -----Score: 370.0 -----Epsilon: 0.4814375615804493
+Episode: 722 -----Score: 370.0 -----Epsilon: 0.480955402263758
+Episode: 723 -----Score: 310.0 -----Epsilon: 0.4804852573485496
+Episode: 724 -----Score: 270.0 -----Epsilon: 0.47991381939390004
+Episode: 725 -----Score: 230.0 -----Epsilon: 0.4795367549605363
+Episode: 726 -----Score: 560.0 -----Epsilon: 0.4788802387660194
+Episode: 727 -----Score: 200.0 -----Epsilon: 0.47846953532743597
+Episode: 728 -----Score: 500.0 -----Epsilon: 0.47779345682856716
+Episode: 729 -----Score: 350.0 -----Epsilon: 0.47734931502753597
+Episode: 730 -----Score: 270.0 -----Epsilon: 0.47687125008635906
+Episode: 731 -----Score: 170.0 -----Epsilon: 0.4764717989727389
+Episode: 732 -----Score: 210.0 -----Epsilon: 0.47612981466615906
+Episode: 733 -----Score: 320.0 -----Epsilon: 0.47573669342755726
+Episode: 734 -----Score: 220.0 -----Epsilon: 0.47534009403358496
+Episode: 735 -----Score: 260.0 -----Epsilon: 0.4749305270117188
+Episode: 736 -----Score: 290.0 -----Epsilon: 0.4745251090743425
+Episode: 737 -----Score: 340.0 -----Epsilon: 0.47404039166095235
+Episode: 738 -----Score: 320.0 -----Epsilon: 0.47358079496189226
+Episode: 739 -----Score: 330.0 -----Epsilon: 0.4731576025032304
+Episode: 740 -----Score: 420.0 -----Epsilon: 0.4726118930191801
+Episode: 741 -----Score: 390.0 -----Epsilon: 0.47198373639007857
+Episode: 742 -----Score: 1090.0 -----Epsilon: 0.4713922391394511
+Episode: 743 -----Score: 280.0 -----Epsilon: 0.4709031873679652
+Episode: 744 -----Score: 300.0 -----Epsilon: 0.4705162636084859
+Episode: 745 -----Score: 180.0 -----Epsilon: 0.4700807667790502
+Episode: 746 -----Score: 180.0 -----Epsilon: 0.4696625805988957
+Episode: 747 -----Score: 240.0 -----Epsilon: 0.46915655662692385
+Episode: 748 -----Score: 310.0 -----Epsilon: 0.4687391926287016
+Episode: 749 -----Score: 420.0 -----Epsilon: 0.4681817241915266
+Episode: 750 -----Score: 300.0 -----Epsilon: 0.4676978739985342
+Episode: 751 -----Score: 330.0 -----Epsilon: 0.46721265499234743
+Episode: 752 -----Score: 360.0 -----Epsilon: 0.46672233867541657
+Episode: 753 -----Score: 220.0 -----Epsilon: 0.466282892804451
+Episode: 754 -----Score: 210.0 -----Epsilon: 0.4658643582983087
+Episode: 755 -----Score: 180.0 -----Epsilon: 0.46548716057659967
+Episode: 756 -----Score: 190.0 -----Epsilon: 0.46508422278985706
+Episode: 757 -----Score: 440.0 -----Epsilon: 0.46453481745164965
+Episode: 758 -----Score: 220.0 -----Epsilon: 0.46414198679406304
+Episode: 759 -----Score: 250.0 -----Epsilon: 0.4637569083896003
+Episode: 760 -----Score: 270.0 -----Epsilon: 0.46332210792803724
+Episode: 761 -----Score: 840.0 -----Epsilon: 0.46259156146395397
+Episode: 762 -----Score: 250.0 -----Epsilon: 0.4620414043640669
+Episode: 763 -----Score: 310.0 -----Epsilon: 0.46168207558917085
+Episode: 764 -----Score: 390.0 -----Epsilon: 0.46126029053544093
+Episode: 765 -----Score: 320.0 -----Epsilon: 0.460813084536402
+Episode: 766 -----Score: 790.0 -----Epsilon: 0.45992825150004835
+Episode: 767 -----Score: 370.0 -----Epsilon: 0.4594363909714074
+Episode: 768 -----Score: 560.0 -----Epsilon: 0.4589634146403687
+Episode: 769 -----Score: 270.0 -----Epsilon: 0.4584799215634693
+Episode: 770 -----Score: 540.0 -----Epsilon: 0.45796945880094714
+Episode: 771 -----Score: 330.0 -----Epsilon: 0.45749616264354487
+Episode: 772 -----Score: 250.0 -----Epsilon: 0.4571111126183686
+Episode: 773 -----Score: 250.0 -----Epsilon: 0.4566587960981922
+Episode: 774 -----Score: 320.0 -----Epsilon: 0.4561832049830821
+Episode: 775 -----Score: 480.0 -----Epsilon: 0.4556844129470436
+Episode: 776 -----Score: 350.0 -----Epsilon: 0.45531727891797347
+Episode: 777 -----Score: 510.0 -----Epsilon: 0.45467573330911276
+Episode: 778 -----Score: 240.0 -----Epsilon: 0.454229460448579
+Episode: 779 -----Score: 260.0 -----Epsilon: 0.45383989832801025
+Episode: 780 -----Score: 190.0 -----Epsilon: 0.45349964567471573
+Episode: 781 -----Score: 370.0 -----Epsilon: 0.45303096892006267
+Episode: 782 -----Score: 260.0 -----Epsilon: 0.45271124161330584
+Episode: 783 -----Score: 380.0 -----Epsilon: 0.45220358394178234
+Episode: 784 -----Score: 260.0 -----Epsilon: 0.4518284103105416
+Episode: 785 -----Score: 380.0 -----Epsilon: 0.451305495314718
+Episode: 786 -----Score: 290.0 -----Epsilon: 0.4508877794406504
+Episode: 787 -----Score: 260.0 -----Epsilon: 0.4504290087763089
+Episode: 788 -----Score: 250.0 -----Epsilon: 0.4500337052749417
+Episode: 789 -----Score: 230.0 -----Epsilon: 0.4496279574868094
+Episode: 790 -----Score: 400.0 -----Epsilon: 0.4490968106795301
+Episode: 791 -----Score: 510.0 -----Epsilon: 0.4483599980683027
+Episode: 792 -----Score: 150.0 -----Epsilon: 0.4480579049443385
+Episode: 793 -----Score: 380.0 -----Epsilon: 0.4476270800689593
+Episode: 794 -----Score: 430.0 -----Epsilon: 0.4469749146781701
+Episode: 795 -----Score: 120.0 -----Epsilon: 0.44666303473461577
+Episode: 796 -----Score: 610.0 -----Epsilon: 0.44604438797108575
+Episode: 797 -----Score: 220.0 -----Epsilon: 0.44566897629150914
+Episode: 798 -----Score: 330.0 -----Epsilon: 0.44527606915904
+Episode: 799 -----Score: 1860.0 -----Epsilon: 0.4445864251743788
+Episode: 800 -----Score: 350.0 -----Epsilon: 0.44408610209407906
+Episode: 801 -----Score: 290.0 -----Epsilon: 0.4435881164117671
+Episode: 802 -----Score: 260.0 -----Epsilon: 0.4431598167650608
+Episode: 803 -----Score: 420.0 -----Epsilon: 0.44271599257790106
+Episode: 804 -----Score: 560.0 -----Epsilon: 0.4420851288543772
+Episode: 805 -----Score: 760.0 -----Epsilon: 0.4412803822916228
+Episode: 806 -----Score: 470.0 -----Epsilon: 0.44078201659093214
+Episode: 807 -----Score: 370.0 -----Epsilon: 0.44031063159775263
+Episode: 808 -----Score: 180.0 -----Epsilon: 0.4399242081415178
+Episode: 809 -----Score: 350.0 -----Epsilon: 0.43947131903218545
+Episode: 810 -----Score: 420.0 -----Epsilon: 0.43899431176454967
+Episode: 811 -----Score: 430.0 -----Epsilon: 0.43848800401823756
+Episode: 812 -----Score: 320.0 -----Epsilon: 0.43810142771733657
+Episode: 813 -----Score: 370.0 -----Epsilon: 0.4377239466268971
+Episode: 814 -----Score: 310.0 -----Epsilon: 0.4373677839560622
+Episode: 815 -----Score: 690.0 -----Epsilon: 0.43682665712503366
+Episode: 816 -----Score: 630.0 -----Epsilon: 0.43618324829783794
+Episode: 817 -----Score: 320.0 -----Epsilon: 0.4358283392464045
+Episode: 818 -----Score: 160.0 -----Epsilon: 0.4354859124207108
+Episode: 819 -----Score: 230.0 -----Epsilon: 0.43516812339397026
+Episode: 820 -----Score: 260.0 -----Epsilon: 0.43477056104530637
+Episode: 821 -----Score: 370.0 -----Epsilon: 0.4343212401747996
+Episode: 822 -----Score: 560.0 -----Epsilon: 0.43365723610598894
+Episode: 823 -----Score: 410.0 -----Epsilon: 0.43315708379877
+Episode: 824 -----Score: 260.0 -----Epsilon: 0.4327769384073066
+Episode: 825 -----Score: 370.0 -----Epsilon: 0.43229855123192673
+Episode: 826 -----Score: 310.0 -----Epsilon: 0.43191052099655186
+Episode: 827 -----Score: 440.0 -----Epsilon: 0.43125537755023474
+Episode: 828 -----Score: 150.0 -----Epsilon: 0.4309217146985382
+Episode: 829 -----Score: 320.0 -----Epsilon: 0.43052975391541687
+Episode: 830 -----Score: 410.0 -----Epsilon: 0.43011922397358077
+Episode: 831 -----Score: 230.0 -----Epsilon: 0.4297675299591481
+Episode: 832 -----Score: 240.0 -----Epsilon: 0.4294212765426288
+Episode: 833 -----Score: 330.0 -----Epsilon: 0.42898777957265616
+Episode: 834 -----Score: 350.0 -----Epsilon: 0.4284998686655658
+Episode: 835 -----Score: 330.0 -----Epsilon: 0.42812552301889395
+Episode: 836 -----Score: 180.0 -----Epsilon: 0.42771728562190797
+Episode: 837 -----Score: 240.0 -----Epsilon: 0.42732140234179605
+Episode: 838 -----Score: 760.0 -----Epsilon: 0.42674661407875203
+Episode: 839 -----Score: 200.0 -----Epsilon: 0.42638062215087963
+Episode: 840 -----Score: 450.0 -----Epsilon: 0.4258326485453825
+Episode: 841 -----Score: 170.0 -----Epsilon: 0.4254793537314341
+Episode: 842 -----Score: 210.0 -----Epsilon: 0.425136555195905
+Episode: 843 -----Score: 430.0 -----Epsilon: 0.4246920944082375
+Episode: 844 -----Score: 830.0 -----Epsilon: 0.4241089675872752
+Episode: 845 -----Score: 160.0 -----Epsilon: 0.4238079567907629
+Episode: 846 -----Score: 610.0 -----Epsilon: 0.42322265814371596
+Episode: 847 -----Score: 460.0 -----Epsilon: 0.4227751249107047
+Episode: 848 -----Score: 270.0 -----Epsilon: 0.4224074701374037
+Episode: 849 -----Score: 270.0 -----Epsilon: 0.42198780530041097
+Episode: 850 -----Score: 340.0 -----Epsilon: 0.42151628609093067
+Episode: 851 -----Score: 590.0 -----Epsilon: 0.42098466752814917
+Episode: 852 -----Score: 310.0 -----Epsilon: 0.42049744894994784
+Episode: 853 -----Score: 310.0 -----Epsilon: 0.42005111725692146
+Episode: 854 -----Score: 180.0 -----Epsilon: 0.41972108646782685
+Episode: 855 -----Score: 330.0 -----Epsilon: 0.41929402738470933
+Episode: 856 -----Score: 200.0 -----Epsilon: 0.41890761606804977
+Episode: 857 -----Score: 220.0 -----Epsilon: 0.41846799347381913
+Episode: 858 -----Score: 370.0 -----Epsilon: 0.4180020792256066
+Episode: 859 -----Score: 590.0 -----Epsilon: 0.417550045118415
+Episode: 860 -----Score: 1960.0 -----Epsilon: 0.4170217607076161
+Episode: 861 -----Score: 310.0 -----Epsilon: 0.4166341103678659
+Episode: 862 -----Score: 370.0 -----Epsilon: 0.41617356730852584
+Episode: 863 -----Score: 190.0 -----Epsilon: 0.4158299495319996
+Episode: 864 -----Score: 250.0 -----Epsilon: 0.41541848118094693
+Episode: 865 -----Score: 210.0 -----Epsilon: 0.4150439422788307
+Episode: 866 -----Score: 370.0 -----Epsilon: 0.41462330060210156
+Episode: 867 -----Score: 610.0 -----Epsilon: 0.4140904372092776
+Episode: 868 -----Score: 410.0 -----Epsilon: 0.41365090615774064
+Episode: 869 -----Score: 270.0 -----Epsilon: 0.4132052302976867
+Episode: 870 -----Score: 120.0 -----Epsilon: 0.4129251718220452
+Episode: 871 -----Score: 270.0 -----Epsilon: 0.41259743903502855
+Episode: 872 -----Score: 330.0 -----Epsilon: 0.41219576437505845
+Episode: 873 -----Score: 340.0 -----Epsilon: 0.411718717466347
+Episode: 874 -----Score: 280.0 -----Epsilon: 0.41140181575981905
+Episode: 875 -----Score: 290.0 -----Epsilon: 0.4109815774622334
+Episode: 876 -----Score: 150.0 -----Epsilon: 0.41062582112513174
+Episode: 877 -----Score: 300.0 -----Epsilon: 0.41022934771295144
+Episode: 878 -----Score: 350.0 -----Epsilon: 0.4098103070668034
+Episode: 879 -----Score: 280.0 -----Epsilon: 0.4095096163677199
+Episode: 880 -----Score: 240.0 -----Epsilon: 0.40922224121014394
+Episode: 881 -----Score: 360.0 -----Epsilon: 0.4087584457465583
+Episode: 882 -----Score: 330.0 -----Epsilon: 0.408345807721008
+Episode: 883 -----Score: 1070.0 -----Epsilon: 0.4077965434523445
+Episode: 884 -----Score: 410.0 -----Epsilon: 0.4072936323747787
+Episode: 885 -----Score: 480.0 -----Epsilon: 0.4068011046264707
+Episode: 886 -----Score: 280.0 -----Epsilon: 0.40642295508781934
+Episode: 887 -----Score: 260.0 -----Epsilon: 0.40611825184480754
+Episode: 888 -----Score: 390.0 -----Epsilon: 0.4055622502318608
+Episode: 889 -----Score: 200.0 -----Epsilon: 0.40523874033029317
+Episode: 890 -----Score: 250.0 -----Epsilon: 0.40489281383177267
+Episode: 891 -----Score: 260.0 -----Epsilon: 0.4045488008222532
+Episode: 892 -----Score: 350.0 -----Epsilon: 0.4041533451089682
+Episode: 893 -----Score: 650.0 -----Epsilon: 0.4035774325861663
+Episode: 894 -----Score: 240.0 -----Epsilon: 0.4032071181330874
+Episode: 895 -----Score: 340.0 -----Epsilon: 0.40278719471417684
+Episode: 896 -----Score: 500.0 -----Epsilon: 0.40228241562987227
+Episode: 897 -----Score: 300.0 -----Epsilon: 0.40190203603223407
+Episode: 898 -----Score: 280.0 -----Epsilon: 0.40157020168509755
+Episode: 899 -----Score: 350.0 -----Epsilon: 0.40117123882306144
+Episode: 900 -----Score: 400.0 -----Epsilon: 0.40079351307513283
+Episode: 901 -----Score: 270.0 -----Epsilon: 0.40041133800798656
+Episode: 902 -----Score: 270.0 -----Epsilon: 0.39993033224108754
+Episode: 903 -----Score: 300.0 -----Epsilon: 0.39951541951827596
+Episode: 904 -----Score: 620.0 -----Epsilon: 0.39903389385915883
+Episode: 905 -----Score: 390.0 -----Epsilon: 0.3985465717679939
+Episode: 906 -----Score: 390.0 -----Epsilon: 0.3981792808086932
+Episode: 907 -----Score: 280.0 -----Epsilon: 0.39779005144702556
+Episode: 908 -----Score: 140.0 -----Epsilon: 0.3974282267935799
+Episode: 909 -----Score: 250.0 -----Epsilon: 0.39710326310737487
+Episode: 910 -----Score: 280.0 -----Epsilon: 0.3967388892206817
+Episode: 911 -----Score: 360.0 -----Epsilon: 0.39637326417825075
+Episode: 912 -----Score: 360.0 -----Epsilon: 0.3959731288836446
+Episode: 913 -----Score: 390.0 -----Epsilon: 0.39546107051603996
+Episode: 914 -----Score: 340.0 -----Epsilon: 0.3950523746925955
+Episode: 915 -----Score: 370.0 -----Epsilon: 0.39449732079306765
+Episode: 916 -----Score: 300.0 -----Epsilon: 0.39410853774753185
+Episode: 917 -----Score: 410.0 -----Epsilon: 0.39370753899811084
+Episode: 918 -----Score: 450.0 -----Epsilon: 0.3932188572801719
+Episode: 919 -----Score: 170.0 -----Epsilon: 0.392931911975199
+Episode: 920 -----Score: 300.0 -----Epsilon: 0.3925588035402919
+Episode: 921 -----Score: 360.0 -----Epsilon: 0.3920072531417686
+Episode: 922 -----Score: 300.0 -----Epsilon: 0.39154574002066495
+Episode: 923 -----Score: 340.0 -----Epsilon: 0.39108477024246935
+Episode: 924 -----Score: 370.0 -----Epsilon: 0.39073842224451577
+Episode: 925 -----Score: 480.0 -----Epsilon: 0.39020191578020524
+Episode: 926 -----Score: 240.0 -----Epsilon: 0.38991561237393096
+Episode: 927 -----Score: 370.0 -----Epsilon: 0.38949083547714325
+Episode: 928 -----Score: 260.0 -----Epsilon: 0.3890602963146222
+Episode: 929 -----Score: 160.0 -----Epsilon: 0.38876083489444946
+Episode: 930 -----Score: 280.0 -----Epsilon: 0.38834974302599495
+Episode: 931 -----Score: 260.0 -----Epsilon: 0.38802754614729706
+Episode: 932 -----Score: 220.0 -----Epsilon: 0.3877319814860127
+Episode: 933 -----Score: 260.0 -----Epsilon: 0.38737000852103
+Episode: 934 -----Score: 330.0 -----Epsilon: 0.38701301761428963
+Episode: 935 -----Score: 330.0 -----Epsilon: 0.3866362500739537
+Episode: 936 -----Score: 280.0 -----Epsilon: 0.3862304946644998
+Episode: 937 -----Score: 180.0 -----Epsilon: 0.38592240536565575
+Episode: 938 -----Score: 280.0 -----Epsilon: 0.3855898832573356
+Episode: 939 -----Score: 230.0 -----Epsilon: 0.3852607297364473
+Episode: 940 -----Score: 1130.0 -----Epsilon: 0.38477021959756974
+Episode: 941 -----Score: 240.0 -----Epsilon: 0.38444637910481655
+Episode: 942 -----Score: 330.0 -----Epsilon: 0.38403370492669575
+Episode: 943 -----Score: 460.0 -----Epsilon: 0.3835984571022311
+Episode: 944 -----Score: 1400.0 -----Epsilon: 0.38292008768884495
+Episode: 945 -----Score: 470.0 -----Epsilon: 0.3825121119571027
+Episode: 946 -----Score: 600.0 -----Epsilon: 0.38205566459229484
+Episode: 947 -----Score: 330.0 -----Epsilon: 0.38165318966089856
+Episode: 948 -----Score: 310.0 -----Epsilon: 0.3812252144931026
+Episode: 949 -----Score: 210.0 -----Epsilon: 0.3809439737941564
+Episode: 950 -----Score: 340.0 -----Epsilon: 0.3804954855559868
+Episode: 951 -----Score: 370.0 -----Epsilon: 0.38011746057486984
+Episode: 952 -----Score: 220.0 -----Epsilon: 0.3798309597474883
+Episode: 953 -----Score: 260.0 -----Epsilon: 0.3794232398737736
+Episode: 954 -----Score: 370.0 -----Epsilon: 0.3789856375624652
+Episode: 955 -----Score: 270.0 -----Epsilon: 0.37861062706710125
+Episode: 956 -----Score: 890.0 -----Epsilon: 0.37814370923394836
+Episode: 957 -----Score: 270.0 -----Epsilon: 0.3777559323640588
+Episode: 958 -----Score: 260.0 -----Epsilon: 0.3774259175866326
+Episode: 959 -----Score: 320.0 -----Epsilon: 0.37707356600106917
+Episode: 960 -----Score: 210.0 -----Epsilon: 0.37669743392720184
+Episode: 961 -----Score: 340.0 -----Epsilon: 0.3762328755206772
+Episode: 962 -----Score: 220.0 -----Epsilon: 0.37588013419225286
+Episode: 963 -----Score: 470.0 -----Epsilon: 0.3754316006912927
+Episode: 964 -----Score: 350.0 -----Epsilon: 0.3751126190981144
+Episode: 965 -----Score: 350.0 -----Epsilon: 0.37473994203324973
+Episode: 966 -----Score: 570.0 -----Epsilon: 0.3742553416677272
+Episode: 967 -----Score: 290.0 -----Epsilon: 0.37385510221820556
+Episode: 968 -----Score: 370.0 -----Epsilon: 0.37348516844451796
+Episode: 969 -----Score: 530.0 -----Epsilon: 0.3730439693342705
+Episode: 970 -----Score: 420.0 -----Epsilon: 0.37264204420997754
+Episode: 971 -----Score: 190.0 -----Epsilon: 0.3723924574116908
+Episode: 972 -----Score: 450.0 -----Epsilon: 0.3718975041652624
+Episode: 973 -----Score: 210.0 -----Epsilon: 0.3715889569930561
+Episode: 974 -----Score: 280.0 -----Epsilon: 0.3711900842873669
+Episode: 975 -----Score: 210.0 -----Epsilon: 0.37088954175471756
+Episode: 976 -----Score: 260.0 -----Epsilon: 0.37050327574549385
+Episode: 977 -----Score: 180.0 -----Epsilon: 0.37022846400784926
+Episode: 978 -----Score: 190.0 -----Epsilon: 0.3698828317122507
+Episode: 979 -----Score: 210.0 -----Epsilon: 0.3695286532838562
+Episode: 980 -----Score: 280.0 -----Epsilon: 0.3690995099401787
+Episode: 981 -----Score: 490.0 -----Epsilon: 0.3686207290934984
+Episode: 982 -----Score: 290.0 -----Epsilon: 0.3682824902013659
+Episode: 983 -----Score: 390.0 -----Epsilon: 0.3678959961450588
+Episode: 984 -----Score: 340.0 -----Epsilon: 0.3674981475542931
+Episode: 985 -----Score: 390.0 -----Epsilon: 0.3671080712986781
+Episode: 986 -----Score: 470.0 -----Epsilon: 0.36670520744626794
+Episode: 987 -----Score: 170.0 -----Epsilon: 0.36636579525686636
+Episode: 988 -----Score: 280.0 -----Epsilon: 0.36606476601211385
+Episode: 989 -----Score: 640.0 -----Epsilon: 0.36559869598380423
+Episode: 990 -----Score: 390.0 -----Epsilon: 0.36516243120644826
+Episode: 991 -----Score: 180.0 -----Epsilon: 0.36484341835149364
+Episode: 992 -----Score: 310.0 -----Epsilon: 0.3644503286668385
+Episode: 993 -----Score: 200.0 -----Epsilon: 0.36417854983599
+Episode: 994 -----Score: 310.0 -----Epsilon: 0.36377890083608394
+Episode: 995 -----Score: 270.0 -----Epsilon: 0.3634756354087902
+Episode: 996 -----Score: 240.0 -----Epsilon: 0.3631421175500951
+Episode: 997 -----Score: 200.0 -----Epsilon: 0.36274505690821707
+Episode: 998 -----Score: 270.0 -----Epsilon: 0.3624223571075892
+Episode: 999 -----Score: 140.0 -----Epsilon: 0.3621680256393648
+Episode: 1000 -----Score: 630.0 -----Epsilon: 0.3616910021321066
+Episode: 1001 -----Score: 260.0 -----Epsilon: 0.3613952595718257
+Episode: 1002 -----Score: 220.0 -----Epsilon: 0.3610102171041874
+Episode: 1003 -----Score: 160.0 -----Epsilon: 0.36078285206755933
+Episode: 1004 -----Score: 750.0 -----Epsilon: 0.36037395579243614
+Episode: 1005 -----Score: 400.0 -----Epsilon: 0.3599784819483851
+Episode: 1006 -----Score: 290.0 -----Epsilon: 0.3596668752166086
+Episode: 1007 -----Score: 150.0 -----Epsilon: 0.3593742252122503
+Episode: 1008 -----Score: 290.0 -----Epsilon: 0.3590933041416756
+Episode: 1009 -----Score: 290.0 -----Epsilon: 0.3588039912579856
+Episode: 1010 -----Score: 580.0 -----Epsilon: 0.3584116739359461
+Episode: 1011 -----Score: 370.0 -----Epsilon: 0.3580684796254531
+Episode: 1012 -----Score: 310.0 -----Epsilon: 0.35781004723005866
+Episode: 1013 -----Score: 260.0 -----Epsilon: 0.3574988875519033
+Episode: 1014 -----Score: 250.0 -----Epsilon: 0.3571551386480715
+Episode: 1015 -----Score: 300.0 -----Epsilon: 0.35679173935516156
+Episode: 1016 -----Score: 140.0 -----Epsilon: 0.35653708072256074
+Episode: 1017 -----Score: 730.0 -----Epsilon: 0.3559663650138824
+Episode: 1018 -----Score: 430.0 -----Epsilon: 0.35549040003312177
+Episode: 1019 -----Score: 280.0 -----Epsilon: 0.35514432060546025
+Episode: 1020 -----Score: 230.0 -----Epsilon: 0.3548667060305858
+Episode: 1021 -----Score: 290.0 -----Epsilon: 0.35454817845034037
+Episode: 1022 -----Score: 390.0 -----Epsilon: 0.3541746811644127
+Episode: 1023 -----Score: 270.0 -----Epsilon: 0.3538850844468359
+Episode: 1024 -----Score: 250.0 -----Epsilon: 0.3535716808069349
+Episode: 1025 -----Score: 280.0 -----Epsilon: 0.3532882297145656
+Episode: 1026 -----Score: 320.0 -----Epsilon: 0.35283560394656677
+Episode: 1027 -----Score: 230.0 -----Epsilon: 0.35252453983226995
+Episode: 1028 -----Score: 340.0 -----Epsilon: 0.3522052969188248
+Episode: 1029 -----Score: 380.0 -----Epsilon: 0.35174843055698446
+Episode: 1030 -----Score: 330.0 -----Epsilon: 0.35141723921982776
+Episode: 1031 -----Score: 310.0 -----Epsilon: 0.351087764067976
+Episode: 1032 -----Score: 220.0 -----Epsilon: 0.35073194115210377
+Episode: 1033 -----Score: 380.0 -----Epsilon: 0.3503330348249273
+Episode: 1034 -----Score: 230.0 -----Epsilon: 0.35002977744291813
+Episode: 1035 -----Score: 510.0 -----Epsilon: 0.34951141699436766
+Episode: 1036 -----Score: 390.0 -----Epsilon: 0.3491334497803596
+Episode: 1037 -----Score: 520.0 -----Epsilon: 0.3486721998518913
+Episode: 1038 -----Score: 440.0 -----Epsilon: 0.348083440886854
+Episode: 1039 -----Score: 370.0 -----Epsilon: 0.3475763045151713
+Episode: 1040 -----Score: 360.0 -----Epsilon: 0.3472393186273927
+Episode: 1041 -----Score: 580.0 -----Epsilon: 0.34674034683494903
+Episode: 1042 -----Score: 500.0 -----Epsilon: 0.34617285048574736
+Episode: 1043 -----Score: 160.0 -----Epsilon: 0.34582477536123524
+Episode: 1044 -----Score: 300.0 -----Epsilon: 0.34546599512479614
+Episode: 1045 -----Score: 330.0 -----Epsilon: 0.3451683314508175
+Episode: 1046 -----Score: 270.0 -----Epsilon: 0.34489713546509276
+Episode: 1047 -----Score: 420.0 -----Epsilon: 0.34451037750414315
+Episode: 1048 -----Score: 220.0 -----Epsilon: 0.34420252255047556
+Episode: 1049 -----Score: 260.0 -----Epsilon: 0.34391145006635343
+Episode: 1050 -----Score: 320.0 -----Epsilon: 0.34359450952450254
+Episode: 1051 -----Score: 310.0 -----Epsilon: 0.34326962248941034
+Episode: 1052 -----Score: 300.0 -----Epsilon: 0.34292035147356403
+Episode: 1053 -----Score: 520.0 -----Epsilon: 0.34252621934465777
+Episode: 1054 -----Score: 340.0 -----Epsilon: 0.3421530687964246
+Episode: 1055 -----Score: 520.0 -----Epsilon: 0.34173111188854083
+Episode: 1056 -----Score: 410.0 -----Epsilon: 0.3413301545702354
+Episode: 1057 -----Score: 410.0 -----Epsilon: 0.34096921787495293
+Episode: 1058 -----Score: 290.0 -----Epsilon: 0.34063318758026695
+Episode: 1059 -----Score: 710.0 -----Epsilon: 0.34021990938789715
+Episode: 1060 -----Score: 620.0 -----Epsilon: 0.33979897732986014
+Episode: 1061 -----Score: 340.0 -----Epsilon: 0.33945866893725357
+Episode: 1062 -----Score: 360.0 -----Epsilon: 0.3390739406041541
+Episode: 1063 -----Score: 650.0 -----Epsilon: 0.33859618276858405
+Episode: 1064 -----Score: 200.0 -----Epsilon: 0.3383152642532859
+Episode: 1065 -----Score: 310.0 -----Epsilon: 0.33799536902771404
+Episode: 1066 -----Score: 390.0 -----Epsilon: 0.3376325565037747
+Episode: 1067 -----Score: 410.0 -----Epsilon: 0.33725664288268864
+Episode: 1068 -----Score: 220.0 -----Epsilon: 0.3370051429967256
+Episode: 1069 -----Score: 730.0 -----Epsilon: 0.33655049255713937
+Episode: 1070 -----Score: 130.0 -----Epsilon: 0.3363116262761279
+Episode: 1071 -----Score: 360.0 -----Epsilon: 0.3359627155751336
+Episode: 1072 -----Score: 170.0 -----Epsilon: 0.33566786947240007
+Episode: 1073 -----Score: 310.0 -----Epsilon: 0.33532901573533147
+Episode: 1074 -----Score: 540.0 -----Epsilon: 0.3348913614535912
+Episode: 1075 -----Score: 280.0 -----Epsilon: 0.33459879398173
+Episode: 1076 -----Score: 240.0 -----Epsilon: 0.334309156567614
+Episode: 1077 -----Score: 170.0 -----Epsilon: 0.3340024012773579
+Episode: 1078 -----Score: 200.0 -----Epsilon: 0.33366389415607967
+Episode: 1079 -----Score: 370.0 -----Epsilon: 0.33332039693304805
+Episode: 1080 -----Score: 190.0 -----Epsilon: 0.3330065566472872
+Episode: 1081 -----Score: 260.0 -----Epsilon: 0.332630471390389
+Episode: 1082 -----Score: 320.0 -----Epsilon: 0.33226943041815993
+Episode: 1083 -----Score: 230.0 -----Epsilon: 0.3319738418859151
+Episode: 1084 -----Score: 340.0 -----Epsilon: 0.33164004379577944
+Episode: 1085 -----Score: 960.0 -----Epsilon: 0.33119925528608923
+Episode: 1086 -----Score: 1170.0 -----Epsilon: 0.3306862935754731
+Episode: 1087 -----Score: 450.0 -----Epsilon: 0.3303207563485993
+Episode: 1088 -----Score: 270.0 -----Epsilon: 0.3299925803191292
+Episode: 1089 -----Score: 1050.0 -----Epsilon: 0.329493349066728
+Episode: 1090 -----Score: 330.0 -----Epsilon: 0.329156778544252
+Episode: 1091 -----Score: 850.0 -----Epsilon: 0.32871008656481
+Episode: 1092 -----Score: 330.0 -----Epsilon: 0.32841372345023195
+Episode: 1093 -----Score: 330.0 -----Epsilon: 0.32810319066248966
+Episode: 1094 -----Score: 1020.0 -----Epsilon: 0.32751248051191384
+Episode: 1095 -----Score: 290.0 -----Epsilon: 0.3272499205406119
+Episode: 1096 -----Score: 170.0 -----Epsilon: 0.3269548739032833
+Episode: 1097 -----Score: 240.0 -----Epsilon: 0.32671628370276873
+Episode: 1098 -----Score: 420.0 -----Epsilon: 0.32635644030842104
+Episode: 1099 -----Score: 180.0 -----Epsilon: 0.32601916181490453
+Episode: 1100 -----Score: 310.0 -----Epsilon: 0.32569265389605234
+Episode: 1101 -----Score: 960.0 -----Epsilon: 0.3252975025244953
+Episode: 1102 -----Score: 240.0 -----Epsilon: 0.32502891745973445
+Episode: 1103 -----Score: 1190.0 -----Epsilon: 0.32443465785991643
+Episode: 1104 -----Score: 150.0 -----Epsilon: 0.3241628952293202
+Episode: 1105 -----Score: 290.0 -----Epsilon: 0.32389395138447813
+Episode: 1106 -----Score: 760.0 -----Epsilon: 0.32337548815583855
+Episode: 1107 -----Score: 350.0 -----Epsilon: 0.3230529200843407
+Episode: 1108 -----Score: 240.0 -----Epsilon: 0.3227474562236718
+Episode: 1109 -----Score: 320.0 -----Epsilon: 0.3224513097147646
+Episode: 1110 -----Score: 340.0 -----Epsilon: 0.3221000289187183
+Episode: 1111 -----Score: 300.0 -----Epsilon: 0.32185468194041217
+Episode: 1112 -----Score: 260.0 -----Epsilon: 0.3215850804261633
+Episode: 1113 -----Score: 220.0 -----Epsilon: 0.3212270337575542
+Episode: 1114 -----Score: 300.0 -----Epsilon: 0.320974648257137
+Episode: 1115 -----Score: 320.0 -----Epsilon: 0.3206429316661638
+Episode: 1116 -----Score: 630.0 -----Epsilon: 0.32020395118110423
+Episode: 1117 -----Score: 310.0 -----Epsilon: 0.3198858262697885
+Episode: 1118 -----Score: 570.0 -----Epsilon: 0.31949388616323066
+Episode: 1119 -----Score: 300.0 -----Epsilon: 0.31917391330250516
+Episode: 1120 -----Score: 630.0 -----Epsilon: 0.3187904963550581
+Episode: 1121 -----Score: 1440.0 -----Epsilon: 0.3182114611561427
+Episode: 1122 -----Score: 250.0 -----Epsilon: 0.3179118468006445
+Episode: 1123 -----Score: 320.0 -----Epsilon: 0.31763411295618377
+Episode: 1124 -----Score: 190.0 -----Epsilon: 0.31737820275090445
+Episode: 1125 -----Score: 1050.0 -----Epsilon: 0.31682961257889175
+Episode: 1126 -----Score: 580.0 -----Epsilon: 0.3163831971755714
+Episode: 1127 -----Score: 370.0 -----Epsilon: 0.31602967806162696
+Episode: 1128 -----Score: 320.0 -----Epsilon: 0.31573969564948356
+Episode: 1129 -----Score: 350.0 -----Epsilon: 0.3154575502172353
+Episode: 1130 -----Score: 180.0 -----Epsilon: 0.3151756569105368
+Episode: 1131 -----Score: 630.0 -----Epsilon: 0.31478696963060754
+Episode: 1132 -----Score: 440.0 -----Epsilon: 0.314442780647354
+Episode: 1133 -----Score: 320.0 -----Epsilon: 0.31412535344920073
+Episode: 1134 -----Score: 250.0 -----Epsilon: 0.31386975919687954
+Episode: 1135 -----Score: 210.0 -----Epsilon: 0.3136244087443741
+Episode: 1136 -----Score: 310.0 -----Epsilon: 0.3133842641942419
+Episode: 1137 -----Score: 350.0 -----Epsilon: 0.3130616442572998
+Episode: 1138 -----Score: 220.0 -----Epsilon: 0.31278814764215984
+Episode: 1139 -----Score: 190.0 -----Epsilon: 0.3125361417151925
+Episode: 1140 -----Score: 200.0 -----Epsilon: 0.3122918337449366
+Episode: 1141 -----Score: 420.0 -----Epsilon: 0.3119591076919415
+Episode: 1142 -----Score: 370.0 -----Epsilon: 0.31168532752869427
+Episode: 1143 -----Score: 310.0 -----Epsilon: 0.311297209070498
+Episode: 1144 -----Score: 370.0 -----Epsilon: 0.31100783695558765
+Episode: 1145 -----Score: 400.0 -----Epsilon: 0.31063422974488575
+Episode: 1146 -----Score: 1070.0 -----Epsilon: 0.31023376954043064
+Episode: 1147 -----Score: 320.0 -----Epsilon: 0.30991067399149763
+Episode: 1148 -----Score: 240.0 -----Epsilon: 0.3096473615789282
+Episode: 1149 -----Score: 330.0 -----Epsilon: 0.30937561024001303
+Episode: 1150 -----Score: 380.0 -----Epsilon: 0.30906577082419234
+Episode: 1151 -----Score: 290.0 -----Epsilon: 0.30878711891116967
+Episode: 1152 -----Score: 310.0 -----Epsilon: 0.30846182842075837
+Episode: 1153 -----Score: 550.0 -----Epsilon: 0.30811469552732795
+Episode: 1154 -----Score: 290.0 -----Epsilon: 0.30779257573171803
+Episode: 1155 -----Score: 500.0 -----Epsilon: 0.30743881736592515
+Episode: 1156 -----Score: 280.0 -----Epsilon: 0.3071493460728874
+Episode: 1157 -----Score: 320.0 -----Epsilon: 0.30684910055617937
+Episode: 1158 -----Score: 300.0 -----Epsilon: 0.30658593667819284
+Episode: 1159 -----Score: 440.0 -----Epsilon: 0.3061527300797786
+Episode: 1160 -----Score: 180.0 -----Epsilon: 0.30586814011106905
+Episode: 1161 -----Score: 280.0 -----Epsilon: 0.3056351571331158
+Episode: 1162 -----Score: 270.0 -----Epsilon: 0.30533517042641156
+Episode: 1163 -----Score: 490.0 -----Epsilon: 0.3049464207166943
+Episode: 1164 -----Score: 340.0 -----Epsilon: 0.30462273919952804
+Episode: 1165 -----Score: 250.0 -----Epsilon: 0.3043833995599846
+Episode: 1166 -----Score: 310.0 -----Epsilon: 0.3040785598389997
+Episode: 1167 -----Score: 200.0 -----Epsilon: 0.303765519852602
+Episode: 1168 -----Score: 110.0 -----Epsilon: 0.3035584221893005
+Episode: 1169 -----Score: 280.0 -----Epsilon: 0.30327017833749265
+Episode: 1170 -----Score: 240.0 -----Epsilon: 0.3029506996449022
+Episode: 1171 -----Score: 360.0 -----Epsilon: 0.3026993546354669
+Episode: 1172 -----Score: 300.0 -----Epsilon: 0.30238652495077145
+Episode: 1173 -----Score: 420.0 -----Epsilon: 0.30188316790969916
+Episode: 1174 -----Score: 110.0 -----Epsilon: 0.30162908901047436
+Episode: 1175 -----Score: 510.0 -----Epsilon: 0.30127397878950435
+Episode: 1176 -----Score: 190.0 -----Epsilon: 0.30102522898209455
+Episode: 1177 -----Score: 290.0 -----Epsilon: 0.300722549572337
+Episode: 1178 -----Score: 740.0 -----Epsilon: 0.30020154798930687
+Episode: 1179 -----Score: 340.0 -----Epsilon: 0.29985531487163636
+Episode: 1180 -----Score: 760.0 -----Epsilon: 0.2993166588737113
+Episode: 1181 -----Score: 220.0 -----Epsilon: 0.29913891739504833
+Episode: 1182 -----Score: 210.0 -----Epsilon: 0.29883933001858054
+Episode: 1183 -----Score: 370.0 -----Epsilon: 0.29835500503472395
+Episode: 1184 -----Score: 200.0 -----Epsilon: 0.29804785728064637
+Episode: 1185 -----Score: 260.0 -----Epsilon: 0.2977660370478333
+Episode: 1186 -----Score: 210.0 -----Epsilon: 0.29748329335442103
+Episode: 1187 -----Score: 690.0 -----Epsilon: 0.2971140480836179
+Episode: 1188 -----Score: 210.0 -----Epsilon: 0.2968378601899961
+Episode: 1189 -----Score: 330.0 -----Epsilon: 0.29651566893316555
+Episode: 1190 -----Score: 350.0 -----Epsilon: 0.29624122223772464
+Episode: 1191 -----Score: 300.0 -----Epsilon: 0.2959421693513494
+Episode: 1192 -----Score: 380.0 -----Epsilon: 0.29555473854466285
+Episode: 1193 -----Score: 280.0 -----Epsilon: 0.29530834840530285
+Episode: 1194 -----Score: 420.0 -----Epsilon: 0.29494652185333764
+Episode: 1195 -----Score: 330.0 -----Epsilon: 0.2946888509541593
+Episode: 1196 -----Score: 320.0 -----Epsilon: 0.29445967196113193
+Episode: 1197 -----Score: 1030.0 -----Epsilon: 0.2940941797007508
+Episode: 1198 -----Score: 350.0 -----Epsilon: 0.29375616545153516
+Episode: 1199 -----Score: 180.0 -----Epsilon: 0.29351127469830285
+Episode: 1200 -----Score: 340.0 -----Epsilon: 0.2932161505331849
+Episode: 1201 -----Score: 310.0 -----Epsilon: 0.2929283533171323
+Episode: 1202 -----Score: 490.0 -----Epsilon: 0.2924500987499619
+Episode: 1203 -----Score: 470.0 -----Epsilon: 0.29207308097431506
+Episode: 1204 -----Score: 600.0 -----Epsilon: 0.29175022639540427
+Episode: 1205 -----Score: 350.0 -----Epsilon: 0.29151866842477453
+Episode: 1206 -----Score: 330.0 -----Epsilon: 0.2912255478156132
+Episode: 1207 -----Score: 270.0 -----Epsilon: 0.29093504941121806
+Episode: 1208 -----Score: 210.0 -----Epsilon: 0.2906808830107692
+Episode: 1209 -----Score: 190.0 -----Epsilon: 0.29043971773414623
+Episode: 1210 -----Score: 630.0 -----Epsilon: 0.2900200449791676
+Episode: 1211 -----Score: 250.0 -----Epsilon: 0.289768996089033
+Episode: 1212 -----Score: 330.0 -----Epsilon: 0.2894926880103728
+Episode: 1213 -----Score: 140.0 -----Epsilon: 0.2892837495165691
+Episode: 1214 -----Score: 520.0 -----Epsilon: 0.2888726799534256
+Episode: 1215 -----Score: 290.0 -----Epsilon: 0.28857760258966003
+Episode: 1216 -----Score: 360.0 -----Epsilon: 0.2882597649145004
+Episode: 1217 -----Score: 1170.0 -----Epsilon: 0.2877741679385509
+Episode: 1218 -----Score: 250.0 -----Epsilon: 0.2875124123008565
+Episode: 1219 -----Score: 320.0 -----Epsilon: 0.28721872442187407
+Episode: 1220 -----Score: 550.0 -----Epsilon: 0.2867887924422192
+Episode: 1221 -----Score: 310.0 -----Epsilon: 0.28656002604702113
+Episode: 1222 -----Score: 270.0 -----Epsilon: 0.2863154080069359
+Episode: 1223 -----Score: 270.0 -----Epsilon: 0.28607557595886385
+Episode: 1224 -----Score: 330.0 -----Epsilon: 0.28577535394803194
+Episode: 1225 -----Score: 220.0 -----Epsilon: 0.28555424918155964
+Episode: 1226 -----Score: 600.0 -----Epsilon: 0.28519524743654
+Episode: 1227 -----Score: 290.0 -----Epsilon: 0.2849643325883463
+Episode: 1228 -----Score: 270.0 -----Epsilon: 0.28471538231983584
+Episode: 1229 -----Score: 240.0 -----Epsilon: 0.28449168373070216
+Episode: 1230 -----Score: 210.0 -----Epsilon: 0.2842033550824076
+Episode: 1231 -----Score: 330.0 -----Epsilon: 0.2839107760381756
+Episode: 1232 -----Score: 270.0 -----Epsilon: 0.2836695541711451
+Episode: 1233 -----Score: 140.0 -----Epsilon: 0.28338999355721095
+Episode: 1234 -----Score: 400.0 -----Epsilon: 0.283033712736667
+Episode: 1235 -----Score: 320.0 -----Epsilon: 0.28277400675196157
+Episode: 1236 -----Score: 220.0 -----Epsilon: 0.28245013303144656
+Episode: 1237 -----Score: 720.0 -----Epsilon: 0.28198334618377835
+Episode: 1238 -----Score: 220.0 -----Epsilon: 0.2817415079943402
+Episode: 1239 -----Score: 240.0 -----Epsilon: 0.281499877213285
+Episode: 1240 -----Score: 250.0 -----Epsilon: 0.2813079595564729
+Episode: 1241 -----Score: 620.0 -----Epsilon: 0.28090035818993103
+Episode: 1242 -----Score: 410.0 -----Epsilon: 0.2806010776536945
+Episode: 1243 -----Score: 1830.0 -----Epsilon: 0.28029090410923246
+Episode: 1244 -----Score: 740.0 -----Epsilon: 0.2798657448691526
+Episode: 1245 -----Score: 360.0 -----Epsilon: 0.27956533011035833
+Episode: 1246 -----Score: 520.0 -----Epsilon: 0.2792071566372438
+Episode: 1247 -----Score: 190.0 -----Epsilon: 0.27898778581678807
+Episode: 1248 -----Score: 380.0 -----Epsilon: 0.2787373669895935
+Episode: 1249 -----Score: 330.0 -----Epsilon: 0.2784849450470918
+Episode: 1250 -----Score: 210.0 -----Epsilon: 0.2782872907140506
+Episode: 1251 -----Score: 290.0 -----Epsilon: 0.2780386128030704
+Episode: 1252 -----Score: 370.0 -----Epsilon: 0.277714608387829
+Episode: 1253 -----Score: 160.0 -----Epsilon: 0.27749863023292687
+Episode: 1254 -----Score: 350.0 -----Epsilon: 0.2772329135780539
+Episode: 1255 -----Score: 360.0 -----Epsilon: 0.27694307927039385
+Episode: 1256 -----Score: 280.0 -----Epsilon: 0.2766624010352572
+Episode: 1257 -----Score: 220.0 -----Epsilon: 0.27639306277634224
+Episode: 1258 -----Score: 390.0 -----Epsilon: 0.276074288831076
+Episode: 1259 -----Score: 680.0 -----Epsilon: 0.2756246538427272
+Episode: 1260 -----Score: 730.0 -----Epsilon: 0.27525611429529484
+Episode: 1261 -----Score: 200.0 -----Epsilon: 0.2750057449162678
+Episode: 1262 -----Score: 320.0 -----Epsilon: 0.2747402173716105
+Episode: 1263 -----Score: 330.0 -----Epsilon: 0.2744749462029684
+Episode: 1264 -----Score: 190.0 -----Epsilon: 0.2741759312053786
+Episode: 1265 -----Score: 210.0 -----Epsilon: 0.27391230052262505
+Episode: 1266 -----Score: 620.0 -----Epsilon: 0.27354605057414044
+Episode: 1267 -----Score: 330.0 -----Epsilon: 0.27329832983904384
+Episode: 1268 -----Score: 290.0 -----Epsilon: 0.2730650324642283
+Episode: 1269 -----Score: 350.0 -----Epsilon: 0.27278610227972916
+Episode: 1270 -----Score: 490.0 -----Epsilon: 0.27250636698780617
+Episode: 1271 -----Score: 310.0 -----Epsilon: 0.2722247407485793
+Episode: 1272 -----Score: 620.0 -----Epsilon: 0.2718661845221836
+Episode: 1273 -----Score: 370.0 -----Epsilon: 0.2715634939199118
+Episode: 1274 -----Score: 260.0 -----Epsilon: 0.2713034604086497
+Episode: 1275 -----Score: 100.0 -----Epsilon: 0.27112174778899334
+Episode: 1276 -----Score: 190.0 -----Epsilon: 0.270891391988108
+Episode: 1277 -----Score: 360.0 -----Epsilon: 0.27059628094047744
+Episode: 1278 -----Score: 450.0 -----Epsilon: 0.2703306855556827
+Episode: 1279 -----Score: 160.0 -----Epsilon: 0.27008695697170537
+Episode: 1280 -----Score: 320.0 -----Epsilon: 0.2697862473273075
+Episode: 1281 -----Score: 310.0 -----Epsilon: 0.269488028385027
+Episode: 1282 -----Score: 300.0 -----Epsilon: 0.2692482904992173
+Episode: 1283 -----Score: 330.0 -----Epsilon: 0.2690098419237101
+Episode: 1284 -----Score: 260.0 -----Epsilon: 0.26875440367083187
+Episode: 1285 -----Score: 220.0 -----Epsilon: 0.26856258132352145
+Episode: 1286 -----Score: 300.0 -----Epsilon: 0.2683011284560826
+Episode: 1287 -----Score: 220.0 -----Epsilon: 0.268105339908041
+Episode: 1288 -----Score: 300.0 -----Epsilon: 0.2678625462294417
+Episode: 1289 -----Score: 350.0 -----Epsilon: 0.2675953524929697
+Episode: 1290 -----Score: 320.0 -----Epsilon: 0.2673359105912815
+Episode: 1291 -----Score: 210.0 -----Epsilon: 0.2671226614191221
+Episode: 1292 -----Score: 330.0 -----Epsilon: 0.2668978385770903
+Episode: 1293 -----Score: 1140.0 -----Epsilon: 0.26645781981873645
+Episode: 1294 -----Score: 180.0 -----Epsilon: 0.26624101118968385
+Episode: 1295 -----Score: 450.0 -----Epsilon: 0.2659062902465118
+Episode: 1296 -----Score: 230.0 -----Epsilon: 0.26569418145745477
+Episode: 1297 -----Score: 430.0 -----Epsilon: 0.2654344593131049
+Episode: 1298 -----Score: 350.0 -----Epsilon: 0.26519938829892503
+Episode: 1299 -----Score: 190.0 -----Epsilon: 0.26497618417290225
+Episode: 1300 -----Score: 300.0 -----Epsilon: 0.26472245828884944
+Episode: 1301 -----Score: 280.0 -----Epsilon: 0.26452081640930974
+Episode: 1302 -----Score: 420.0 -----Epsilon: 0.26426646949006766
+Episode: 1303 -----Score: 380.0 -----Epsilon: 0.26394267700004215
+Episode: 1304 -----Score: 220.0 -----Epsilon: 0.26370259817633196
+Episode: 1305 -----Score: 260.0 -----Epsilon: 0.26347643815746474
+Episode: 1306 -----Score: 250.0 -----Epsilon: 0.26328311721600633
+Episode: 1307 -----Score: 370.0 -----Epsilon: 0.2630215435595714
+Episode: 1308 -----Score: 400.0 -----Epsilon: 0.26275707667143944
+Episode: 1309 -----Score: 390.0 -----Epsilon: 0.2624603285723131
+Episode: 1310 -----Score: 220.0 -----Epsilon: 0.26222998930722785
+Episode: 1311 -----Score: 270.0 -----Epsilon: 0.26200194820076006
+Episode: 1312 -----Score: 290.0 -----Epsilon: 0.2618107563808924
+Episode: 1313 -----Score: 470.0 -----Epsilon: 0.2615108928088684
+Episode: 1314 -----Score: 190.0 -----Epsilon: 0.26129183825832203
+Episode: 1315 -----Score: 280.0 -----Epsilon: 0.2610667015164887
+Episode: 1316 -----Score: 360.0 -----Epsilon: 0.26076143178806716
+Episode: 1317 -----Score: 410.0 -----Epsilon: 0.26047214689232506
+Episode: 1318 -----Score: 610.0 -----Epsilon: 0.26016757238672444
+Episode: 1319 -----Score: 380.0 -----Epsilon: 0.25986335402526695
+Episode: 1320 -----Score: 370.0 -----Epsilon: 0.2595449564524362
+Episode: 1321 -----Score: 1110.0 -----Epsilon: 0.25918443921998224
+Episode: 1322 -----Score: 940.0 -----Epsilon: 0.2588223521696952
+Episode: 1323 -----Score: 640.0 -----Epsilon: 0.2584855844137947
+Episode: 1324 -----Score: 320.0 -----Epsilon: 0.2582680309370376
+Episode: 1325 -----Score: 830.0 -----Epsilon: 0.2578845292718815
+Episode: 1326 -----Score: 300.0 -----Epsilon: 0.2576334717741686
+Episode: 1327 -----Score: 1760.0 -----Epsilon: 0.257318835638864
+Episode: 1328 -----Score: 410.0 -----Epsilon: 0.25707655518542755
+Episode: 1329 -----Score: 990.0 -----Epsilon: 0.25676568035998526
+Episode: 1330 -----Score: 300.0 -----Epsilon: 0.2565464958548837
+Episode: 1331 -----Score: 560.0 -----Epsilon: 0.25605593498777895
+Episode: 1332 -----Score: 460.0 -----Epsilon: 0.2557248125592064
+Episode: 1333 -----Score: 400.0 -----Epsilon: 0.2554452023093581
+Episode: 1334 -----Score: 240.0 -----Epsilon: 0.2552312286833257
+Episode: 1335 -----Score: 120.0 -----Epsilon: 0.2550878288885262
+Episode: 1336 -----Score: 310.0 -----Epsilon: 0.25484051341459163
+Episode: 1337 -----Score: 290.0 -----Epsilon: 0.2545689978992649
+Episode: 1338 -----Score: 510.0 -----Epsilon: 0.25424488317675215
+Episode: 1339 -----Score: 140.0 -----Epsilon: 0.25405325459626715
+Episode: 1340 -----Score: 470.0 -----Epsilon: 0.2536354264882533
+Episode: 1341 -----Score: 1100.0 -----Epsilon: 0.2533043945011754
+Episode: 1342 -----Score: 280.0 -----Epsilon: 0.25305273477699186
+Episode: 1343 -----Score: 320.0 -----Epsilon: 0.252775035081547
+Episode: 1344 -----Score: 200.0 -----Epsilon: 0.2525117804112467
+Episode: 1345 -----Score: 370.0 -----Epsilon: 0.25226494436567604
+Episode: 1346 -----Score: 280.0 -----Epsilon: 0.2519175623261623
+Episode: 1347 -----Score: 360.0 -----Epsilon: 0.25167130714237174
+Episode: 1348 -----Score: 250.0 -----Epsilon: 0.251435349901568
+Episode: 1349 -----Score: 160.0 -----Epsilon: 0.2511714810756861
+Episode: 1350 -----Score: 610.0 -----Epsilon: 0.2508035330882637
+Episode: 1351 -----Score: 350.0 -----Epsilon: 0.2505242932386455
+Episode: 1352 -----Score: 500.0 -----Epsilon: 0.2501352804391815
+Episode: 1353 -----Score: 450.0 -----Epsilon: 0.24983379881945558
+Episode: 1354 -----Score: 330.0 -----Epsilon: 0.2495915772888201
+Episode: 1355 -----Score: 340.0 -----Epsilon: 0.24940644884449475
+Episode: 1356 -----Score: 230.0 -----Epsilon: 0.24919254967335938
+Episode: 1357 -----Score: 230.0 -----Epsilon: 0.24896887498504983
+Episode: 1358 -----Score: 400.0 -----Epsilon: 0.24865686337598097
+Episode: 1359 -----Score: 1860.0 -----Epsilon: 0.24833034250218772
+Episode: 1360 -----Score: 140.0 -----Epsilon: 0.24816302407667057
+Episode: 1361 -----Score: 640.0 -----Epsilon: 0.24780146566614852
+Episode: 1362 -----Score: 600.0 -----Epsilon: 0.24738600306191832
+Episode: 1363 -----Score: 810.0 -----Epsilon: 0.24705818628460627
+Episode: 1364 -----Score: 460.0 -----Epsilon: 0.24677127111523336
+Episode: 1365 -----Score: 350.0 -----Epsilon: 0.24644328315701167
+Episode: 1366 -----Score: 480.0 -----Epsilon: 0.24612557596923484
+Episode: 1367 -----Score: 120.0 -----Epsilon: 0.24590071974289787
+Episode: 1368 -----Score: 590.0 -----Epsilon: 0.2454953176985931
+Episode: 1369 -----Score: 260.0 -----Epsilon: 0.2453122463026441
+Episode: 1370 -----Score: 220.0 -----Epsilon: 0.24508225107025064
+Episode: 1371 -----Score: 160.0 -----Epsilon: 0.24486814254776604
+Episode: 1372 -----Score: 680.0 -----Epsilon: 0.2445661613186275
+Episode: 1373 -----Score: 430.0 -----Epsilon: 0.2442801859521292
+Episode: 1374 -----Score: 810.0 -----Epsilon: 0.24393501751562907
+Episode: 1375 -----Score: 350.0 -----Epsilon: 0.24372581082390435
+Episode: 1376 -----Score: 290.0 -----Epsilon: 0.2434924330695566
+Episode: 1377 -----Score: 970.0 -----Epsilon: 0.24314448738278932
+Episode: 1378 -----Score: 290.0 -----Epsilon: 0.24283006157906725
+Episode: 1379 -----Score: 320.0 -----Epsilon: 0.2425102220586192
+Episode: 1380 -----Score: 420.0 -----Epsilon: 0.24221889960026272
+Episode: 1381 -----Score: 620.0 -----Epsilon: 0.2419288948160951
+Episode: 1382 -----Score: 530.0 -----Epsilon: 0.24161120869611952
+Episode: 1383 -----Score: 320.0 -----Epsilon: 0.24137502820892393
+Episode: 1384 -----Score: 190.0 -----Epsilon: 0.24114100771583535
+Episode: 1385 -----Score: 160.0 -----Epsilon: 0.2409592557433747
+Episode: 1386 -----Score: 420.0 -----Epsilon: 0.24065054359557594
+Episode: 1387 -----Score: 410.0 -----Epsilon: 0.24035087944813277
+Episode: 1388 -----Score: 290.0 -----Epsilon: 0.2401370621144398
+Episode: 1389 -----Score: 310.0 -----Epsilon: 0.2399042418674497
+Episode: 1390 -----Score: 670.0 -----Epsilon: 0.2396026317820987
+Episode: 1391 -----Score: 270.0 -----Epsilon: 0.23937415964145153
+Episode: 1392 -----Score: 670.0 -----Epsilon: 0.23908756081858235
+Episode: 1393 -----Score: 390.0 -----Epsilon: 0.23883378435437766
+Episode: 1394 -----Score: 1070.0 -----Epsilon: 0.2384524323670274
+Episode: 1395 -----Score: 610.0 -----Epsilon: 0.23812502337903835
+Episode: 1396 -----Score: 200.0 -----Epsilon: 0.23789796020603232
+Episode: 1397 -----Score: 200.0 -----Epsilon: 0.2376815713177388
+Episode: 1398 -----Score: 410.0 -----Epsilon: 0.23735332193050793
+Episode: 1399 -----Score: 380.0 -----Epsilon: 0.23710328307278683
+Episode: 1400 -----Score: 170.0 -----Epsilon: 0.23692646980635432
+Episode: 1401 -----Score: 740.0 -----Epsilon: 0.23662103140499946
+Episode: 1402 -----Score: 150.0 -----Epsilon: 0.2364672775562506
+Episode: 1403 -----Score: 370.0 -----Epsilon: 0.23622573120825627
+Episode: 1404 -----Score: 220.0 -----Epsilon: 0.2360146395654939
+Episode: 1405 -----Score: 410.0 -----Epsilon: 0.2357358347888134
+Episode: 1406 -----Score: 300.0 -----Epsilon: 0.23554213935865512
+Episode: 1407 -----Score: 220.0 -----Epsilon: 0.23530906779708377
+Episode: 1408 -----Score: 370.0 -----Epsilon: 0.23501605499049114
+Episode: 1409 -----Score: 140.0 -----Epsilon: 0.23485019204631805
+Episode: 1410 -----Score: 1400.0 -----Epsilon: 0.23439080479779809
+Episode: 1411 -----Score: 2260.0 -----Epsilon: 0.23394448095927783
+Episode: 1412 -----Score: 290.0 -----Epsilon: 0.23372420880242226
+Episode: 1413 -----Score: 820.0 -----Epsilon: 0.2333174152439654
+Episode: 1414 -----Score: 440.0 -----Epsilon: 0.23295884850926232
+Episode: 1415 -----Score: 960.0 -----Epsilon: 0.23264735769230152
+Episode: 1416 -----Score: 650.0 -----Epsilon: 0.23234557701827205
+Episode: 1417 -----Score: 470.0 -----Epsilon: 0.2320776046042493
+Episode: 1418 -----Score: 270.0 -----Epsilon: 0.23189526309429442
+Episode: 1419 -----Score: 400.0 -----Epsilon: 0.2316491208034431
+Episode: 1420 -----Score: 200.0 -----Epsilon: 0.23146526421839672
+Episode: 1421 -----Score: 630.0 -----Epsilon: 0.23116964025905606
+Episode: 1422 -----Score: 290.0 -----Epsilon: 0.2309556760389409
+Episode: 1423 -----Score: 430.0 -----Epsilon: 0.2307502167247689
+Episode: 1424 -----Score: 400.0 -----Epsilon: 0.23048408429648867
+Episode: 1425 -----Score: 310.0 -----Epsilon: 0.2302569387633828
+Episode: 1426 -----Score: 1420.0 -----Epsilon: 0.22986997173592774
+Episode: 1427 -----Score: 920.0 -----Epsilon: 0.22949926047530703
+Episode: 1428 -----Score: 120.0 -----Epsilon: 0.22930885492794495
+Episode: 1429 -----Score: 660.0 -----Epsilon: 0.22903155873422296
+Episode: 1430 -----Score: 220.0 -----Epsilon: 0.2288424565875494
+Episode: 1431 -----Score: 410.0 -----Epsilon: 0.22858401040276144
+Episode: 1432 -----Score: 1040.0 -----Epsilon: 0.2283505166462753
+Episode: 1433 -----Score: 500.0 -----Epsilon: 0.22808897658374508
+Episode: 1434 -----Score: 450.0 -----Epsilon: 0.22773389028720276
+Episode: 1435 -----Score: 290.0 -----Epsilon: 0.2274848853927425
+Episode: 1436 -----Score: 160.0 -----Epsilon: 0.2273252468832353
+Episode: 1437 -----Score: 230.0 -----Epsilon: 0.22710484808406406
+Episode: 1438 -----Score: 580.0 -----Epsilon: 0.22676943471472985
+Episode: 1439 -----Score: 130.0 -----Epsilon: 0.22657676239988916
+Episode: 1440 -----Score: 360.0 -----Epsilon: 0.2263263067777156
+Episode: 1441 -----Score: 270.0 -----Epsilon: 0.22609873677243827
+Episode: 1442 -----Score: 350.0 -----Epsilon: 0.22586326435569
+Episode: 1443 -----Score: 370.0 -----Epsilon: 0.22562442715033115
+Episode: 1444 -----Score: 300.0 -----Epsilon: 0.22544625406235014
+Episode: 1445 -----Score: 180.0 -----Epsilon: 0.22529255198174877
+Episode: 1446 -----Score: 570.0 -----Epsilon: 0.22500481171777523
+Episode: 1447 -----Score: 440.0 -----Epsilon: 0.22473451814278567
+Episode: 1448 -----Score: 290.0 -----Epsilon: 0.2244771196451123
+Episode: 1449 -----Score: 580.0 -----Epsilon: 0.22419221437140788
+Episode: 1450 -----Score: 430.0 -----Epsilon: 0.22389244547892875
+Episode: 1451 -----Score: 410.0 -----Epsilon: 0.22368790107025646
+Episode: 1452 -----Score: 220.0 -----Epsilon: 0.22343885124592888
+Episode: 1453 -----Score: 250.0 -----Epsilon: 0.22322668492004602
+Episode: 1454 -----Score: 160.0 -----Epsilon: 0.2230637887415018
+Episode: 1455 -----Score: 490.0 -----Epsilon: 0.2227717662027598
+Episode: 1456 -----Score: 600.0 -----Epsilon: 0.22253708822353094
+Episode: 1457 -----Score: 150.0 -----Epsilon: 0.22233645007073066
+Episode: 1458 -----Score: 310.0 -----Epsilon: 0.22214043558085622
+Episode: 1459 -----Score: 100.0 -----Epsilon: 0.2219960910704355
+Episode: 1460 -----Score: 190.0 -----Epsilon: 0.22177908480972672
+Episode: 1461 -----Score: 280.0 -----Epsilon: 0.22159597073908707
+Episode: 1462 -----Score: 410.0 -----Epsilon: 0.22131914854876164
+Episode: 1463 -----Score: 240.0 -----Epsilon: 0.22112579992524278
+Episode: 1464 -----Score: 400.0 -----Epsilon: 0.22090522624092593
+Episode: 1465 -----Score: 390.0 -----Epsilon: 0.22062308940350078
+Episode: 1466 -----Score: 280.0 -----Epsilon: 0.22042858543300842
+Episode: 1467 -----Score: 280.0 -----Epsilon: 0.220199899041419
+Episode: 1468 -----Score: 290.0 -----Epsilon: 0.2199617713628406
+Episode: 1469 -----Score: 210.0 -----Epsilon: 0.21978719085943407
+Episode: 1470 -----Score: 170.0 -----Epsilon: 0.2195899103569699
+Episode: 1471 -----Score: 630.0 -----Epsilon: 0.219328753521631
+Episode: 1472 -----Score: 380.0 -----Epsilon: 0.21912399589778514
+Episode: 1473 -----Score: 290.0 -----Epsilon: 0.21890717027142084
+Episode: 1474 -----Score: 180.0 -----Epsilon: 0.21874217631058673
+Episode: 1475 -----Score: 320.0 -----Epsilon: 0.21852572849894228
+Episode: 1476 -----Score: 320.0 -----Epsilon: 0.21832783365093544
+Episode: 1477 -----Score: 340.0 -----Epsilon: 0.21805596630687454
+Episode: 1478 -----Score: 320.0 -----Epsilon: 0.21785936830769975
+Episode: 1479 -----Score: 250.0 -----Epsilon: 0.21766730086698255
+Episode: 1480 -----Score: 310.0 -----Epsilon: 0.21743017253033634
+Episode: 1481 -----Score: 2100.0 -----Epsilon: 0.21710644248831923
+Episode: 1482 -----Score: 340.0 -----Epsilon: 0.2168690576760267
+Episode: 1483 -----Score: 300.0 -----Epsilon: 0.2166752631837203
+Episode: 1484 -----Score: 210.0 -----Epsilon: 0.21648164186644236
+Episode: 1485 -----Score: 1240.0 -----Epsilon: 0.21605472818093174
+Episode: 1486 -----Score: 320.0 -----Epsilon: 0.21581504024438422
+Episode: 1487 -----Score: 290.0 -----Epsilon: 0.21555751060460007
+Episode: 1488 -----Score: 300.0 -----Epsilon: 0.21534765959345847
+Episode: 1489 -----Score: 230.0 -----Epsilon: 0.21516813433827442
+Episode: 1490 -----Score: 380.0 -----Epsilon: 0.21494920441283294
+Episode: 1491 -----Score: 230.0 -----Epsilon: 0.21472104930140518
+Episode: 1492 -----Score: 420.0 -----Epsilon: 0.21445024198174711
+Episode: 1493 -----Score: 520.0 -----Epsilon: 0.21416007255297645
+Episode: 1494 -----Score: 290.0 -----Epsilon: 0.21400293657854816
+Episode: 1495 -----Score: 350.0 -----Epsilon: 0.21377578587113183
+Episode: 1496 -----Score: 150.0 -----Epsilon: 0.2135984254062778
+Episode: 1497 -----Score: 380.0 -----Epsilon: 0.21337341104429075
+Episode: 1498 -----Score: 170.0 -----Epsilon: 0.21319126775537486
+Episode: 1499 -----Score: 250.0 -----Epsilon: 0.21299905574030323
+Episode: 1500 -----Score: 300.0 -----Epsilon: 0.21277041732661098
+Episode: 1501 -----Score: 170.0 -----Epsilon: 0.21262110475918222
+Episode: 1502 -----Score: 250.0 -----Epsilon: 0.21241156346118986
+Episode: 1503 -----Score: 450.0 -----Epsilon: 0.21212415253796532
+Episode: 1504 -----Score: 120.0 -----Epsilon: 0.2119651189095976
+Episode: 1505 -----Score: 380.0 -----Epsilon: 0.21173843730197625
+Episode: 1506 -----Score: 660.0 -----Epsilon: 0.21145954959010554
+Episode: 1507 -----Score: 170.0 -----Epsilon: 0.21133736116411417
+Episode: 1508 -----Score: 390.0 -----Epsilon: 0.21115864518537628
+Episode: 1509 -----Score: 200.0 -----Epsilon: 0.21099105159696915
+Episode: 1510 -----Score: 1070.0 -----Epsilon: 0.21065499942941227
+Episode: 1511 -----Score: 440.0 -----Epsilon: 0.2104415033073273
+Episode: 1512 -----Score: 640.0 -----Epsilon: 0.2101853413344538
+Episode: 1513 -----Score: 300.0 -----Epsilon: 0.20998911967920902
+Episode: 1514 -----Score: 330.0 -----Epsilon: 0.20979308120961232
+Episode: 1515 -----Score: 450.0 -----Epsilon: 0.20957626705906637
+Episode: 1516 -----Score: 500.0 -----Epsilon: 0.2093077621646108
+Episode: 1517 -----Score: 510.0 -----Epsilon: 0.20898860178170292
+Episode: 1518 -----Score: 240.0 -----Epsilon: 0.20884277849008887
+Episode: 1519 -----Score: 260.0 -----Epsilon: 0.20867535356069017
+Episode: 1520 -----Score: 340.0 -----Epsilon: 0.20847553809905703
+Episode: 1521 -----Score: 350.0 -----Epsilon: 0.20828591146297032
+Episode: 1522 -----Score: 350.0 -----Epsilon: 0.2080773132962261
+Episode: 1523 -----Score: 400.0 -----Epsilon: 0.20783566763985306
+Episode: 1524 -----Score: 250.0 -----Epsilon: 0.2076648967467396
+Episode: 1525 -----Score: 530.0 -----Epsilon: 0.2073830789327528
+Episode: 1526 -----Score: 190.0 -----Epsilon: 0.2071845008786378
+Episode: 1527 -----Score: 220.0 -----Epsilon: 0.20702420195834803
+Episode: 1528 -----Score: 600.0 -----Epsilon: 0.206747388528803
+Episode: 1529 -----Score: 270.0 -----Epsilon: 0.2065593337950727
+Episode: 1530 -----Score: 300.0 -----Epsilon: 0.2063854838632646
+Episode: 1531 -----Score: 280.0 -----Epsilon: 0.2061622953133222
+Episode: 1532 -----Score: 170.0 -----Epsilon: 0.20602833322980366
+Episode: 1533 -----Score: 370.0 -----Epsilon: 0.20584175590561538
+Episode: 1534 -----Score: 280.0 -----Epsilon: 0.20560106164411784
+Episode: 1535 -----Score: 330.0 -----Epsilon: 0.2053680419543353
+Episode: 1536 -----Score: 420.0 -----Epsilon: 0.20514185080013303
+Episode: 1537 -----Score: 620.0 -----Epsilon: 0.20485526257797668
+Episode: 1538 -----Score: 400.0 -----Epsilon: 0.2046288176782392
+Episode: 1539 -----Score: 210.0 -----Epsilon: 0.2044533212759024
+Episode: 1540 -----Score: 280.0 -----Epsilon: 0.20422323616829216
+Episode: 1541 -----Score: 230.0 -----Epsilon: 0.2040178906934588
+Episode: 1542 -----Score: 280.0 -----Epsilon: 0.2038404721394032
+Episode: 1543 -----Score: 410.0 -----Epsilon: 0.2035768728903581
+Episode: 1544 -----Score: 1040.0 -----Epsilon: 0.20324368659345965
+Episode: 1545 -----Score: 310.0 -----Epsilon: 0.20305556986305076
+Episode: 1546 -----Score: 190.0 -----Epsilon: 0.20286356993225113
+Episode: 1547 -----Score: 340.0 -----Epsilon: 0.20269120898923085
+Episode: 1548 -----Score: 330.0 -----Epsilon: 0.20251737434381503
+Episode: 1549 -----Score: 1030.0 -----Epsilon: 0.2022393062699192
+Episode: 1550 -----Score: 150.0 -----Epsilon: 0.20212325410222978
+Episode: 1551 -----Score: 210.0 -----Epsilon: 0.20187237259942298
+Episode: 1552 -----Score: 320.0 -----Epsilon: 0.20165971099839838
+Episode: 1553 -----Score: 310.0 -----Epsilon: 0.20139168159381213
+Episode: 1554 -----Score: 200.0 -----Epsilon: 0.20118676897526183
+Episode: 1555 -----Score: 1120.0 -----Epsilon: 0.2008968664344709
+Episode: 1556 -----Score: 330.0 -----Epsilon: 0.20070369638548705
+Episode: 1557 -----Score: 330.0 -----Epsilon: 0.20053397269187112
+Episode: 1558 -----Score: 350.0 -----Epsilon: 0.20030589460392223
+Episode: 1559 -----Score: 310.0 -----Epsilon: 0.2001381084086971
+Episode: 1560 -----Score: 470.0 -----Epsilon: 0.19990408351909725
+Episode: 1561 -----Score: 380.0 -----Epsilon: 0.19967432572934876
+Episode: 1562 -----Score: 220.0 -----Epsilon: 0.1995381941292256
+Episode: 1563 -----Score: 1850.0 -----Epsilon: 0.19917018603084533
+Episode: 1564 -----Score: 220.0 -----Epsilon: 0.19892615276170558
+Episode: 1565 -----Score: 370.0 -----Epsilon: 0.19874918707020064
+Episode: 1566 -----Score: 410.0 -----Epsilon: 0.19857476169347768
+Episode: 1567 -----Score: 350.0 -----Epsilon: 0.1983362179848742
+Episode: 1568 -----Score: 250.0 -----Epsilon: 0.19814392493834587
+Episode: 1569 -----Score: 210.0 -----Epsilon: 0.19797161451724535
+Episode: 1570 -----Score: 280.0 -----Epsilon: 0.1977788838470527
+Episode: 1571 -----Score: 200.0 -----Epsilon: 0.19754919802764812
+Episode: 1572 -----Score: 230.0 -----Epsilon: 0.19737740479446772
+Episode: 1573 -----Score: 700.0 -----Epsilon: 0.19709772169697348
+Episode: 1574 -----Score: 1080.0 -----Epsilon: 0.19684756622261879
+Episode: 1575 -----Score: 180.0 -----Epsilon: 0.19665356998419461
+Episode: 1576 -----Score: 400.0 -----Epsilon: 0.19643933415841772
+Episode: 1577 -----Score: 180.0 -----Epsilon: 0.1962653658137468
+Episode: 1578 -----Score: 170.0 -----Epsilon: 0.1960923359054802
+Episode: 1579 -----Score: 180.0 -----Epsilon: 0.19591005462474495
+Episode: 1580 -----Score: 670.0 -----Epsilon: 0.19564810199510022
+Episode: 1581 -----Score: 130.0 -----Epsilon: 0.1954435608695357
+Episode: 1582 -----Score: 250.0 -----Epsilon: 0.19524313840996999
+Episode: 1583 -----Score: 390.0 -----Epsilon: 0.19497271859394347
+Episode: 1584 -----Score: 200.0 -----Epsilon: 0.19478524484052068
+Episode: 1585 -----Score: 120.0 -----Epsilon: 0.1946360963250024
+Episode: 1586 -----Score: 350.0 -----Epsilon: 0.1943766246191467
+Episode: 1587 -----Score: 190.0 -----Epsilon: 0.19421924314393021
+Episode: 1588 -----Score: 340.0 -----Epsilon: 0.19399834713800881
+Episode: 1589 -----Score: 1000.0 -----Epsilon: 0.19375755051572902
+Episode: 1590 -----Score: 570.0 -----Epsilon: 0.19346287553372216
+Episode: 1591 -----Score: 1050.0 -----Epsilon: 0.19315396843223034
+Episode: 1592 -----Score: 1230.0 -----Epsilon: 0.19284092632817737
+Episode: 1593 -----Score: 170.0 -----Epsilon: 0.1927063701926023
+Episode: 1594 -----Score: 180.0 -----Epsilon: 0.19252492608403346
+Episode: 1595 -----Score: 220.0 -----Epsilon: 0.19236211871099226
+Episode: 1596 -----Score: 300.0 -----Epsilon: 0.1921694682094182
+Episode: 1597 -----Score: 490.0 -----Epsilon: 0.19191174949330628
+Episode: 1598 -----Score: 210.0 -----Epsilon: 0.19174946064881088
+Episode: 1599 -----Score: 550.0 -----Epsilon: 0.19148005007774818
+Episode: 1600 -----Score: 330.0 -----Epsilon: 0.19125997436787634
+Episode: 1601 -----Score: 300.0 -----Epsilon: 0.19108371376387803
+Episode: 1602 -----Score: 410.0 -----Epsilon: 0.19089845224263433
+Episode: 1603 -----Score: 560.0 -----Epsilon: 0.1905783929245871
+Episode: 1604 -----Score: 380.0 -----Epsilon: 0.19037458289816234
+Episode: 1605 -----Score: 600.0 -----Epsilon: 0.1901055831965608
+Episode: 1606 -----Score: 1120.0 -----Epsilon: 0.18984911355873932
+Episode: 1607 -----Score: 450.0 -----Epsilon: 0.18963394647159934
+Episode: 1608 -----Score: 350.0 -----Epsilon: 0.18940387031499703
+Episode: 1609 -----Score: 590.0 -----Epsilon: 0.18918012697491138
+Episode: 1610 -----Score: 680.0 -----Epsilon: 0.1889249058612942
+Episode: 1611 -----Score: 380.0 -----Epsilon: 0.18868436854550039
+Episode: 1612 -----Score: 330.0 -----Epsilon: 0.18852480891339626
+Episode: 1613 -----Score: 150.0 -----Epsilon: 0.18837743999421827
+Episode: 1614 -----Score: 390.0 -----Epsilon: 0.18817146755636374
+Episode: 1615 -----Score: 200.0 -----Epsilon: 0.1880176060799686
+Episode: 1616 -----Score: 350.0 -----Epsilon: 0.18783156057163056
+Episode: 1617 -----Score: 290.0 -----Epsilon: 0.18767647560642586
+Episode: 1618 -----Score: 330.0 -----Epsilon: 0.18750951768347937
+Episode: 1619 -----Score: 220.0 -----Epsilon: 0.18730299580293247
+Episode: 1620 -----Score: 300.0 -----Epsilon: 0.18710343699359586
+Episode: 1621 -----Score: 390.0 -----Epsilon: 0.18684055414825368
+Episode: 1622 -----Score: 210.0 -----Epsilon: 0.18665268687600012
+Episode: 1623 -----Score: 140.0 -----Epsilon: 0.1865336403226186
+Episode: 1624 -----Score: 280.0 -----Epsilon: 0.18636620813448496
+Episode: 1625 -----Score: 370.0 -----Epsilon: 0.18621009851502887
+Episode: 1626 -----Score: 650.0 -----Epsilon: 0.18593805798904697
+Episode: 1627 -----Score: 470.0 -----Epsilon: 0.1856968667155921
+Episode: 1628 -----Score: 280.0 -----Epsilon: 0.18553389625814995
+Episode: 1629 -----Score: 380.0 -----Epsilon: 0.18528507651594844
+Episode: 1630 -----Score: 250.0 -----Epsilon: 0.18512320794407872
+Episode: 1631 -----Score: 120.0 -----Epsilon: 0.18497849803970737
+Episode: 1632 -----Score: 270.0 -----Epsilon: 0.18477845934524453
+Episode: 1633 -----Score: 590.0 -----Epsilon: 0.18454024857346615
+Episode: 1634 -----Score: 310.0 -----Epsilon: 0.18433478499555855
+Episode: 1635 -----Score: 410.0 -----Epsilon: 0.18414354456845028
+Episode: 1636 -----Score: 380.0 -----Epsilon: 0.18394367302907272
+Episode: 1637 -----Score: 120.0 -----Epsilon: 0.18379988516136364
+Episode: 1638 -----Score: 430.0 -----Epsilon: 0.1835710128926201
+Episode: 1639 -----Score: 270.0 -----Epsilon: 0.18341504367200592
+Episode: 1640 -----Score: 690.0 -----Epsilon: 0.1832013061505434
+Episode: 1641 -----Score: 560.0 -----Epsilon: 0.18294317407662428
+Episode: 1642 -----Score: 630.0 -----Epsilon: 0.1826773677237649
+Episode: 1643 -----Score: 410.0 -----Epsilon: 0.18242581142159067
+Episode: 1644 -----Score: 170.0 -----Epsilon: 0.1822722733834248
+Episode: 1645 -----Score: 220.0 -----Epsilon: 0.18209846837898575
+Episode: 1646 -----Score: 240.0 -----Epsilon: 0.18192410140703155
+Episode: 1647 -----Score: 240.0 -----Epsilon: 0.18173318116030948
+Episode: 1648 -----Score: 230.0 -----Epsilon: 0.18158676308429123
+Episode: 1649 -----Score: 320.0 -----Epsilon: 0.18139982482111355
+Episode: 1650 -----Score: 990.0 -----Epsilon: 0.18110076160610572
+Episode: 1651 -----Score: 360.0 -----Epsilon: 0.18087018591315307
+Episode: 1652 -----Score: 240.0 -----Epsilon: 0.18070856006284472
+Episode: 1653 -----Score: 210.0 -----Epsilon: 0.1805564673432033
+Episode: 1654 -----Score: 990.0 -----Epsilon: 0.18022851355794658
+Episode: 1655 -----Score: 390.0 -----Epsilon: 0.18003073105474768
+Episode: 1656 -----Score: 330.0 -----Epsilon: 0.1798741722751198
+Episode: 1657 -----Score: 200.0 -----Epsilon: 0.1796839658475937
+Episode: 1658 -----Score: 230.0 -----Epsilon: 0.17953848061924785
+Episode: 1659 -----Score: 280.0 -----Epsilon: 0.17934289009598786
+Episode: 1660 -----Score: 210.0 -----Epsilon: 0.17919409710605178
+Episode: 1661 -----Score: 260.0 -----Epsilon: 0.17898599428827006
+Episode: 1662 -----Score: 440.0 -----Epsilon: 0.17880960089774559
+Episode: 1663 -----Score: 100.0 -----Epsilon: 0.17870198980458596
+Episode: 1664 -----Score: 200.0 -----Epsilon: 0.178523734004949
+Episode: 1665 -----Score: 230.0 -----Epsilon: 0.17838418287701222
+Episode: 1666 -----Score: 330.0 -----Epsilon: 0.17822549142373598
+Episode: 1667 -----Score: 280.0 -----Epsilon: 0.17807548857002187
+Episode: 1668 -----Score: 1400.0 -----Epsilon: 0.17773924341215433
+Episode: 1669 -----Score: 430.0 -----Epsilon: 0.1775157878035396
+Episode: 1670 -----Score: 310.0 -----Epsilon: 0.17733800588999651
+Episode: 1671 -----Score: 140.0 -----Epsilon: 0.17716465392981443
+Episode: 1672 -----Score: 420.0 -----Epsilon: 0.1769185658855837
+Episode: 1673 -----Score: 400.0 -----Epsilon: 0.17668483383868083
+Episode: 1674 -----Score: 330.0 -----Epsilon: 0.17642741479761365
+Episode: 1675 -----Score: 620.0 -----Epsilon: 0.1762267543963429
+Episode: 1676 -----Score: 510.0 -----Epsilon: 0.1759418497728281
+Episode: 1677 -----Score: 230.0 -----Epsilon: 0.17579306576364995
+Episode: 1678 -----Score: 900.0 -----Epsilon: 0.17561560422293554
+Episode: 1679 -----Score: 350.0 -----Epsilon: 0.17545376109515046
+Episode: 1680 -----Score: 300.0 -----Epsilon: 0.17528575671097008
+Episode: 1681 -----Score: 310.0 -----Epsilon: 0.175129121114383
+Episode: 1682 -----Score: 150.0 -----Epsilon: 0.1750069235175732
+Episode: 1683 -----Score: 220.0 -----Epsilon: 0.1748757174021759
+Episode: 1684 -----Score: 220.0 -----Epsilon: 0.17469708553679544
+Episode: 1685 -----Score: 350.0 -----Epsilon: 0.17451374968181887
+Episode: 1686 -----Score: 260.0 -----Epsilon: 0.1743285142718387
+Episode: 1687 -----Score: 210.0 -----Epsilon: 0.17420130076778836
+Episode: 1688 -----Score: 260.0 -----Epsilon: 0.17403379952996603
+Episode: 1689 -----Score: 300.0 -----Epsilon: 0.1738504643565403
+Episode: 1690 -----Score: 640.0 -----Epsilon: 0.17362564711897438
+Episode: 1691 -----Score: 280.0 -----Epsilon: 0.17347951570793008
+Episode: 1692 -----Score: 230.0 -----Epsilon: 0.17333212062397235
+Episode: 1693 -----Score: 140.0 -----Epsilon: 0.17316199185829093
+Episode: 1694 -----Score: 610.0 -----Epsilon: 0.17295051693026797
+Episode: 1695 -----Score: 340.0 -----Epsilon: 0.1727538109922076
+Episode: 1696 -----Score: 340.0 -----Epsilon: 0.17258010787197003
+Episode: 1697 -----Score: 320.0 -----Epsilon: 0.17243830517039524
+Episode: 1698 -----Score: 570.0 -----Epsilon: 0.1722304697164989
+Episode: 1699 -----Score: 310.0 -----Epsilon: 0.17204628148799425
+Episode: 1700 -----Score: 180.0 -----Epsilon: 0.17189322826320844
+Episode: 1701 -----Score: 220.0 -----Epsilon: 0.17172932015614006
+Episode: 1702 -----Score: 120.0 -----Epsilon: 0.17154635405614987
+Episode: 1703 -----Score: 410.0 -----Epsilon: 0.17139374556928536
+Episode: 1704 -----Score: 110.0 -----Epsilon: 0.17126456326379663
+Episode: 1705 -----Score: 450.0 -----Epsilon: 0.17098015768175912
+Episode: 1706 -----Score: 180.0 -----Epsilon: 0.1708355694932032
+Episode: 1707 -----Score: 890.0 -----Epsilon: 0.17060236718551713
+Episode: 1708 -----Score: 220.0 -----Epsilon: 0.1704328725158508
+Episode: 1709 -----Score: 600.0 -----Epsilon: 0.17023153967036175
+Episode: 1710 -----Score: 390.0 -----Epsilon: 0.16997196418772142
+Episode: 1711 -----Score: 190.0 -----Epsilon: 0.16983570118495156
+Episode: 1712 -----Score: 510.0 -----Epsilon: 0.1696500023379514
+Episode: 1713 -----Score: 340.0 -----Epsilon: 0.1694821317774091
+Episode: 1714 -----Score: 150.0 -----Epsilon: 0.1693354236383787
+Episode: 1715 -----Score: 550.0 -----Epsilon: 0.1691272689005613
+Episode: 1716 -----Score: 330.0 -----Epsilon: 0.1689349113484064
+Episode: 1717 -----Score: 200.0 -----Epsilon: 0.16882108746729366
+Episode: 1718 -----Score: 280.0 -----Epsilon: 0.16865875951109222
+Episode: 1719 -----Score: 260.0 -----Epsilon: 0.16847704314934414
+Episode: 1720 -----Score: 350.0 -----Epsilon: 0.1682261990294914
+Episode: 1721 -----Score: 350.0 -----Epsilon: 0.16805099845026086
+Episode: 1722 -----Score: 540.0 -----Epsilon: 0.16783032423234143
+Episode: 1723 -----Score: 290.0 -----Epsilon: 0.1676843752013483
+Episode: 1724 -----Score: 370.0 -----Epsilon: 0.1674869591108566
+Episode: 1725 -----Score: 270.0 -----Epsilon: 0.16730784372931554
+Episode: 1726 -----Score: 230.0 -----Epsilon: 0.16713894794498657
+Episode: 1727 -----Score: 240.0 -----Epsilon: 0.16699760804889452
+Episode: 1728 -----Score: 660.0 -----Epsilon: 0.1667609730179401
+Episode: 1729 -----Score: 300.0 -----Epsilon: 0.16659796034950827
+Episode: 1730 -----Score: 210.0 -----Epsilon: 0.16645374882424127
+Episode: 1731 -----Score: 210.0 -----Epsilon: 0.16629303198089768
+Episode: 1732 -----Score: 1320.0 -----Epsilon: 0.16604012624341088
+Episode: 1733 -----Score: 200.0 -----Epsilon: 0.1659010427626567
+Episode: 1734 -----Score: 980.0 -----Epsilon: 0.1655917597583717
+Episode: 1735 -----Score: 190.0 -----Epsilon: 0.1654424631846541
+Episode: 1736 -----Score: 230.0 -----Epsilon: 0.16532173413726714
+Episode: 1737 -----Score: 280.0 -----Epsilon: 0.16515880708072367
+Episode: 1738 -----Score: 200.0 -----Epsilon: 0.16503762487445767
+Episode: 1739 -----Score: 180.0 -----Epsilon: 0.16491125433353268
+Episode: 1740 -----Score: 130.0 -----Epsilon: 0.164798823089061
+Episode: 1741 -----Score: 220.0 -----Epsilon: 0.16466604862017925
+Episode: 1742 -----Score: 710.0 -----Epsilon: 0.16432685671577796
+Episode: 1743 -----Score: 980.0 -----Epsilon: 0.1640920370119643
+Episode: 1744 -----Score: 300.0 -----Epsilon: 0.1639303218404412
+Episode: 1745 -----Score: 200.0 -----Epsilon: 0.16378972980632145
+Episode: 1746 -----Score: 200.0 -----Epsilon: 0.1636263490331649
+Episode: 1747 -----Score: 340.0 -----Epsilon: 0.1634899414115523
+Episode: 1748 -----Score: 240.0 -----Epsilon: 0.16338109325218741
+Episode: 1749 -----Score: 310.0 -----Epsilon: 0.1632324839362167
+Episode: 1750 -----Score: 300.0 -----Epsilon: 0.16309575227651704
+Episode: 1751 -----Score: 250.0 -----Epsilon: 0.16289722238096982
+Episode: 1752 -----Score: 270.0 -----Epsilon: 0.1627295244534825
+Episode: 1753 -----Score: 400.0 -----Epsilon: 0.16253274061034947
+Episode: 1754 -----Score: 150.0 -----Epsilon: 0.16237516013326792
+Episode: 1755 -----Score: 260.0 -----Epsilon: 0.16224628529733104
+Episode: 1756 -----Score: 140.0 -----Epsilon: 0.16209287273361508
+Episode: 1757 -----Score: 300.0 -----Epsilon: 0.16192341206266112
+Episode: 1758 -----Score: 80.0 -----Epsilon: 0.16182078505298883
+Episode: 1759 -----Score: 260.0 -----Epsilon: 0.16168135549961854
+Episode: 1760 -----Score: 380.0 -----Epsilon: 0.16149940456897793
+Episode: 1761 -----Score: 250.0 -----Epsilon: 0.1613415352041471
+Episode: 1762 -----Score: 680.0 -----Epsilon: 0.16112000394008144
+Episode: 1763 -----Score: 570.0 -----Epsilon: 0.1609509165532746
+Episode: 1764 -----Score: 640.0 -----Epsilon: 0.16074599544313417
+Episode: 1765 -----Score: 110.0 -----Epsilon: 0.1606254810245967
+Episode: 1766 -----Score: 380.0 -----Epsilon: 0.16047295912447895
+Episode: 1767 -----Score: 730.0 -----Epsilon: 0.16021031931552673
+Episode: 1768 -----Score: 350.0 -----Epsilon: 0.16004026610060526
+Episode: 1769 -----Score: 310.0 -----Epsilon: 0.15983842247306582
+Episode: 1770 -----Score: 650.0 -----Epsilon: 0.15963300216991588
+Episode: 1771 -----Score: 170.0 -----Epsilon: 0.15952416946977524
+Episode: 1772 -----Score: 320.0 -----Epsilon: 0.15938926895846894
+Episode: 1773 -----Score: 640.0 -----Epsilon: 0.1591882463719582
+Episode: 1774 -----Score: 400.0 -----Epsilon: 0.1590307278350766
+Episode: 1775 -----Score: 940.0 -----Epsilon: 0.15881109894810228
+Episode: 1776 -----Score: 450.0 -----Epsilon: 0.1586114399977826
+Episode: 1777 -----Score: 470.0 -----Epsilon: 0.15840506207771324
+Episode: 1778 -----Score: 460.0 -----Epsilon: 0.15826034585165163
+Episode: 1779 -----Score: 300.0 -----Epsilon: 0.15811576183592385
+Episode: 1780 -----Score: 340.0 -----Epsilon: 0.15793024266707442
+Episode: 1781 -----Score: 1010.0 -----Epsilon: 0.15774494117014845
+Episode: 1782 -----Score: 310.0 -----Epsilon: 0.15757372298112857
+Episode: 1783 -----Score: 620.0 -----Epsilon: 0.15741276473895938
+Episode: 1784 -----Score: 580.0 -----Epsilon: 0.1572431650396375
+Episode: 1785 -----Score: 570.0 -----Epsilon: 0.15694311693153204
+Episode: 1786 -----Score: 340.0 -----Epsilon: 0.15672574422817914
+Episode: 1787 -----Score: 800.0 -----Epsilon: 0.15649552640550826
+Episode: 1788 -----Score: 280.0 -----Epsilon: 0.15635005307606475
+Episode: 1789 -----Score: 210.0 -----Epsilon: 0.1562253353779754
+Episode: 1790 -----Score: 320.0 -----Epsilon: 0.15609821957101744
+Episode: 1791 -----Score: 200.0 -----Epsilon: 0.1559630968943135
+Episode: 1792 -----Score: 290.0 -----Epsilon: 0.15574085179431968
+Episode: 1793 -----Score: 1210.0 -----Epsilon: 0.15540698995439833
+Episode: 1794 -----Score: 280.0 -----Epsilon: 0.15529482649137316
+Episode: 1795 -----Score: 150.0 -----Epsilon: 0.15516474380895048
+Episode: 1796 -----Score: 200.0 -----Epsilon: 0.15501492688984012
+Episode: 1797 -----Score: 240.0 -----Epsilon: 0.15488198099157224
+Episode: 1798 -----Score: 280.0 -----Epsilon: 0.15473986443239052
+Episode: 1799 -----Score: 190.0 -----Epsilon: 0.15461643115357154
+Episode: 1800 -----Score: 470.0 -----Epsilon: 0.1543856064436018
+Episode: 1801 -----Score: 210.0 -----Epsilon: 0.15423715875654528
+Episode: 1802 -----Score: 140.0 -----Epsilon: 0.15412029117175352
+Episode: 1803 -----Score: 440.0 -----Epsilon: 0.1539006720425842
+Episode: 1804 -----Score: 250.0 -----Epsilon: 0.15379082607258046
+Episode: 1805 -----Score: 240.0 -----Epsilon: 0.15365954464098683
+Episode: 1806 -----Score: 270.0 -----Epsilon: 0.1535124091392474
+Episode: 1807 -----Score: 240.0 -----Epsilon: 0.15336725492382025
+Episode: 1808 -----Score: 460.0 -----Epsilon: 0.15310338350547312
+Episode: 1809 -----Score: 180.0 -----Epsilon: 0.15294760341081004
+Episode: 1810 -----Score: 230.0 -----Epsilon: 0.15281398547135974
+Episode: 1811 -----Score: 570.0 -----Epsilon: 0.15258768265040437
+Episode: 1812 -----Score: 330.0 -----Epsilon: 0.15244950067763044
+Episode: 1813 -----Score: 180.0 -----Epsilon: 0.15233581564623191
+Episode: 1814 -----Score: 250.0 -----Epsilon: 0.15217899037817287
+Episode: 1815 -----Score: 220.0 -----Epsilon: 0.15201016524531524
+Episode: 1816 -----Score: 1130.0 -----Epsilon: 0.15178930285006417
+Episode: 1817 -----Score: 420.0 -----Epsilon: 0.15162333598721048
+Episode: 1818 -----Score: 2560.0 -----Epsilon: 0.15136730869736817
+Episode: 1819 -----Score: 210.0 -----Epsilon: 0.1512175290651333
+Episode: 1820 -----Score: 290.0 -----Epsilon: 0.15105097896751635
+Episode: 1821 -----Score: 320.0 -----Epsilon: 0.15090694490472298
+Episode: 1822 -----Score: 170.0 -----Epsilon: 0.15078656907865898
+Episode: 1823 -----Score: 230.0 -----Epsilon: 0.15064338971582433
+Episode: 1824 -----Score: 270.0 -----Epsilon: 0.15051359093540556
+Episode: 1825 -----Score: 810.0 -----Epsilon: 0.1503213572374586
+Episode: 1826 -----Score: 350.0 -----Epsilon: 0.1501972429385319
+Episode: 1827 -----Score: 380.0 -----Epsilon: 0.15004622033822201
+Episode: 1828 -----Score: 310.0 -----Epsilon: 0.14990554283093643
+Episode: 1829 -----Score: 350.0 -----Epsilon: 0.149710492624364
+Episode: 1830 -----Score: 310.0 -----Epsilon: 0.14945889098047502
+Episode: 1831 -----Score: 400.0 -----Epsilon: 0.14929368065999274
+Episode: 1832 -----Score: 290.0 -----Epsilon: 0.14911612666803614
+Episode: 1833 -----Score: 300.0 -----Epsilon: 0.14892269930371554
+Episode: 1834 -----Score: 1080.0 -----Epsilon: 0.14869145292273223
+Episode: 1835 -----Score: 260.0 -----Epsilon: 0.1485550166663398
+Episode: 1836 -----Score: 360.0 -----Epsilon: 0.14835934993141484
+Episode: 1837 -----Score: 290.0 -----Epsilon: 0.14825820324855699
+Episode: 1838 -----Score: 610.0 -----Epsilon: 0.14805167509027656
+Episode: 1839 -----Score: 390.0 -----Epsilon: 0.1478868371911492
+Episode: 1840 -----Score: 390.0 -----Epsilon: 0.14768732446282654
+Episode: 1841 -----Score: 320.0 -----Epsilon: 0.14753646496870249
+Episode: 1842 -----Score: 1520.0 -----Epsilon: 0.1473026573599045
+Episode: 1843 -----Score: 430.0 -----Epsilon: 0.1471221747799315
+Episode: 1844 -----Score: 680.0 -----Epsilon: 0.14689960011628203
+Episode: 1845 -----Score: 570.0 -----Epsilon: 0.14672548028989585
+Episode: 1846 -----Score: 280.0 -----Epsilon: 0.1465832254365211
+Episode: 1847 -----Score: 450.0 -----Epsilon: 0.14638957025312443
+Episode: 1848 -----Score: 570.0 -----Epsilon: 0.14621371552369541
+Episode: 1849 -----Score: 320.0 -----Epsilon: 0.14604449786783794
+Episode: 1850 -----Score: 240.0 -----Epsilon: 0.1459034868611719
+Episode: 1851 -----Score: 260.0 -----Epsilon: 0.1457801045859697
+Episode: 1852 -----Score: 260.0 -----Epsilon: 0.14563294086336792
+Episode: 1853 -----Score: 410.0 -----Epsilon: 0.14548592570123922
+Episode: 1854 -----Score: 340.0 -----Epsilon: 0.14536464090071435
+Episode: 1855 -----Score: 220.0 -----Epsilon: 0.14522660992892425
+Episode: 1856 -----Score: 620.0 -----Epsilon: 0.1450167637964447
+Episode: 1857 -----Score: 360.0 -----Epsilon: 0.14480490398318036
+Episode: 1858 -----Score: 1160.0 -----Epsilon: 0.14452165309105472
+Episode: 1859 -----Score: 1750.0 -----Epsilon: 0.14430243543075078
+Episode: 1860 -----Score: 230.0 -----Epsilon: 0.1441757933698039
+Episode: 1861 -----Score: 600.0 -----Epsilon: 0.1439997179782103
+Episode: 1862 -----Score: 170.0 -----Epsilon: 0.14387506807899123
+Episode: 1863 -----Score: 250.0 -----Epsilon: 0.14373212717178369
+Episode: 1864 -----Score: 240.0 -----Epsilon: 0.14361115553594198
+Episode: 1865 -----Score: 810.0 -----Epsilon: 0.14342888495246478
+Episode: 1866 -----Score: 730.0 -----Epsilon: 0.1432474186950315
+Episode: 1867 -----Score: 310.0 -----Epsilon: 0.1431234200056283
+Episode: 1868 -----Score: 200.0 -----Epsilon: 0.14296235357106013
+Episode: 1869 -----Score: 210.0 -----Epsilon: 0.1428408870796335
+Episode: 1870 -----Score: 350.0 -----Epsilon: 0.14267956787843322
+Episode: 1871 -----Score: 180.0 -----Epsilon: 0.14252071118057327
+Episode: 1872 -----Score: 410.0 -----Epsilon: 0.1423700038556738
+Episode: 1873 -----Score: 350.0 -----Epsilon: 0.14220011534481056
+Episode: 1874 -----Score: 230.0 -----Epsilon: 0.1420537244838543
+Episode: 1875 -----Score: 290.0 -----Epsilon: 0.14190918722974113
+Episode: 1876 -----Score: 470.0 -----Epsilon: 0.14176366292485745
+Episode: 1877 -----Score: 300.0 -----Epsilon: 0.14163415000385596
+Episode: 1878 -----Score: 280.0 -----Epsilon: 0.14150701950016498
+Episode: 1879 -----Score: 410.0 -----Epsilon: 0.14136982410458238
+Episode: 1880 -----Score: 520.0 -----Epsilon: 0.1411881391775513
+Episode: 1881 -----Score: 310.0 -----Epsilon: 0.14104448264179864
+Episode: 1882 -----Score: 210.0 -----Epsilon: 0.14089139132419395
+Episode: 1883 -----Score: 530.0 -----Epsilon: 0.14070975842616473
+Episode: 1884 -----Score: 430.0 -----Epsilon: 0.1405637773282383
+Episode: 1885 -----Score: 190.0 -----Epsilon: 0.14046345051183748
+Episode: 1886 -----Score: 430.0 -----Epsilon: 0.14030144902078823
+Episode: 1887 -----Score: 620.0 -----Epsilon: 0.1400740643019568
+Episode: 1888 -----Score: 520.0 -----Epsilon: 0.13989348507707455
+Episode: 1889 -----Score: 350.0 -----Epsilon: 0.13974723284868612
+Episode: 1890 -----Score: 210.0 -----Epsilon: 0.13961397742823825
+Episode: 1891 -----Score: 300.0 -----Epsilon: 0.13949033410267822
+Episode: 1892 -----Score: 380.0 -----Epsilon: 0.13934283122448055
+Episode: 1893 -----Score: 520.0 -----Epsilon: 0.13917711171227468
+Episode: 1894 -----Score: 420.0 -----Epsilon: 0.1390188180870126
+Episode: 1895 -----Score: 690.0 -----Epsilon: 0.13882904783433167
+Episode: 1896 -----Score: 520.0 -----Epsilon: 0.13860848482178006
+Episode: 1897 -----Score: 170.0 -----Epsilon: 0.13849071755009826
+Episode: 1898 -----Score: 260.0 -----Epsilon: 0.13838522771456974
+Episode: 1899 -----Score: 290.0 -----Epsilon: 0.1382588012756994
+Episode: 1900 -----Score: 230.0 -----Epsilon: 0.13815017244599323
+Episode: 1901 -----Score: 220.0 -----Epsilon: 0.13805764273884055
+Episode: 1902 -----Score: 250.0 -----Epsilon: 0.13792599842035114
+Episode: 1903 -----Score: 140.0 -----Epsilon: 0.1377922749345391
+Episode: 1904 -----Score: 170.0 -----Epsilon: 0.1376988833420718
+Episode: 1905 -----Score: 280.0 -----Epsilon: 0.1375384198520302
+Episode: 1906 -----Score: 320.0 -----Epsilon: 0.13739243143773186
+Episode: 1907 -----Score: 240.0 -----Epsilon: 0.13726636293390349
+Episode: 1908 -----Score: 250.0 -----Epsilon: 0.13715028458285183
+Episode: 1909 -----Score: 120.0 -----Epsilon: 0.13701950547213856
+Episode: 1910 -----Score: 310.0 -----Epsilon: 0.1368959694777793
+Episode: 1911 -----Score: 340.0 -----Epsilon: 0.1367331600021464
+Episode: 1912 -----Score: 350.0 -----Epsilon: 0.1365984074155776
+Episode: 1913 -----Score: 240.0 -----Epsilon: 0.13644959611957697
+Episode: 1914 -----Score: 300.0 -----Epsilon: 0.1363342084617365
+Episode: 1915 -----Score: 550.0 -----Epsilon: 0.13614156792729135
+Episode: 1916 -----Score: 420.0 -----Epsilon: 0.13599162240465146
+Episode: 1917 -----Score: 310.0 -----Epsilon: 0.13583912521873961
+Episode: 1918 -----Score: 360.0 -----Epsilon: 0.1356867990388892
+Episode: 1919 -----Score: 250.0 -----Epsilon: 0.13554602907297217
+Episode: 1920 -----Score: 660.0 -----Epsilon: 0.13535558507915715
+Episode: 1921 -----Score: 300.0 -----Epsilon: 0.13523192647133184
+Episode: 1922 -----Score: 120.0 -----Epsilon: 0.1351332430901432
+Episode: 1923 -----Score: 350.0 -----Epsilon: 0.13500546736185598
+Episode: 1924 -----Score: 380.0 -----Epsilon: 0.13485947029883238
+Episode: 1925 -----Score: 1050.0 -----Epsilon: 0.13468076497033307
+Episode: 1926 -----Score: 220.0 -----Epsilon: 0.134532966498811
+Episode: 1927 -----Score: 260.0 -----Epsilon: 0.13439608148832557
+Episode: 1928 -----Score: 270.0 -----Epsilon: 0.13429371058013284
+Episode: 1929 -----Score: 640.0 -----Epsilon: 0.1341313132981074
+Episode: 1930 -----Score: 530.0 -----Epsilon: 0.13393857089185068
+Episode: 1931 -----Score: 310.0 -----Epsilon: 0.13378088399347549
+Episode: 1932 -----Score: 650.0 -----Epsilon: 0.13361322773973738
+Episode: 1933 -----Score: 120.0 -----Epsilon: 0.13349970463679217
+Episode: 1934 -----Score: 270.0 -----Epsilon: 0.13337774153042464
+Episode: 1935 -----Score: 320.0 -----Epsilon: 0.13325375776820636
+Episode: 1936 -----Score: 190.0 -----Epsilon: 0.13313201935480096
+Episode: 1937 -----Score: 580.0 -----Epsilon: 0.1329965597842614
+Episode: 1938 -----Score: 910.0 -----Epsilon: 0.13281022906947024
+Episode: 1939 -----Score: 250.0 -----Epsilon: 0.13269579586537916
+Episode: 1940 -----Score: 1320.0 -----Epsilon: 0.13244523741296413
+Episode: 1941 -----Score: 320.0 -----Epsilon: 0.1322358744877579
+Episode: 1942 -----Score: 370.0 -----Epsilon: 0.1320955143930978
+Episode: 1943 -----Score: 300.0 -----Epsilon: 0.13196955523848095
+Episode: 1944 -----Score: 210.0 -----Epsilon: 0.13182895050763202
+Episode: 1945 -----Score: 430.0 -----Epsilon: 0.13166848043156268
+Episode: 1946 -----Score: 430.0 -----Epsilon: 0.13144719997523505
+Episode: 1947 -----Score: 300.0 -----Epsilon: 0.13132553608547207
+Episode: 1948 -----Score: 240.0 -----Epsilon: 0.13121448155358253
+Episode: 1949 -----Score: 680.0 -----Epsilon: 0.1310107323996001
+Episode: 1950 -----Score: 320.0 -----Epsilon: 0.13083398706406446
+Episode: 1951 -----Score: 380.0 -----Epsilon: 0.130660615994273
+Episode: 1952 -----Score: 260.0 -----Epsilon: 0.13052036168249154
+Episode: 1953 -----Score: 240.0 -----Epsilon: 0.1303932966138848
+Episode: 1954 -----Score: 230.0 -----Epsilon: 0.1302673973825791
+Episode: 1955 -----Score: 170.0 -----Epsilon: 0.13014682548543785
+Episode: 1956 -----Score: 210.0 -----Epsilon: 0.13000036248762462
+Episode: 1957 -----Score: 210.0 -----Epsilon: 0.12989978103652333
+Episode: 1958 -----Score: 510.0 -----Epsilon: 0.12972297778829686
+Episode: 1959 -----Score: 370.0 -----Epsilon: 0.1295738819612806
+Episode: 1960 -----Score: 250.0 -----Epsilon: 0.12944359605054612
+Episode: 1961 -----Score: 270.0 -----Epsilon: 0.12932637314529913
+Episode: 1962 -----Score: 150.0 -----Epsilon: 0.12924440612904994
+Episode: 1963 -----Score: 280.0 -----Epsilon: 0.1291211656374273
+Episode: 1964 -----Score: 490.0 -----Epsilon: 0.1288964321418647
+Episode: 1965 -----Score: 720.0 -----Epsilon: 0.12871069724802892
+Episode: 1966 -----Score: 210.0 -----Epsilon: 0.12861059916867643
+Episode: 1967 -----Score: 170.0 -----Epsilon: 0.1285265152511766
+Episode: 1968 -----Score: 300.0 -----Epsilon: 0.128388038181813
+Episode: 1969 -----Score: 160.0 -----Epsilon: 0.1282840858733048
+Episode: 1970 -----Score: 280.0 -----Epsilon: 0.1281530463790932
+Episode: 1971 -----Score: 180.0 -----Epsilon: 0.12805952869982729
+Episode: 1972 -----Score: 340.0 -----Epsilon: 0.12795123604450964
+Episode: 1973 -----Score: 490.0 -----Epsilon: 0.12780366533522375
+Episode: 1974 -----Score: 230.0 -----Epsilon: 0.12766800975284995
+Episode: 1975 -----Score: 290.0 -----Epsilon: 0.1275472928030299
+Episode: 1976 -----Score: 200.0 -----Epsilon: 0.12741292864440523
+Episode: 1977 -----Score: 220.0 -----Epsilon: 0.12727921514748974
+Episode: 1978 -----Score: 360.0 -----Epsilon: 0.12716090038398334
+Episode: 1979 -----Score: 240.0 -----Epsilon: 0.12703507326148208
+Episode: 1980 -----Score: 220.0 -----Epsilon: 0.12691749311407527
+Episode: 1981 -----Score: 320.0 -----Epsilon: 0.12679089251355755
+Episode: 1982 -----Score: 260.0 -----Epsilon: 0.12666188493197492
+Episode: 1983 -----Score: 390.0 -----Epsilon: 0.12652440465276582
+Episode: 1984 -----Score: 270.0 -----Epsilon: 0.12638808469789076
+Episode: 1985 -----Score: 290.0 -----Epsilon: 0.12628171061397786
+Episode: 1986 -----Score: 320.0 -----Epsilon: 0.12615624883300433
+Episode: 1987 -----Score: 190.0 -----Epsilon: 0.12605914581376262
+Episode: 1988 -----Score: 360.0 -----Epsilon: 0.12590771359806074
+Episode: 1989 -----Score: 230.0 -----Epsilon: 0.12577608285289107
+Episode: 1990 -----Score: 160.0 -----Epsilon: 0.12568580794769948
+Episode: 1991 -----Score: 270.0 -----Epsilon: 0.12556746754535583
+Episode: 1992 -----Score: 270.0 -----Epsilon: 0.12543819950898666
+Episode: 1993 -----Score: 280.0 -----Epsilon: 0.12528751322309528
+Episode: 1994 -----Score: 970.0 -----Epsilon: 0.12503793858077195
+Episode: 1995 -----Score: 330.0 -----Epsilon: 0.12493420004546185
+Episode: 1996 -----Score: 380.0 -----Epsilon: 0.1247926048206851
+Episode: 1997 -----Score: 610.0 -----Epsilon: 0.12461926342682565
+Episode: 1998 -----Score: 170.0 -----Epsilon: 0.12450142923015536
+Episode: 1999 -----Score: 290.0 -----Epsilon: 0.1243782336838825
+Episode: 2000 -----Score: 230.0 -----Epsilon: 0.12425466302082716
+Episode: 2001 -----Score: 280.0 -----Epsilon: 0.12413369777771958
+Episode: 2002 -----Score: 470.0 -----Epsilon: 0.12396970129082764
+Episode: 2003 -----Score: 380.0 -----Epsilon: 0.12382077908113606
+Episode: 2004 -----Score: 490.0 -----Epsilon: 0.12366708898113982
+Episode: 2005 -----Score: 450.0 -----Epsilon: 0.1235046969787421
+Episode: 2006 -----Score: 220.0 -----Epsilon: 0.12339235871381907
+Episode: 2007 -----Score: 170.0 -----Epsilon: 0.12328702651739754
+Episode: 2008 -----Score: 310.0 -----Epsilon: 0.12316503263608986
+Episode: 2009 -----Score: 280.0 -----Epsilon: 0.12306334022219159
+Episode: 2010 -----Score: 180.0 -----Epsilon: 0.12296517475176347
+Episode: 2011 -----Score: 270.0 -----Epsilon: 0.12285283581641852
+Episode: 2012 -----Score: 620.0 -----Epsilon: 0.12269789317205229
+Episode: 2013 -----Score: 340.0 -----Epsilon: 0.12250540842735509
+Episode: 2014 -----Score: 470.0 -----Epsilon: 0.12231713973666515
+Episode: 2015 -----Score: 320.0 -----Epsilon: 0.12218975153045632
+Episode: 2016 -----Score: 280.0 -----Epsilon: 0.12209130617108933
+Episode: 2017 -----Score: 360.0 -----Epsilon: 0.12191781554130024
+Episode: 2018 -----Score: 270.0 -----Epsilon: 0.12181861472046294
+Episode: 2019 -----Score: 200.0 -----Epsilon: 0.1217048891387056
+Episode: 2020 -----Score: 280.0 -----Epsilon: 0.12157133037405615
+Episode: 2021 -----Score: 590.0 -----Epsilon: 0.12140052101986004
+Episode: 2022 -----Score: 730.0 -----Epsilon: 0.1211974663488011
+Episode: 2023 -----Score: 280.0 -----Epsilon: 0.12107608718725915
+Episode: 2024 -----Score: 220.0 -----Epsilon: 0.12095192670286806
+Episode: 2025 -----Score: 400.0 -----Epsilon: 0.12081967751630455
+Episode: 2026 -----Score: 170.0 -----Epsilon: 0.1207141271448391
+Episode: 2027 -----Score: 380.0 -----Epsilon: 0.12059660870825399
+Episode: 2028 -----Score: 170.0 -----Epsilon: 0.1204748675013792
+Episode: 2029 -----Score: 270.0 -----Epsilon: 0.12034650959118942
+Episode: 2030 -----Score: 410.0 -----Epsilon: 0.12023223458202974
+Episode: 2031 -----Score: 240.0 -----Epsilon: 0.12010845901199922
+Episode: 2032 -----Score: 400.0 -----Epsilon: 0.11997665216740065
+Episode: 2033 -----Score: 340.0 -----Epsilon: 0.11983060941711146
+Episode: 2034 -----Score: 440.0 -----Epsilon: 0.11967708485259078
+Episode: 2035 -----Score: 300.0 -----Epsilon: 0.1195663150555816
+Episode: 2036 -----Score: 570.0 -----Epsilon: 0.1194040540376469
+Episode: 2037 -----Score: 250.0 -----Epsilon: 0.11931310271437617
+Episode: 2038 -----Score: 1060.0 -----Epsilon: 0.1191883663327044
+Episode: 2039 -----Score: 640.0 -----Epsilon: 0.11900995564450048
+Episode: 2040 -----Score: 340.0 -----Epsilon: 0.11888410956989832
+Episode: 2041 -----Score: 260.0 -----Epsilon: 0.11873227257054353
+Episode: 2042 -----Score: 740.0 -----Epsilon: 0.11855264774055926
+Episode: 2043 -----Score: 1080.0 -----Epsilon: 0.1183728211643701
+Episode: 2044 -----Score: 370.0 -----Epsilon: 0.11821312551492386
+Episode: 2045 -----Score: 450.0 -----Epsilon: 0.11802956479793522
+Episode: 2046 -----Score: 110.0 -----Epsilon: 0.11790475542937123
+Episode: 2047 -----Score: 290.0 -----Epsilon: 0.1177494591691395
+Episode: 2048 -----Score: 650.0 -----Epsilon: 0.11759954172593318
+Episode: 2049 -----Score: 590.0 -----Epsilon: 0.11745874169021026
+Episode: 2050 -----Score: 180.0 -----Epsilon: 0.11737161954307
+Episode: 2051 -----Score: 350.0 -----Epsilon: 0.11722218316152684
+Episode: 2052 -----Score: 100.0 -----Epsilon: 0.11715023076076266
+Episode: 2053 -----Score: 300.0 -----Epsilon: 0.11703571372852117
+Episode: 2054 -----Score: 740.0 -----Epsilon: 0.11686473236190748
+Episode: 2055 -----Score: 290.0 -----Epsilon: 0.11674722543953957
+Episode: 2056 -----Score: 150.0 -----Epsilon: 0.11666576422799375
+Episode: 2057 -----Score: 320.0 -----Epsilon: 0.11656291028634946
+Episode: 2058 -----Score: 120.0 -----Epsilon: 0.11648483921511796
+Episode: 2059 -----Score: 190.0 -----Epsilon: 0.1163812137247771
+Episode: 2060 -----Score: 700.0 -----Epsilon: 0.11614287637755917
+Episode: 2061 -----Score: 310.0 -----Epsilon: 0.11605394491042514
+Episode: 2062 -----Score: 240.0 -----Epsilon: 0.11594513724006948
+Episode: 2063 -----Score: 120.0 -----Epsilon: 0.11583874833767459
+Episode: 2064 -----Score: 450.0 -----Epsilon: 0.11566859030426042
+Episode: 2065 -----Score: 560.0 -----Epsilon: 0.11549822022538128
+Episode: 2066 -----Score: 150.0 -----Epsilon: 0.11541947721486531
+Episode: 2067 -----Score: 260.0 -----Epsilon: 0.11532141224468685
+Episode: 2068 -----Score: 180.0 -----Epsilon: 0.11522527418588219
+Episode: 2069 -----Score: 180.0 -----Epsilon: 0.11512000629476572
+Episode: 2070 -----Score: 130.0 -----Epsilon: 0.11503323843884632
+Episode: 2071 -----Score: 280.0 -----Epsilon: 0.11491067822031609
+Episode: 2072 -----Score: 170.0 -----Epsilon: 0.1147992687933435
+Episode: 2073 -----Score: 1030.0 -----Epsilon: 0.11465264889128303
+Episode: 2074 -----Score: 720.0 -----Epsilon: 0.11446271211059146
+Episode: 2075 -----Score: 350.0 -----Epsilon: 0.11432795428891131
+Episode: 2076 -----Score: 1200.0 -----Epsilon: 0.11412942467803866
+Episode: 2077 -----Score: 150.0 -----Epsilon: 0.11403245578771272
+Episode: 2078 -----Score: 300.0 -----Epsilon: 0.1139282776356154
+Episode: 2079 -----Score: 330.0 -----Epsilon: 0.1138023424895918
+Episode: 2080 -----Score: 410.0 -----Epsilon: 0.11367063551833959
+Episode: 2081 -----Score: 260.0 -----Epsilon: 0.11355134387083164
+Episode: 2082 -----Score: 270.0 -----Epsilon: 0.11342310319364872
+Episode: 2083 -----Score: 200.0 -----Epsilon: 0.11330271167687941
+Episode: 2084 -----Score: 210.0 -----Epsilon: 0.11317158294382201
+Episode: 2085 -----Score: 130.0 -----Epsilon: 0.11307814171941018
+Episode: 2086 -----Score: 350.0 -----Epsilon: 0.11293868921297222
+Episode: 2087 -----Score: 400.0 -----Epsilon: 0.11278271559110775
+Episode: 2088 -----Score: 200.0 -----Epsilon: 0.11269770938991322
+Episode: 2089 -----Score: 400.0 -----Epsilon: 0.11258754479923391
+Episode: 2090 -----Score: 150.0 -----Epsilon: 0.11248423675544983
+Episode: 2091 -----Score: 330.0 -----Epsilon: 0.11236529124728928
+Episode: 2092 -----Score: 3530.0 -----Epsilon: 0.11219709388408601
+Episode: 2093 -----Score: 360.0 -----Epsilon: 0.11209459248805104
+Episode: 2094 -----Score: 250.0 -----Epsilon: 0.11199935247193982
+Episode: 2095 -----Score: 490.0 -----Epsilon: 0.11184467611813027
+Episode: 2096 -----Score: 100.0 -----Epsilon: 0.1117451785398802
+Episode: 2097 -----Score: 220.0 -----Epsilon: 0.11162478202240304
+Episode: 2098 -----Score: 170.0 -----Epsilon: 0.11153351019470613
+Episode: 2099 -----Score: 370.0 -----Epsilon: 0.11142047242217015
+320.0
+220.0
+280.0
+290.0
+270.0
+210.0
+290.0
+180.0
+350.0
+210.0
+190.0
+160.0
+240.0
+150.0
+310.0
+270.0
+320.0
+280.0
+270.0
+220.0
+350.0
+340.0
+170.0
+180.0
+340.0
+240.0
+350.0
+210.0
+330.0
+310.0
+150.0
+340.0
+170.0
+320.0
+600.0
+180.0
+280.0
+280.0
+350.0
+250.0
+200.0
+240.0
+200.0
+510.0
+410.0
+240.0
+140.0
+300.0
+240.0
+160.0
+410.0
+160.0
+130.0
+170.0
+280.0
+280.0
+100.0
+240.0
+380.0
+190.0
+280.0
+730.0
+170.0
+450.0
+270.0
+600.0
+140.0
+130.0
+300.0
+200.0
+180.0
+170.0
+280.0
+240.0
+300.0
+300.0
+240.0
+330.0
+300.0
+230.0
+390.0
+370.0
+530.0
+270.0
+220.0
+260.0
+290.0
+280.0
+250.0
+260.0
+260.0
+350.0
+330.0
+280.0
+160.0
+240.0
+290.0
+220.0
+180.0
+170.0
+180.0
+240.0
+260.0
+380.0
+160.0
+730.0
+360.0
+150.0
+250.0
+170.0
+210.0
+300.0
+340.0
+190.0
+300.0
+230.0
+270.0
+210.0
+200.0
+310.0
+700.0
+280.0
+1120.0
+340.0
+140.0
+290.0
+250.0
+170.0
+330.0
+370.0
+210.0
+170.0
+210.0
+220.0
+210.0
+110.0
+110.0
+210.0
+240.0
+340.0
+240.0
+150.0
+420.0
+200.0
+210.0
+260.0
+580.0
+210.0
+110.0
+350.0
+280.0
+250.0
+390.0
+200.0
+180.0
+210.0
+360.0
+270.0
+270.0
+270.0
+190.0
+270.0
+240.0
+260.0
+270.0
+320.0
+270.0
+220.0
+240.0
+280.0
+310.0
+260.0
+270.0
+250.0
+180.0
+340.0
+170.0
+150.0
+380.0
+310.0
+170.0
+490.0
+150.0
+330.0
+280.0
+250.0
+230.0
+190.0
+220.0
+210.0
+230.0
+370.0
+200.0
+320.0
+240.0
+210.0
+240.0
+350.0
+330.0
+220.0
+260.0
+800.0
+320.0
+320.0
+240.0
+260.0
+390.0
+510.0
+240.0
+670.0
+280.0
+340.0
+330.0
+230.0
+220.0
+250.0
+280.0
+270.0
+150.0
+290.0
+190.0
+270.0
+230.0
+210.0
+260.0
+210.0
+170.0
+370.0
+370.0
+590.0
+580.0
+330.0
+350.0
+200.0
+230.0
+250.0
+310.0
+180.0
+200.0
+220.0
+260.0
+410.0
+310.0
+270.0
+190.0
+230.0
+170.0
+180.0
+270.0
+310.0
+230.0
+350.0
+140.0
+460.0
+220.0
+240.0
+220.0
+250.0
+310.0
+180.0
+560.0
+370.0
+480.0
+220.0
+150.0
+260.0
+120.0
+390.0
+250.0
+130.0
+320.0
+480.0
+260.0
+260.0
+230.0
+240.0
+260.0
+340.0
+220.0
+320.0
+260.0
+200.0
+320.0
+320.0
+220.0
+230.0
+390.0
+300.0
+420.0
+270.0
+270.0
+150.0
+100.0
+190.0
+270.0
+350.0
+240.0
+460.0
+260.0
+220.0
+560.0
+290.0
+180.0
+280.0
+270.0
+280.0
+200.0
+280.0
+150.0
+220.0
+200.0
+270.0
+240.0
+330.0
+200.0
+350.0
+280.0
+280.0
+390.0
+290.0
+250.0
+380.0
+480.0
+270.0
+280.0
+360.0
+110.0
+370.0
+310.0
+300.0
+120.0
+270.0
+160.0
+340.0
+370.0
+340.0
+270.0
+460.0
+290.0
+180.0
+230.0
+300.0
+260.0
+1170.0
+280.0
+230.0
+250.0
+570.0
+200.0
+210.0
+240.0
+270.0
+570.0
+330.0
+260.0
+330.0
+180.0
+230.0
+240.0
+250.0
+270.0
+290.0
+210.0
+380.0
+180.0
+150.0
+510.0
+200.0
+140.0
+280.0
+170.0
+250.0
+240.0
+290.0
+240.0
+260.0
+280.0
+270.0
+240.0
+350.0
+320.0
+290.0
+230.0
+370.0
+160.0
+250.0
+200.0
+210.0
+370.0
+310.0
+330.0
+150.0
+340.0
+110.0
+110.0
+390.0
+1030.0
+280.0
+190.0
+480.0
+390.0
+890.0
+210.0
+640.0
+220.0
+360.0
+250.0
+210.0
+280.0
+210.0
+610.0
+380.0
+2650.0
+350.0
+440.0
+210.0
+220.0
+240.0
+190.0
+250.0
+170.0
+320.0
+550.0
+340.0
+410.0
+140.0
+410.0
+270.0
+360.0
+560.0
+400.0
+440.0
+250.0
+280.0
+260.0
+590.0
+340.0
+360.0
+310.0
+330.0
+310.0
+740.0
+410.0
+350.0
+200.0
+240.0
+320.0
+310.0
+230.0
+700.0
+330.0
+260.0
+270.0
+330.0
+350.0
+780.0
+570.0
+270.0
+390.0
+240.0
+270.0
+350.0
+360.0
+190.0
+300.0
+320.0
+200.0
+300.0
+290.0
+270.0
+530.0
+270.0
+450.0
+180.0
+300.0
+300.0
+480.0
+250.0
+390.0
+280.0
+200.0
+260.0
+300.0
+260.0
+410.0
+270.0
+510.0
+160.0
+440.0
+200.0
+250.0
+310.0
+190.0
+400.0
+210.0
+320.0
+320.0
+690.0
+170.0
+170.0
+250.0
+210.0
+170.0
+690.0
+280.0
+360.0
+260.0
+190.0
+360.0
+680.0
+250.0
+300.0
+290.0
+100.0
+140.0
+390.0
+290.0
+440.0
+300.0
+500.0
+250.0
+260.0
+240.0
+150.0
+370.0
+230.0
+240.0
+260.0
+290.0
+290.0
+560.0
+440.0
+230.0
+260.0
+560.0
+350.0
+390.0
+270.0
+320.0
+310.0
+310.0
+360.0
+290.0
+200.0
+300.0
+280.0
+530.0
+300.0
+290.0
+320.0
+440.0
+320.0
+370.0
+200.0
+260.0
+410.0
+240.0
+360.0
+280.0
+350.0
+120.0
+380.0
+260.0
+260.0
+540.0
+230.0
+320.0
+170.0
+570.0
+190.0
+270.0
+310.0
+610.0
+240.0
+280.0
+460.0
+250.0
+220.0
+300.0
+720.0
+180.0
+820.0
+140.0
+1860.0
+750.0
+160.0
+270.0
+190.0
+290.0
+310.0
+200.0
+250.0
+300.0
+200.0
+350.0
+180.0
+250.0
+530.0
+650.0
+210.0
+160.0
+390.0
+440.0
+280.0
+190.0
+230.0
+160.0
+270.0
+330.0
+240.0
+280.0
+160.0
+280.0
+230.0
+230.0
+260.0
+340.0
+220.0
+690.0
+360.0
+260.0
+260.0
+370.0
+420.0
+230.0
+670.0
+220.0
+270.0
+370.0
+190.0
+170.0
+180.0
+390.0
+220.0
+300.0
+290.0
+180.0
+320.0
+180.0
+950.0
+240.0
+410.0
+430.0
+390.0
+270.0
+230.0
+820.0
+230.0
+320.0
+230.0
+260.0
+420.0
+420.0
+250.0
+1080.0
+200.0
+260.0
+290.0
+270.0
+230.0
+230.0
+260.0
+340.0
+380.0
+360.0
+280.0
+390.0
+290.0
+310.0
+200.0
+360.0
+360.0
+360.0
+300.0
+320.0
+190.0
+180.0
+380.0
+240.0
+210.0
+390.0
+1370.0
+310.0
+160.0
+320.0
+200.0
+240.0
+230.0
+870.0
+260.0
+190.0
+290.0
+310.0
+270.0
+280.0
+220.0
+240.0
+280.0
+160.0
+340.0
+200.0
+270.0
+230.0
+420.0
+270.0
+230.0
+410.0
+460.0
+270.0
+220.0
+470.0
+620.0
+150.0
+260.0
+400.0
+270.0
+670.0
+300.0
+310.0
+270.0
+260.0
+370.0
+370.0
+310.0
+270.0
+230.0
+560.0
+200.0
+500.0
+350.0
+270.0
+170.0
+210.0
+320.0
+220.0
+260.0
+290.0
+340.0
+320.0
+330.0
+420.0
+390.0
+1090.0
+280.0
+300.0
+180.0
+180.0
+240.0
+310.0
+420.0
+300.0
+330.0
+360.0
+220.0
+210.0
+180.0
+190.0
+440.0
+220.0
+250.0
+270.0
+840.0
+250.0
+310.0
+390.0
+320.0
+790.0
+370.0
+560.0
+270.0
+540.0
+330.0
+250.0
+250.0
+320.0
+480.0
+350.0
+510.0
+240.0
+260.0
+190.0
+370.0
+260.0
+380.0
+260.0
+380.0
+290.0
+260.0
+250.0
+230.0
+400.0
+510.0
+150.0
+380.0
+430.0
+120.0
+610.0
+220.0
+330.0
+1860.0
+350.0
+290.0
+260.0
+420.0
+560.0
+760.0
+470.0
+370.0
+180.0
+350.0
+420.0
+430.0
+320.0
+370.0
+310.0
+690.0
+630.0
+320.0
+160.0
+230.0
+260.0
+370.0
+560.0
+410.0
+260.0
+370.0
+310.0
+440.0
+150.0
+320.0
+410.0
+230.0
+240.0
+330.0
+350.0
+330.0
+180.0
+240.0
+760.0
+200.0
+450.0
+170.0
+210.0
+430.0
+830.0
+160.0
+610.0
+460.0
+270.0
+270.0
+340.0
+590.0
+310.0
+310.0
+180.0
+330.0
+200.0
+220.0
+370.0
+590.0
+1960.0
+310.0
+370.0
+190.0
+250.0
+210.0
+370.0
+610.0
+410.0
+270.0
+120.0
+270.0
+330.0
+340.0
+280.0
+290.0
+150.0
+300.0
+350.0
+280.0
+240.0
+360.0
+330.0
+1070.0
+410.0
+480.0
+280.0
+260.0
+390.0
+200.0
+250.0
+260.0
+350.0
+650.0
+240.0
+340.0
+500.0
+300.0
+280.0
+350.0
+400.0
+270.0
+270.0
+300.0
+620.0
+390.0
+390.0
+280.0
+140.0
+250.0
+280.0
+360.0
+360.0
+390.0
+340.0
+370.0
+300.0
+410.0
+450.0
+170.0
+300.0
+360.0
+300.0
+340.0
+370.0
+480.0
+240.0
+370.0
+260.0
+160.0
+280.0
+260.0
+220.0
+260.0
+330.0
+330.0
+280.0
+180.0
+280.0
+230.0
+1130.0
+240.0
+330.0
+460.0
+1400.0
+470.0
+600.0
+330.0
+310.0
+210.0
+340.0
+370.0
+220.0
+260.0
+370.0
+270.0
+890.0
+270.0
+260.0
+320.0
+210.0
+340.0
+220.0
+470.0
+350.0
+350.0
+570.0
+290.0
+370.0
+530.0
+420.0
+190.0
+450.0
+210.0
+280.0
+210.0
+260.0
+180.0
+190.0
+210.0
+280.0
+490.0
+290.0
+390.0
+340.0
+390.0
+470.0
+170.0
+280.0
+640.0
+390.0
+180.0
+310.0
+200.0
+310.0
+270.0
+240.0
+200.0
+270.0
+140.0
+630.0
+260.0
+220.0
+160.0
+750.0
+400.0
+290.0
+150.0
+290.0
+290.0
+580.0
+370.0
+310.0
+260.0
+250.0
+300.0
+140.0
+730.0
+430.0
+280.0
+230.0
+290.0
+390.0
+270.0
+250.0
+280.0
+320.0
+230.0
+340.0
+380.0
+330.0
+310.0
+220.0
+380.0
+230.0
+510.0
+390.0
+520.0
+440.0
+370.0
+360.0
+580.0
+500.0
+160.0
+300.0
+330.0
+270.0
+420.0
+220.0
+260.0
+320.0
+310.0
+300.0
+520.0
+340.0
+520.0
+410.0
+410.0
+290.0
+710.0
+620.0
+340.0
+360.0
+650.0
+200.0
+310.0
+390.0
+410.0
+220.0
+730.0
+130.0
+360.0
+170.0
+310.0
+540.0
+280.0
+240.0
+170.0
+200.0
+370.0
+190.0
+260.0
+320.0
+230.0
+340.0
+960.0
+1170.0
+450.0
+270.0
+1050.0
+330.0
+850.0
+330.0
+330.0
+1020.0
+290.0
+170.0
+240.0
+420.0
+180.0
+310.0
+960.0
+240.0
+1190.0
+150.0
+290.0
+760.0
+350.0
+240.0
+320.0
+340.0
+300.0
+260.0
+220.0
+300.0
+320.0
+630.0
+310.0
+570.0
+300.0
+630.0
+1440.0
+250.0
+320.0
+190.0
+1050.0
+580.0
+370.0
+320.0
+350.0
+180.0
+630.0
+440.0
+320.0
+250.0
+210.0
+310.0
+350.0
+220.0
+190.0
+200.0
+420.0
+370.0
+310.0
+370.0
+400.0
+1070.0
+320.0
+240.0
+330.0
+380.0
+290.0
+310.0
+550.0
+290.0
+500.0
+280.0
+320.0
+300.0
+440.0
+180.0
+280.0
+270.0
+490.0
+340.0
+250.0
+310.0
+200.0
+110.0
+280.0
+240.0
+360.0
+300.0
+420.0
+110.0
+510.0
+190.0
+290.0
+740.0
+340.0
+760.0
+220.0
+210.0
+370.0
+200.0
+260.0
+210.0
+690.0
+210.0
+330.0
+350.0
+300.0
+380.0
+280.0
+420.0
+330.0
+320.0
+1030.0
+350.0
+180.0
+340.0
+310.0
+490.0
+470.0
+600.0
+350.0
+330.0
+270.0
+210.0
+190.0
+630.0
+250.0
+330.0
+140.0
+520.0
+290.0
+360.0
+1170.0
+250.0
+320.0
+550.0
+310.0
+270.0
+270.0
+330.0
+220.0
+600.0
+290.0
+270.0
+240.0
+210.0
+330.0
+270.0
+140.0
+400.0
+320.0
+220.0
+720.0
+220.0
+240.0
+250.0
+620.0
+410.0
+1830.0
+740.0
+360.0
+520.0
+190.0
+380.0
+330.0
+210.0
+290.0
+370.0
+160.0
+350.0
+360.0
+280.0
+220.0
+390.0
+680.0
+730.0
+200.0
+320.0
+330.0
+190.0
+210.0
+620.0
+330.0
+290.0
+350.0
+490.0
+310.0
+620.0
+370.0
+260.0
+100.0
+190.0
+360.0
+450.0
+160.0
+320.0
+310.0
+300.0
+330.0
+260.0
+220.0
+300.0
+220.0
+300.0
+350.0
+320.0
+210.0
+330.0
+1140.0
+180.0
+450.0
+230.0
+430.0
+350.0
+190.0
+300.0
+280.0
+420.0
+380.0
+220.0
+260.0
+250.0
+370.0
+400.0
+390.0
+220.0
+270.0
+290.0
+470.0
+190.0
+280.0
+360.0
+410.0
+610.0
+380.0
+370.0
+1110.0
+940.0
+640.0
+320.0
+830.0
+300.0
+1760.0
+410.0
+990.0
+300.0
+560.0
+460.0
+400.0
+240.0
+120.0
+310.0
+290.0
+510.0
+140.0
+470.0
+1100.0
+280.0
+320.0
+200.0
+370.0
+280.0
+360.0
+250.0
+160.0
+610.0
+350.0
+500.0
+450.0
+330.0
+340.0
+230.0
+230.0
+400.0
+1860.0
+140.0
+640.0
+600.0
+810.0
+460.0
+350.0
+480.0
+120.0
+590.0
+260.0
+220.0
+160.0
+680.0
+430.0
+810.0
+350.0
+290.0
+970.0
+290.0
+320.0
+420.0
+620.0
+530.0
+320.0
+190.0
+160.0
+420.0
+410.0
+290.0
+310.0
+670.0
+270.0
+670.0
+390.0
+1070.0
+610.0
+200.0
+200.0
+410.0
+380.0
+170.0
+740.0
+150.0
+370.0
+220.0
+410.0
+300.0
+220.0
+370.0
+140.0
+1400.0
+2260.0
+290.0
+820.0
+440.0
+960.0
+650.0
+470.0
+270.0
+400.0
+200.0
+630.0
+290.0
+430.0
+400.0
+310.0
+1420.0
+920.0
+120.0
+660.0
+220.0
+410.0
+1040.0
+500.0
+450.0
+290.0
+160.0
+230.0
+580.0
+130.0
+360.0
+270.0
+350.0
+370.0
+300.0
+180.0
+570.0
+440.0
+290.0
+580.0
+430.0
+410.0
+220.0
+250.0
+160.0
+490.0
+600.0
+150.0
+310.0
+100.0
+190.0
+280.0
+410.0
+240.0
+400.0
+390.0
+280.0
+280.0
+290.0
+210.0
+170.0
+630.0
+380.0
+290.0
+180.0
+320.0
+320.0
+340.0
+320.0
+250.0
+310.0
+2100.0
+340.0
+300.0
+210.0
+1240.0
+320.0
+290.0
+300.0
+230.0
+380.0
+230.0
+420.0
+520.0
+290.0
+350.0
+150.0
+380.0
+170.0
+250.0
+300.0
+170.0
+250.0
+450.0
+120.0
+380.0
+660.0
+170.0
+390.0
+200.0
+1070.0
+440.0
+640.0
+300.0
+330.0
+450.0
+500.0
+510.0
+240.0
+260.0
+340.0
+350.0
+350.0
+400.0
+250.0
+530.0
+190.0
+220.0
+600.0
+270.0
+300.0
+280.0
+170.0
+370.0
+280.0
+330.0
+420.0
+620.0
+400.0
+210.0
+280.0
+230.0
+280.0
+410.0
+1040.0
+310.0
+190.0
+340.0
+330.0
+1030.0
+150.0
+210.0
+320.0
+310.0
+200.0
+1120.0
+330.0
+330.0
+350.0
+310.0
+470.0
+380.0
+220.0
+1850.0
+220.0
+370.0
+410.0
+350.0
+250.0
+210.0
+280.0
+200.0
+230.0
+700.0
+1080.0
+180.0
+400.0
+180.0
+170.0
+180.0
+670.0
+130.0
+250.0
+390.0
+200.0
+120.0
+350.0
+190.0
+340.0
+1000.0
+570.0
+1050.0
+1230.0
+170.0
+180.0
+220.0
+300.0
+490.0
+210.0
+550.0
+330.0
+300.0
+410.0
+560.0
+380.0
+600.0
+1120.0
+450.0
+350.0
+590.0
+680.0
+380.0
+330.0
+150.0
+390.0
+200.0
+350.0
+290.0
+330.0
+220.0
+300.0
+390.0
+210.0
+140.0
+280.0
+370.0
+650.0
+470.0
+280.0
+380.0
+250.0
+120.0
+270.0
+590.0
+310.0
+410.0
+380.0
+120.0
+430.0
+270.0
+690.0
+560.0
+630.0
+410.0
+170.0
+220.0
+240.0
+240.0
+230.0
+320.0
+990.0
+360.0
+240.0
+210.0
+990.0
+390.0
+330.0
+200.0
+230.0
+280.0
+210.0
+260.0
+440.0
+100.0
+200.0
+230.0
+330.0
+280.0
+1400.0
+430.0
+310.0
+140.0
+420.0
+400.0
+330.0
+620.0
+510.0
+230.0
+900.0
+350.0
+300.0
+310.0
+150.0
+220.0
+220.0
+350.0
+260.0
+210.0
+260.0
+300.0
+640.0
+280.0
+230.0
+140.0
+610.0
+340.0
+340.0
+320.0
+570.0
+310.0
+180.0
+220.0
+120.0
+410.0
+110.0
+450.0
+180.0
+890.0
+220.0
+600.0
+390.0
+190.0
+510.0
+340.0
+150.0
+550.0
+330.0
+200.0
+280.0
+260.0
+350.0
+350.0
+540.0
+290.0
+370.0
+270.0
+230.0
+240.0
+660.0
+300.0
+210.0
+210.0
+1320.0
+200.0
+980.0
+190.0
+230.0
+280.0
+200.0
+180.0
+130.0
+220.0
+710.0
+980.0
+300.0
+200.0
+200.0
+340.0
+240.0
+310.0
+300.0
+250.0
+270.0
+400.0
+150.0
+260.0
+140.0
+300.0
+80.0
+260.0
+380.0
+250.0
+680.0
+570.0
+640.0
+110.0
+380.0
+730.0
+350.0
+310.0
+650.0
+170.0
+320.0
+640.0
+400.0
+940.0
+450.0
+470.0
+460.0
+300.0
+340.0
+1010.0
+310.0
+620.0
+580.0
+570.0
+340.0
+800.0
+280.0
+210.0
+320.0
+200.0
+290.0
+1210.0
+280.0
+150.0
+200.0
+240.0
+280.0
+190.0
+470.0
+210.0
+140.0
+440.0
+250.0
+240.0
+270.0
+240.0
+460.0
+180.0
+230.0
+570.0
+330.0
+180.0
+250.0
+220.0
+1130.0
+420.0
+2560.0
+210.0
+290.0
+320.0
+170.0
+230.0
+270.0
+810.0
+350.0
+380.0
+310.0
+350.0
+310.0
+400.0
+290.0
+300.0
+1080.0
+260.0
+360.0
+290.0
+610.0
+390.0
+390.0
+320.0
+1520.0
+430.0
+680.0
+570.0
+280.0
+450.0
+570.0
+320.0
+240.0
+260.0
+260.0
+410.0
+340.0
+220.0
+620.0
+360.0
+1160.0
+1750.0
+230.0
+600.0
+170.0
+250.0
+240.0
+810.0
+730.0
+310.0
+200.0
+210.0
+350.0
+180.0
+410.0
+350.0
+230.0
+290.0
+470.0
+300.0
+280.0
+410.0
+520.0
+310.0
+210.0
+530.0
+430.0
+190.0
+430.0
+620.0
+520.0
+350.0
+210.0
+300.0
+380.0
+520.0
+420.0
+690.0
+520.0
+170.0
+260.0
+290.0
+230.0
+220.0
+250.0
+140.0
+170.0
+280.0
+320.0
+240.0
+250.0
+120.0
+310.0
+340.0
+350.0
+240.0
+300.0
+550.0
+420.0
+310.0
+360.0
+250.0
+660.0
+300.0
+120.0
+350.0
+380.0
+1050.0
+220.0
+260.0
+270.0
+640.0
+530.0
+310.0
+650.0
+120.0
+270.0
+320.0
+190.0
+580.0
+910.0
+250.0
+1320.0
+320.0
+370.0
+300.0
+210.0
+430.0
+430.0
+300.0
+240.0
+680.0
+320.0
+380.0
+260.0
+240.0
+230.0
+170.0
+210.0
+210.0
+510.0
+370.0
+250.0
+270.0
+150.0
+280.0
+490.0
+720.0
+210.0
+170.0
+300.0
+160.0
+280.0
+180.0
+340.0
+490.0
+230.0
+290.0
+200.0
+220.0
+360.0
+240.0
+220.0
+320.0
+260.0
+390.0
+270.0
+290.0
+320.0
+190.0
+360.0
+230.0
+160.0
+270.0
+270.0
+280.0
+970.0
+330.0
+380.0
+610.0
+170.0
+290.0
+230.0
+280.0
+470.0
+380.0
+490.0
+450.0
+220.0
+170.0
+310.0
+280.0
+180.0
+270.0
+620.0
+340.0
+470.0
+320.0
+280.0
+360.0
+270.0
+200.0
+280.0
+590.0
+730.0
+280.0
+220.0
+400.0
+170.0
+380.0
+170.0
+270.0
+410.0
+240.0
+400.0
+340.0
+440.0
+300.0
+570.0
+250.0
+1060.0
+640.0
+340.0
+260.0
+740.0
+1080.0
+370.0
+450.0
+110.0
+290.0
+650.0
+590.0
+180.0
+350.0
+100.0
+300.0
+740.0
+290.0
+150.0
+320.0
+120.0
+190.0
+700.0
+310.0
+240.0
+120.0
+450.0
+560.0
+150.0
+260.0
+180.0
+180.0
+130.0
+280.0
+170.0
+1030.0
+720.0
+350.0
+1200.0
+150.0
+300.0
+330.0
+410.0
+260.0
+270.0
+200.0
+210.0
+130.0
+350.0
+400.0
+200.0
+400.0
+150.0
+330.0
+3530.0
+360.0
+250.0
+490.0
+100.0
+220.0
+170.0
+370.0
