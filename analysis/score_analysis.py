@@ -53,10 +53,7 @@ def plot_trial_scores(trial_data, output_path=None):
     """
     Plot scores from all trials with fill-between to show variance
     """
-    plt.figure(figsize=(14, 8))
-
-    # Plot detailed scores (with episode numbers)
-    plt.subplot(2, 1, 1)
+    plt.figure(figsize=(14, 6))
 
     max_episodes = 0
     all_detailed_scores = []
@@ -64,7 +61,7 @@ def plot_trial_scores(trial_data, output_path=None):
         episodes, scores = data["detailed"]
         if episodes:
             max_episodes = max(max_episodes, max(episodes))
-            plt.plot(episodes, scores, alpha=0.5, label=f"{trial} (detailed)")
+            plt.plot(episodes, scores, alpha=0.5, label=trial)
             all_detailed_scores.append((episodes, scores))
 
     # Calculate mean and std for detailed scores
@@ -105,55 +102,8 @@ def plot_trial_scores(trial_data, output_path=None):
                 label="±1 Std Dev",
             )
 
-    plt.title("Detailed Scores by Episode")
+    plt.title("Scores by Episode")
     plt.xlabel("Episode")
-    plt.ylabel("Score")
-    plt.grid(True, alpha=0.3)
-    plt.legend()
-
-    # Plot raw scores
-    plt.subplot(2, 1, 2)
-
-    all_raw_scores = []
-    max_length = 0
-
-    for trial, data in trial_data.items():
-        scores = data["raw"]
-        if scores:
-            max_length = max(max_length, len(scores))
-            x = np.arange(1, len(scores) + 1)
-            plt.plot(x, scores, alpha=0.5, label=f"{trial} (raw)")
-            all_raw_scores.append(scores)
-
-    # Calculate mean and std for raw scores
-    if all_raw_scores:
-        # Pad all arrays to the same length
-        padded_scores = []
-        for scores in all_raw_scores:
-            padded = np.zeros(max_length)
-            padded[: len(scores)] = scores
-            for i in range(len(scores), max_length):
-                padded[i] = padded[len(scores) - 1] if len(scores) > 0 else 0
-            padded_scores.append(padded)
-
-        # Calculate mean and std
-        score_array = np.array(padded_scores)
-        mean_scores = np.mean(score_array, axis=0)
-        std_scores = np.std(score_array, axis=0)
-
-        x = np.arange(1, max_length + 1)
-        plt.plot(x, mean_scores, "k-", linewidth=2, label="Mean")
-        plt.fill_between(
-            x,
-            mean_scores - std_scores,
-            mean_scores + std_scores,
-            alpha=0.2,
-            color="gray",
-            label="±1 Std Dev",
-        )
-
-    plt.title("Raw Scores")
-    plt.xlabel("Index")
     plt.ylabel("Score")
     plt.grid(True, alpha=0.3)
     plt.legend()
@@ -241,12 +191,17 @@ def analyze_all_experiments():
     Analyze all experiments (exp_1 and exp_2)
     """
     base_dir = Path("/Users/nicholas/Documents/GitHub/neuro140")
-    experiments = ["exp_1", "exp_2"]
+
+    # Define experiment configurations
+    experiments = {
+        "exp_1": {"results_dir": "results"},
+        "exp_2": {"results_dir": "results"},
+    }
 
     all_experiments_stats = {}
 
-    for exp in experiments:
-        results_dir = base_dir / exp / "results"
+    for exp_name, config in experiments.items():
+        results_dir = base_dir / exp_name / config["results_dir"]
         trial_data = {}
 
         # Process each trial file
@@ -260,16 +215,16 @@ def analyze_all_experiments():
 
         # Calculate statistics for this experiment
         stats = calculate_statistics(trial_data)
-        all_experiments_stats[exp] = stats
+        all_experiments_stats[exp_name] = stats
 
         # Print statistics
-        print_statistics(exp, stats)
+        print_statistics(exp_name, stats)
 
         # Create plot for this experiment
-        output_path = base_dir / exp / "images" / "score_analysis.png"
+        output_path = base_dir / exp_name / "images" / "score_analysis.png"
 
         # Make sure the images directory exists
-        os.makedirs(base_dir / exp / "images", exist_ok=True)
+        os.makedirs(base_dir / exp_name / "images", exist_ok=True)
 
         plot_trial_scores(trial_data, output_path)
         print(f"Plot saved to {output_path}")

@@ -1,0 +1,252 @@
+
+\documentclass{article} % For LaTeX2e
+\usepackage{iclr2021_conference,times}
+
+% Optional math commands from https://github.com/goodfeli/dlbook_notation.
+\input{math_commands.tex}
+
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{graphicx}
+
+
+\title{Neuro 240 Final Project Report - \\Playing Pac-Man Using RL}
+
+% Authors must not appear in the submitted version. They should be hidden
+% as long as the \iclrfinalcopy macro remains commented out below.
+% Non-anonymous submissions will be rejected without review.
+
+\author{Nicholas Yang\\
+\texttt{nyang@college.harvard.edu}}
+
+% The \author macro works with any number of authors. There are two commands
+% used to separate the names and addresses of multiple authors: \And and \AND.
+%
+% Using \And between authors leaves it to \LaTeX{} to determine where to break
+% the lines. Using \AND forces a linebreak at that point. So, if \LaTeX{}
+% puts 3 of 4 authors names on the first line, and the last on the second
+% line, try using \AND instead of \And before the third author name.
+
+\newcommand{\fix}{\marginpar{FIX}}
+\newcommand{\new}{\marginpar{NEW}}
+
+\iclrfinalcopy % Uncomment for camera-ready version, but NOT for submission.
+\begin{document}
+
+
+\maketitle
+
+\begin{abstract}
+  This project investigates the effectiveness of a Deep Reinforcement Learning (RL) agent, specifically using a Deep Q-Learning algorithm, in navigating a simulated Pac-Man environment characterized by dynamically changing ghost behaviors. We explore how implementing additional improvements to the baseline Deep RL algorithm to improve the model's behavior. We also explore how the variability of ghost strategies impacts the agent's decision-making and overall performance. The agent receives real-time state inputs, including ghost positions, pellet locations, and Pac-Man's coordinates, and outputs optimal directional movements. Our hypothesis posits that the agent can successfully predict and adapt to ghost behaviors resembling previously encountered patterns but struggles with novel strategies, and that the improvements we make to the algorithm will make that model better at adapting to new environments than the original model will. Performance evaluation is based on the highest and average levels reached across multiple trials, offering quantitative insight into the agent's adaptability and robustness. This study provides valuable insights into the capacity and limitations of Deep Q-Learning models in dynamically unpredictable gaming environments.
+\end{abstract}
+
+\section{Introduction}
+
+Reinforcement learning has become a way to model how the brain behaves when meeting new information: given some sort of reward function, the model should be able to iteratively learn how to solve a problem by itself. These types of algorithms have proven to learn the best path forward given a finite state space as well as a limited set of potential actions that the agent can take. Atari games, known for their arcade-style themes and simple gameplay dynamics, are a common starting place for testing certain reinforcement learning algorithms to determine efficacy. In particular, games such as Flappy Bird have a finite number of gameplay states (position of the bird and the position of the pillars) as well as a finite number of actions (do nothing and flap). We take another look at a different game: Pac-Man.
+
+The game of Pac-Man involves controlling a character within the game called Pac-Man where the goal of the game is to eat all of the dots in an enclosed maze while avoiding the four ghosts in the maze, each of which have certain behaviors. The Pac-Man character is limited to moving in four directions or not moving at all, proving a finite number of potential moves, and there are a finite number of game states as well since the Pac-Man and the ghosts can only exist in certain locations on the maze.
+
+Scoring primarily occurs through consuming various items scattered across the maze. Pac-Man earns 10 points for each regular pellet (small dot) eaten and 50 points for every power pellet (larger dot), which additionally grants temporary power to consume ghosts. When Pac-Man eats a power pellet, ghosts become vulnerable and yield increasing points if consumed consecutively: 200 points for the first ghost, 400 for the second, 800 for the third, and 1600 for the fourth, after which the scoring resets with the next power pellet.
+
+Using this simple game, we approach the project by determining whether a Deep Q-Learning Network, trained under the standard Pac-Man game, can sufficiently solve the game when we modify the ghost behavior or when we introduce different sized mazes. We further test this by adding in improvements, which include the implementation of Double Deep Q-Learning Network and Categorical Deep Q-Learning Networks. Finally, we demonstrate that our improvements to the standard DQN model will make the model perform better on standard statistics on the score, which include the average and the maximum score.
+
+All of the code for this project can be found here: \url{https://github.com/Nickanda/neuro140}
+
+\section{Related Works}
+
+\subsection{Deep Q-Learning Network (DQN)}
+
+Deep Q-Learning Networks (DQNs) have significantly advanced the field of reinforcement learning by enabling agents to learn optimal policies directly from high-dimensional sensory inputs. Introduced by \cite{mnih2015human}, DQNs combine Q-learning with deep neural networks, utilizing techniques such as experience replay and target networks to stabilize training. This approach achieved human-level performance on various Atari 2600 games, marking a milestone in the development of general-purpose AI agents.
+
+Subsequent research has focused on enhancing the stability and efficiency of DQNs. \cite{van2016deep} created Double DQN, which addresses the overestimation bias inherent in standard Q-learning by decoupling action selection from evaluation, leading to more accurate value estimates. \cite{wang2016dueling} created Dueling DQN architectures which further decompose the Q-value into separate estimations of the state value and the advantage function, improving learning efficiency, especially in environments where actions have similar outcomes.
+
+To accelerate learning and improve sample efficiency, \cite{hester2018deep} showed that Deep Q-learning from Demonstrations (DQfD) integrates expert demonstrations into the training process. This method combines supervised learning with reinforcement learning, enabling agents to achieve better initial performance and faster convergence.
+
+Despite these advancements, challenges remain in ensuring the stability of DQNs. \cite{achiam2019towards} analyzed the conditions under which the combination of bootstrapping, off-policy learning, and function approximation—known as the "deadly triad"—can lead to divergence in Q-learning algorithms. Understanding and mitigating these issues are critical for deploying DQNs in complex, real-world environments.
+
+Recent efforts have also explored the energy efficiency of DQNs by converting them into spiking neural networks (SNNs). \cite{tan2020strategy} proposed a strategy for translating DQNs into event-driven SNNs, achieving competitive performance on Atari games while benefiting from the low power consumption of neuromorphic hardware.
+
+These developments underscore the versatility and ongoing evolution of Deep Q-Learning Networks, highlighting their potential and the need for continued research to address existing limitations.
+
+\subsection{Rainbow Deep Q-Learning Network (Rainbow DQN)}
+
+Rainbow DQN, introduced by \cite{hessel2018rainbow}, represents a significant advancement in deep reinforcement learning by integrating multiple enhancements into the original Deep Q-Network (DQN) framework. The primary motivation behind Rainbow DQN was to combine several independently developed improvements to DQN to achieve superior performance on benchmark tasks.
+
+The six key components integrated into Rainbow DQN are:
+
+\begin{itemize}
+  \item \textbf{Double Q-Learning} \cite{van2016deep}: Addresses the overestimation bias in action-value estimates by decoupling action selection from evaluation.
+  \item \textbf{Prioritized Experience Replay} \cite{schaul2016prioritized}: Improves learning efficiency by sampling more informative transitions based on their temporal-difference error.
+  \item \textbf{Dueling Network Architecture} \cite{wang2016dueling}: Separates the estimation of state-value and advantage functions, allowing the agent to learn which states are valuable without needing to learn the effect of each action for every state.
+  \item \textbf{Multi-Step Learning}: Enhances learning by considering the cumulative reward over multiple steps, leading to faster propagation of rewards.
+  \item \textbf{Distributional Reinforcement Learning} \cite{bellemare2017distributional}: Models the distribution of possible future rewards, providing a richer learning signal than traditional expected value methods.
+  \item \textbf{Noisy Nets} \cite{fortunato2018noisy}: Introduces stochasticity in the network's weights to facilitate efficient exploration.
+\end{itemize}
+
+Empirical evaluations performed by \cite{hessel2018rainbow} demonstrated that Rainbow DQN outperforms its individual components and other baseline algorithms on the Atari 2600 benchmark suite, achieving state-of-the-art performance in terms of both data efficiency and final performance. We take this model as inspiration for combining multiple improvements into the DQN model that we create here.
+
+\subsection{Double Deep Q-Learning Network (Double DQN)}
+
+\cite{mnih2015human} showed that Deep Q-Networks (DQNs) have demonstrated remarkable success in various reinforcement learning tasks by integrating Q-learning with deep neural networks. However, a notable limitation of the standard DQN algorithm is the tendency to overestimate action values due to the maximization step in the Q-learning update, which can lead to suboptimal policies and unstable learning.
+
+To address this issue, \cite{van2016deep} introduced the Double Deep Q-Network (Double DQN) algorithm. The core idea behind Double DQN is to decouple the action selection and evaluation processes in the target value computation. Specifically, the online network is used to select the action that maximizes the Q-value, while a separate target network evaluates this action to compute the target Q-value. This approach mitigates the overestimation bias inherent in standard DQN by reducing the correlation between the action selection and evaluation steps.
+
+The target value in Double DQN is computed as follows:
+
+\[
+  Y_t^{\text{DoubleDQN}} = R_{t+1} + \gamma Q\left(S_{t+1}, \arg\max_a Q(S_{t+1}, a; \theta_t); \theta_t^{-}\right)
+\]
+
+where $\theta_t$ represents the parameters of the online network, and $\theta_t^{-}$ denotes the parameters of the target network. By using the online network for action selection and the target network for evaluation, Double DQN provides more accurate value estimates, leading to improved learning stability and performance across various environments.
+
+\subsection{Categorical Deep Q-Learning Network (Categorical DQN)}
+
+Traditional Deep Q-Networks (DQNs) estimate the expected return for each action, which can be limiting in environments with high variability or risk-sensitive tasks. To address this, \cite{bellemare2017distributional} introduced the Categorical DQN (C51), which models the full distribution of returns rather than just their expectation.
+
+C51 represents the value distribution using a fixed set of $N$ atoms $\{z_i\}_{i=1}^N$ spanning the value range $[v_{\min}, v_{\max}]$. The algorithm maintains a categorical distribution over these atoms for each state-action pair, allowing it to capture the inherent uncertainty and variability in returns. The distributional Bellman operator is applied to update these distributions, and the resulting projected distribution is used to compute the loss via the Kullback-Leibler divergence.
+
+\cite{bellemare2017distributional} demonstrated that C51 outperforms standard DQN and its variants on various benchmarks, including the Atari 2600 suite, by providing more stable and robust learning . The success of C51 has also influenced the development of subsequent algorithms, such as Quantile Regression DQN (QR-DQN) and Implicit Quantile Networks (IQN), which further explore distributional approaches in reinforcement learning.
+
+\section{Methods}
+
+In this study, we implemented a reinforcement learning approach to play the game of Pac-Man using several variants of Deep Q-Learning Networks. Our implementation spans multiple experiments with increasing complexity, focusing on both traditional state representations and image-based learning. We built a modular codebase that allowed us to systematically test different algorithmic improvements to the standard DQN approach.
+
+\subsection{Experimental Setup}
+
+We utilized the ALE (Arcade Learning Environment) interface via the Gymnasium library to create our Pac-Man environments. Two primary environment types were used: (1) a RAM-based state representation (MsPacman-ram-v5) where the agent learns from the game's memory state, and (2) an image-based representation (MsPacman-v5) where the agent learns directly from pixel data, requiring additional CNN architectures to process visual information.
+
+Our experiments are organized in four main directories, each representing a different model and state representation:
+\begin{itemize}
+  \item \textbf{exp\_1}: Standard DQN using RAM state representation. The implementation can be found at \url{https://github.com/Nickanda/neuro140/blob/main/exp_1/final_version_v1.py}.
+  \item \textbf{exp\_2}: Categorical DQN with Double DQN improvements using RAM state representation. The implementation can be found at \url{https://github.com/Nickanda/neuro140/blob/main/exp_2/final_version_v2.py}.
+  \item \textbf{cnn\_exp1}: Standard DQN using image-based representation with convolutional neural networks. The implementation can be found at \url{https://github.com/Nickanda/neuro140/blob/main/cnn_exp1/final_version_v1.py}.
+  \item \textbf{cnn\_exp2}: Categorical Double DQN using image-based representation with convolutional neural networks. The implementation can be found at \url{https://github.com/Nickanda/neuro140/blob/main/cnn_exp2/final_version_v2.py}.
+\end{itemize}
+
+\subsection{Model Architectures and Algorithms}
+
+\subsubsection{Standard DQN (Baseline)}
+
+Our baseline implementation uses a standard Deep Q-Network with the following key components:
+\begin{itemize}
+  \item Neural Network: A feedforward network with three hidden layers of 128 neurons each for RAM-based input, or a CNN architecture for image-based input.
+  \item Experience Replay: A memory buffer storing past experiences, enabling the agent to learn from historical state transitions.
+  \item Target Network: A separate network used to calculate target Q-values, updated periodically to stabilize learning.
+  \item Epsilon-Greedy Policy: A simple exploration strategy that balances random exploration with exploitation of learned policies.
+\end{itemize}
+
+The standard DQN algorithm approximates the Q-value function, which estimates the expected future rewards for each action at a given state. During training, the agent selects actions based on these Q-values, with an epsilon probability of choosing a random action to ensure exploration.
+
+\subsubsection{Double DQN}
+
+To address the overestimation bias in standard DQN, we implemented Double DQN, which decouples action selection from action evaluation. In our implementation (found in exp\_2 and cnn\_exp2), we:
+\begin{itemize}
+  \item Use the online network to select the best next action
+  \item Use the target network to evaluate the value of that action
+\end{itemize}
+
+This approach reduces the tendency to overestimate Q-values, leading to more stable learning and potentially better policies.
+
+\subsubsection{Categorical DQN}
+
+We further extended our implementation to include Categorical DQN (also known as C51), which represents the value distribution rather than just the expected value. This approach, implemented in \url{https://github.com/Nickanda/neuro140/blob/main/exp_2/final_version_v2.py} and \url{https://github.com/Nickanda/neuro140/blob/main/cnn_exp2/final_version_v2.py}, includes:
+\begin{itemize}
+  \item A discrete support for the value distribution with 51 atoms
+  \item A neural network that outputs a probability distribution over these atoms for each action
+  \item A softmax activation in the output layer to ensure valid probability distributions
+  \item A projection step to align the target distribution with the fixed support during learning
+\end{itemize}
+
+By modeling the full distribution of possible returns, Categorical DQN captures the uncertainty and multimodality in reward structures, potentially leading to improved performance in environments with complex reward dynamics.
+
+\subsection{Training and Evaluation}
+
+Each model was trained for up to 2,100 episodes, with the following hyperparameters:
+\begin{itemize}
+  \item Discount factor (gamma): 0.99
+  \item Learning rate: 0.000001
+  \item Epsilon decay: 0.999998
+  \item Minimum epsilon: 0.1
+  \item Batch size: 64
+  \item Target network update frequency: Every 10 updates
+\end{itemize}
+
+During training, we tracked the agent's performance using several metrics:
+\begin{itemize}
+  \item Episode score (total reward accumulated)
+  \item Epsilon value (exploration rate)
+  \item Learning progress over time
+\end{itemize}
+
+Model weights were saved periodically (every 25 episodes) to capture the agent's learning progress, allowing us to later analyze how the agent improved over time and compare the learning efficiency across different model architectures. We visualized learning curves using Matplotlib, which can be found in the respective experiment directories.
+
+\subsection{Experimental Variations}
+
+To test our hypothesis about whether a DQN trained on standard ghost behavior can adapt to modified ghost behavior, we implemented several variations in our experimental setup:
+\begin{itemize}
+  \item Training on standard ghost behavior and testing on modified behaviors
+  \item Comparing the performance of different DQN variants on the same ghost behavior modifications
+  \item Analyzing the adaptation capabilities of image-based versus RAM-based state representations
+\end{itemize}
+
+We specifically investigated how the distributional approach of Categorical DQN combined with the Double DQN's action selection mechanism affects the agent's adaptability to new ghost behaviors compared to the standard DQN implementation.
+
+\section{Results}
+
+In this section, we present the results of our experiments with different DQN variants in the Pac-Man environment, focusing on their performance and adaptability to changing ghost behaviors.
+
+\subsection{Performance Comparison}
+
+We trained both the standard DQN (exp\_1) and the improved Categorical Double DQN (exp\_2) models for 2,100 episodes and analyzed their performance across multiple trials. Figures \ref{fig:standard_dqn} and \ref{fig:cat_double_dqn} show the learning curves for both models.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{../exp_1/images/score_analysis.png}
+  \caption{Learning curve for Standard DQN (exp\_1). The plot shows the score progression over episodes, with multiple trials and the mean performance with standard deviation bands.}
+  \label{fig:standard_dqn}
+\end{figure}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.8\textwidth]{../exp_2/images/score_analysis.png}
+  \caption{Learning curve for Categorical Double DQN (exp\_2). The plot shows the score progression over episodes, with multiple trials and the mean performance with standard deviation bands.}
+  \label{fig:cat_double_dqn}
+\end{figure}
+
+Our analysis revealed several key findings:
+
+\begin{itemize}
+  \item \textbf{Average Score}: The Categorical Double DQN achieved a higher average score (approximately 520 points) compared to the standard DQN (approximately 450 points), representing a 15.5\% improvement.
+
+  \item \textbf{Maximum Score}: The improved model reached a maximum score of approximately 1,500 points, which is significantly higher than the standard DQN's maximum score of around 950 points.
+
+  \item \textbf{Learning Stability}: The learning curve for the Categorical Double DQN shows more consistent improvement over time, with smaller fluctuations in performance compared to the standard DQN. This suggests that the distributional approach combined with double Q-learning provides more stable learning.
+
+  \item \textbf{Learning Efficiency}: The improved model reached higher performance levels earlier in the training process, demonstrating better sample efficiency.
+\end{itemize}
+
+The standard deviation in scores was also lower for the Categorical Double DQN model, indicating more consistent performance across episodes. This suggests that the distributional approach helps the agent develop more robust policies that perform well across various game states.
+
+\subsection{Ghost Behavior Adaptation}
+
+
+
+\section{Discussion}
+
+
+
+\section{Next Steps}
+Do not change any aspects of the formatting parameters in the style files.
+In particular, do not modify the width or length of the rectangle the text
+should fit into, and do not change font sizes (except perhaps in the
+\textsc{References} section; see below). Please note that pages should be
+numbered.
+
+\bibliography{iclr2021_conference}
+\bibliographystyle{iclr2021_conference}
+
+\appendix
+\section{Appendix}
+You may include other additional sections here.
+
+\end{document}
