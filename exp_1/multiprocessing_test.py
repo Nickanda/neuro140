@@ -106,7 +106,7 @@ def run_test_episode(episode_id):
         weights_path = "./weights/trial_v1_01.weights.h5"
 
         # Initialize environment
-        env = gym.make("ALE/MsPacman-ram-v5")
+        env = gym.make("ALE/MsPacman-ram-v5", mode=3)
         state_tuple = env.reset()
         action_size = env.action_space.n
         state_size = env.observation_space.shape[0]
@@ -171,7 +171,7 @@ def run_test_episode(episode_id):
 def main():
     """Main function to run the multiprocessing test without saving"""
     # Number of test episodes
-    num_episodes = 100  # Reduced from 2000 to run faster since we're just testing
+    num_episodes = 2000  # Reduced from 2000 to run faster since we're just testing
 
     # Get number of CPUs for multiprocessing
     num_processes = min(mp.cpu_count(), 8)  # Limit to 8 to avoid overwhelming system
@@ -213,6 +213,8 @@ def main():
         avg_score = sum(scores) / len(scores)
         min_score = min(scores)
         max_score = max(scores)
+        for score in scores:
+            print(score)
         print(
             f"Results - Avg score: {avg_score:.2f}, Min: {min_score}, Max: {max_score}"
         )

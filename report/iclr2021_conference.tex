@@ -109,18 +109,16 @@ C51 represents the value distribution using a fixed set of $N$ atoms $\{z_i\}_{i
 
 \section{Methods}
 
-In this study, we implemented a reinforcement learning approach to play the game of Pac-Man using several variants of Deep Q-Learning Networks. Our implementation spans multiple experiments with increasing complexity, focusing on both traditional state representations and image-based learning. We built a modular codebase that allowed us to systematically test different algorithmic improvements to the standard DQN approach.
+In this study, we implemented a reinforcement learning approach to play the game of Pac-Man using several variants of Deep Q-Learning Networks. Our implementation spans multiple experiments with increasing complexity. We built a modular codebase that allowed us to systematically test different algorithmic improvements to the standard DQN approach.
 
 \subsection{Experimental Setup}
 
-We utilized the ALE (Arcade Learning Environment) interface via the Gymnasium library to create our Pac-Man environments. Two primary environment types were used: (1) a RAM-based state representation (MsPacman-ram-v5) where the agent learns from the game's memory state, and (2) an image-based representation (MsPacman-v5) where the agent learns directly from pixel data, requiring additional CNN architectures to process visual information.
+We utilized the ALE (Arcade Learning Environment) interface via the Gymnasium library to create our Pac-Man environments. We used the RAM-based state representation (MsPacman-ram-v5) where the agent learns from the game's memory state.
 
-Our experiments are organized in four main directories, each representing a different model and state representation:
+Our experiments are organized in two main directories, each representing a different model:
 \begin{itemize}
   \item \textbf{exp\_1}: Standard DQN using RAM state representation. The implementation can be found at \url{https://github.com/Nickanda/neuro140/blob/main/exp_1/final_version_v1.py}.
   \item \textbf{exp\_2}: Categorical DQN with Double DQN improvements using RAM state representation. The implementation can be found at \url{https://github.com/Nickanda/neuro140/blob/main/exp_2/final_version_v2.py}.
-  \item \textbf{cnn\_exp1}: Standard DQN using image-based representation with convolutional neural networks. The implementation can be found at \url{https://github.com/Nickanda/neuro140/blob/main/cnn_exp1/final_version_v1.py}.
-  \item \textbf{cnn\_exp2}: Categorical Double DQN using image-based representation with convolutional neural networks. The implementation can be found at \url{https://github.com/Nickanda/neuro140/blob/main/cnn_exp2/final_version_v2.py}.
 \end{itemize}
 
 \subsection{Model Architectures and Algorithms}
@@ -129,7 +127,7 @@ Our experiments are organized in four main directories, each representing a diff
 
 Our baseline implementation uses a standard Deep Q-Network with the following key components:
 \begin{itemize}
-  \item Neural Network: A feedforward network with three hidden layers of 128 neurons each for RAM-based input, or a CNN architecture for image-based input.
+  \item Neural Network: A feedforward network with three hidden layers of 128 neurons each for RAM-based input.
   \item Experience Replay: A memory buffer storing past experiences, enabling the agent to learn from historical state transitions.
   \item Target Network: A separate network used to calculate target Q-values, updated periodically to stabilize learning.
   \item Epsilon-Greedy Policy: A simple exploration strategy that balances random exploration with exploitation of learned policies.
@@ -139,7 +137,7 @@ The standard DQN algorithm approximates the Q-value function, which estimates th
 
 \subsubsection{Double DQN}
 
-To address the overestimation bias in standard DQN, we implemented Double DQN, which decouples action selection from action evaluation. In our implementation (found in exp\_2 and cnn\_exp2), we:
+To address the overestimation bias in standard DQN, we implemented Double DQN, which decouples action selection from action evaluation. In our implementation (found in exp\_2), we:
 \begin{itemize}
   \item Use the online network to select the best next action
   \item Use the target network to evaluate the value of that action
@@ -149,7 +147,7 @@ This approach reduces the tendency to overestimate Q-values, leading to more sta
 
 \subsubsection{Categorical DQN}
 
-We further extended our implementation to include Categorical DQN (also known as C51), which represents the value distribution rather than just the expected value. This approach, implemented in \url{https://github.com/Nickanda/neuro140/blob/main/exp_2/final_version_v2.py} and \url{https://github.com/Nickanda/neuro140/blob/main/cnn_exp2/final_version_v2.py}, includes:
+We further extended our implementation to include Categorical DQN (also known as C51), which represents the value distribution rather than just the expected value. This approach, implemented in \url{https://github.com/Nickanda/neuro140/blob/main/exp_2/final_version_v2.py}, includes:
 \begin{itemize}
   \item A discrete support for the value distribution with 51 atoms
   \item A neural network that outputs a probability distribution over these atoms for each action
@@ -186,7 +184,6 @@ To test our hypothesis about whether a DQN trained on standard ghost behavior ca
 \begin{itemize}
   \item Training on standard ghost behavior and testing on modified behaviors
   \item Comparing the performance of different DQN variants on the same ghost behavior modifications
-  \item Analyzing the adaptation capabilities of image-based versus RAM-based state representations
 \end{itemize}
 
 We specifically investigated how the distributional approach of Categorical DQN combined with the Double DQN's action selection mechanism affects the agent's adaptability to new ghost behaviors compared to the standard DQN implementation.
@@ -229,24 +226,88 @@ The standard deviation in scores was also lower for the Categorical Double DQN m
 
 \subsection{Ghost Behavior Adaptation}
 
+To evaluate the adaptability of our models to different ghost behaviors, we tested both the standard DQN and the Categorical Double DQN on environments with modified ghost behavior patterns. We categorized the ghost behaviors into two types:
+
+\begin{itemize}
+  \item \textbf{Easy}: Ghosts with more predictable movement patterns and less aggressive pursuit strategies.
+  \item \textbf{Hard}: Ghosts with more complex, aggressive behavior that actively target Pac-Man with better pathfinding algorithms.
+\end{itemize}
+
+Figure \ref{tab:ghost_adaptation} shows the performance of both models across the different ghost behavior settings.
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|l|c|c|c|c|}
+    \hline
+    \textbf{Model}         & \textbf{Environment} & \textbf{Avg. Score} & \textbf{Min Score} & \textbf{Max Score} \\
+    \hline
+    Standard DQN           & Easy                 & 519.25              & 120.0              & 2650.0             \\
+    Standard DQN           & Hard                 & 122.33              & 60.0               & 1010.0             \\
+    \hline
+    Categorical Double DQN & Easy                 & 694.88              & 130.0              & 3750.0             \\
+    Categorical Double DQN & Hard                 & 195.30              & 60.0               & 3210.0             \\
+    \hline
+  \end{tabular}
+  \caption{Performance comparison of Standard DQN and Categorical Double DQN models across different ghost behavior patterns}
+  \label{tab:ghost_adaptation}
+\end{table}
+
+Our analysis revealed several key observations regarding the models' adaptation capabilities:
+
+\begin{itemize}
+  \item \textbf{Performance Degradation}: Both models experienced significant performance drops when transitioning from easy to hard ghost behaviors. The standard DQN's average score decreased by 76.4\% (from 519.25 to 122.33), while the Categorical Double DQN's average score decreased by 71.9\% (from 694.88 to 195.30).
+
+  \item \textbf{Relative Advantage}: The Categorical Double DQN maintained its performance advantage over the standard DQN across both environments. In the easy environment, it outperformed the standard DQN by 33.8\%, and in the hard environment, the advantage increased to 59.6\%.
+
+  \item \textbf{Robustness}: The Categorical Double DQN showed greater robustness to environmental changes, as evidenced by both its higher average scores and its ability to achieve substantially higher maximum scores in both environments. Most notably, in the hard environment, the Categorical Double DQN reached a maximum score of 3210.0, which is more than three times the maximum score achieved by the standard DQN (1010.0).
+
+  \item \textbf{Minimum Performance}: Both models had similar minimum scores across environments, suggesting that even advanced algorithms can struggle in particularly challenging game states.
+\end{itemize}
+
+These results suggest that the distributional approach combined with double Q-learning not only improves overall performance but also enhances the agent's ability to adapt to more challenging and unfamiliar ghost behaviors. The maintained performance advantage in harder environments indicates that the Categorical Double DQN develops more generalizable policies that can better handle variations in opponent behavior.
 
 
 \section{Discussion}
 
+Our experiments with standard DQN and Categorical Double DQN models in the Pac-Man environment provide key insights into reinforcement learning algorithms' capabilities when faced with changing environments.
 
+The consistent performance advantage of the Categorical Double DQN (15.5\% improvement in average score and significantly higher maximum scores) aligns with previous findings on distributional approaches \cite{bellemare2017distributional}. This improvement likely stems from three key mechanisms: (1) enhanced risk-awareness through modeling outcome distributions rather than just expected values, (2) reduced overestimation bias via the Double DQN mechanism, and (3) improved state space exploration by capturing return uncertainty. The lower standard deviation in performance further indicates that distributional approaches produce more consistent and reliable policies.
+
+Our ghost behavior adaptation experiments revealed that while both models experienced substantial performance drops when transitioning to harder environments (76.4\% decrease for standard DQN, 71.9\% for Categorical Double DQN), the Categorical Double DQN maintained and even increased its relative advantage (from 33.8\% in easy environments to 59.6\% in hard ones). Most notably, its maximum score in the hard environment (3210.0) was more than triple that of the standard DQN (1010.0), demonstrating superior capability to discover effective strategies in challenging scenarios.
+
+From a cognitive perspective, our results parallel human learning patterns: initial steep improvement curves followed by gradual progress, difficulty transferring skills to more challenging environments, and performance variability across trials. The superior adaptability of the Categorical Double DQN resembles how humans with robust mental models better adapt to changing task parameters.
+
+Our study has several limitations: the use of RAM-based representations rather than pixel inputs, limited environmental variations beyond ghost behaviors, finite training duration (2,100 episodes), and fixed hyper-parameters for each model.
+
+Beyond Pac-Man, these findings have broader implications for reinforcement learning applications in dynamic environments, safety-critical systems requiring reliable behavior, and scenarios where sample efficiency is crucial. Our results support the hypothesis that advanced DQN variants develop more robust, adaptable policies—essential for artificial agents operating in unpredictable real-world environments.
 
 \section{Next Steps}
-Do not change any aspects of the formatting parameters in the style files.
-In particular, do not modify the width or length of the rectangle the text
-should fit into, and do not change font sizes (except perhaps in the
-\textsc{References} section; see below). Please note that pages should be
-numbered.
+
+Building upon the promising results of our current study, several directions for future research could further enhance our understanding of reinforcement learning in dynamic environments and improve the adaptability of agents in Pac-Man and similar domains:
+
+\subsection{Algorithm Enhancements}
+
+\begin{itemize}
+  \item \textbf{Full Rainbow Implementation}: Integrate the remaining components of Rainbow DQN, including prioritized experience replay, multi-step learning, and noisy networks, to potentially achieve even better performance and adaptability.
+
+  \item \textbf{Alternate Distributional Approaches}: Explore other distributional reinforcement learning methods such as Quantile Regression DQN (QR-DQN) or Implicit Quantile Networks (IQN), which might offer different advantages in capturing return distributions.
+
+  \item \textbf{Meta-Learning}: Implement meta-learning approaches that explicitly optimize for fast adaptation to new environments, potentially enabling more rapid adjustment to changes in ghost behavior.
+\end{itemize}
+
+\subsection{Technical Improvements}
+
+\begin{itemize}
+  \item \textbf{Hyperparameter Optimization}: Conduct systematic hyperparameter tuning using Bayesian optimization or other advanced methods to find optimal settings for each algorithm.
+
+  \item \textbf{Computational Efficiency}: Optimize implementation to reduce training time, enabling longer training periods and more comprehensive experiments across a wider range of conditions.
+
+  \item \textbf{Transfer Learning}: Explore whether pre-training on standard ghost behaviors can accelerate adaptation to new ghost behaviors through fine-tuning approaches.
+\end{itemize}
+
+These future directions would extend our current findings and contribute to the broader goal of developing reinforcement learning agents that can robustly adapt to changing environments, a capability essential for real-world applications beyond game-playing domains.
 
 \bibliography{iclr2021_conference}
 \bibliographystyle{iclr2021_conference}
-
-\appendix
-\section{Appendix}
-You may include other additional sections here.
 
 \end{document}
